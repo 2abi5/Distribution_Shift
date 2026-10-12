@@ -1,0 +1,6 @@
+mitigation,studies,median,Q1,Q3,CI_lo,CI_hi
+UDA,15,0.385,0.063,0.503,0.086,0.529
+DG / augmentation,14,0.528,0.264,0.710,0.262,0.713
+target fine-tuning,14,0.962,0.781,1.135,0.761,1.127
+pretraining / SSL,4,0.354,0.280,0.432,0.261,0.465
+other,4,0.223,0.167,0.293,0.138,0.364

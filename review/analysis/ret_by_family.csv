@@ -1,0 +1,6 @@
+model family,studies,median,Q1,Q3,CI_lo,CI_hi
+convolutional,117,0.740,0.548,0.925,0.698,0.818
+transformer / attention,52,0.762,0.578,0.910,0.662,0.881
+classical ML,36,0.962,0.889,0.994,0.902,0.987
+"other deep learning (MLP, DNN, unspecified)",23,0.887,0.721,0.926,0.768,0.916
+recurrent,7,0.884,0.641,0.959,0.562,0.976

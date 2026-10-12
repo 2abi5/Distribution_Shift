@@ -1,0 +1,5 @@
+modality,studies,median,Q1,Q3,CI_lo,CI_hi
+proximal RGB,80,0.692,0.513,0.855,0.624,0.762
+satellite / airborne,72,0.921,0.785,0.979,0.883,0.955
+UAV,30,0.891,0.666,0.948,0.715,0.940
+proximal spectral,7,0.898,0.745,0.969,0.733,0.990

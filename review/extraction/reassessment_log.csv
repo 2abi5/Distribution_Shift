@@ -1,0 +1,322 @@
+rid,date,previous_decision,new_decision,full_text_source,what_changed
+R00595,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.1080/17538947.2022.2036832,"Full text: the abstract's 'F1' values are overall accuracy (Table 5); ID is the 30% held-out validation of 2018 and 2019; Nebraska is a separate retrained application with different classes, not a transfer."
+R02818,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/app16073598,Full text confirms abstract values for KNN and adds XGB; labels are FCM-derived typologies; hyperparameters tuned by k-fold CV on training data.
+R00534,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.1109/jstars.2025.3604524,"Full text (tables not in the page text): adds matched location-transfer comparisons from the text (Table IX, 2015, 1 km, county labels); the abstract's resolution comparison mixes test years and is flagged as derived."
+R00605,2026-10-02,INCLUDE-A,EXCLUDE/I2,europepmc:PMC13171958,"Full text: the three datasets have different label sets (Dataverse: healthy, MLB, MSV; Tanzania: healthy, MLN, MSV; Plagues Maiz: 16 microbial subclasses) and cross-dataset accuracy is reported without a stated common subset."
+R00529,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.1007/s11119-022-09986-0,"Full text (Tables 3 and 4): the abstract paired the RF lab accuracy with the SVM field accuracy; same-model pairs extracted for RF and SVM, full spectrum and four broad bands."
+R00747,2026-10-02,INCLUDE-A,INCLUDE,https://ieeexplore.ieee.org/ielx7/4609443/4609444/10506557.pdf,"Full text (Tables VI-VIII): six models with ID (Zhoukou test) and zero-shot OOD (Suixian) OA plus a Suixian-trained oracle; the abstract's 96.11% is CEGCN's oracle OA, GCFC's own cross-domain OA is 96.61%."
+R02374,2026-10-02,INCLUDE-A,EXCLUDE/E5,https://doi.org/10.1080/23311932.2026.2712685,"Full text: the field dataset (banana, chili pepper, radish, peanut, cauliflower) shares no crop-disease classes with PlantVillage, and the 55.18% direct-transfer value is quoted from earlier work without a design."
+R02488,2026-10-02,INCLUDE-A,INCLUDE,europepmc:PMC13439456,Full text (Tables 8 and 11): exact zero-shot value 39.72%; fine-tuning 96.21% (5 seeds) and supervised contrastive fine-tuning 97.24%; the abstract's 97% was the contrastive value.
+R02950,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/rs18183137,"Full text (Tables 5 and 6): abstract values confirmed for BO-RF; RF without optimisation, BO-SVM and BO-XGBoost added (the last two score higher in the target years than in the source year)."
+R03010,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/rs18070980,"Full text (Tables 4 and 6): values confirmed; U-Net baseline added; the cross-region test (Manasi 2020) also changes the year relative to training (Wei-Ku 2021), so it is a compound shift."
+R03478,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/f17091022,Full text (Tables 9 and 12): values confirmed; 2025 reference labels are carried over from 2023 polygons without field verification.
+R03620,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/rs18172961,Full text (Tables 2 and 5): abstract values confirmed for GUMatch; ten further models with ID (HA-P1) and external WX-P3 results added.
+R04471,2026-10-02,INCLUDE-A,EXCLUDE/I1,https://doi.org/10.3390/agronomy15061438,"Full text: the model is a set of expert-set NDVI/LSWI thresholds (Tables 2-3), and the paper states the thresholds were adjusted manually for other years; neither a trained model nor an unadapted transfer."
+R04887,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/agriculture16070782,Full text confirms the design: the same XGBoost specification under random CV (interpolation) and spatial leave-group-out CV (extrapolation to unseen regions).
+R05746,2026-10-02,INCLUDE-A,EXCLUDE/I2,https://doi.org/10.3390/agriculture14030476,"Full text (Section 2.3, Table 4): the abstract's validation accuracy is calibration accuracy on the samples that seeded the synthetic training set, not a held-out ID test; excluded under I2."
+R05809,2026-10-02,INCLUDE-A,INCLUDE,https://doi.org/10.3390/agriengineering6020106,"Full text (Table 1, Sections 3.3.1-3.3.6): abstract pairing corrected (0.973 is the DELEAFING model in its own greenhouse; 0.962 is the MIXED model in the other greenhouse); the cross-greenhouse test also changes camera, cultivar and year; six further comparisons added (cultivation system, daytime, GLOBAL_DS model)."
+R07395,2026-10-02,INCLUDE-A,INCLUDE,https://inass.org/wp-content/uploads/2026/05/2026083170-1.pdf,"Full text (Tables 5 and 7, Figure 4): abstract values confirmed; two re-implemented baselines and the reverse PlantDoc -> PlantVillage direction added."
+R00102,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,europepmc:PMC8167097,Full text: no source-only target result (Tables 1-5 report translated-image and pseudo-label models only).
+R00590,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,europepmc:PMC9513831,Full text: Tables 1-3 compare image-translation and pseudo-labelling variants only.
+R00604,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC13039305,"Full text (Tables 1-5, 23, 24): paired intra- and cross-dataset results on shared classes; values derived as mean per-class accuracy."
+R00606,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.1080/17538947.2023.2275657,"Full text (Tables 2 and 6): 'w/o transfer' is target-trained, 'w/' is fine-tuned; no source-only target result."
+R00647,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,europepmc:PMC8948195,Full text: no OOD classifier performance; canopy experiment reports correlations only.
+R00663,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1109/jstars.2025.3532283,"Full text (Section C, Tables VI-VII): framework re-applied, not a model transferred."
+R00755,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1080/15481603.2026.2626004,"Full text (Sections 3.1, 3.3): ID test F1 and end-of-season F1 in seven counties extracted; cross-year and baseline results are figure-only."
+R00844,2026-10-02,EXCLUDE/E4,EXCLUDE/E3,europepmc:PMC11266478,Full text (Tables 3-4): 'training set' and 'testing set' columns are within-year splits.
+R00961,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC12709998,"Full text (Tables 1-2): source-only, Baseline_t (ID and oracle) and MGA results extracted; style-transfer scenario is synthetic (E2) and omitted."
+R00988,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC10076054,"Full text (Experiment 1, Figure 12 text): ground-validation vs UAV-test mAP reported in text."
+R01040,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,europepmc:PMC13112643,Full text: PoY and PoSY are both out-of-environment tests; values only as ranges and in Supplementary Table S4.
+R01087,2026-10-02,EXCLUDE/E4,EXCLUDE/E5,europepmc:PMC13039964,Full text (Tables 4 and 7): 'cross-dataset' results are fine-tuned on the target's disjoint label set.
+R01112,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1109/access.2025.3615739,Full text (Section IV): ID OA (level 1 and 2) and seven transfer results extracted.
+R01182,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1109/jstars.2025.3573750,Full text (Section IV.B): province-level UA and PA reported; F1 derived.
+R01189,2026-10-02,EXCLUDE/E4,EXCLUDE/E5,europepmc:PMC12749937,Full text (Table 8 and text): target label sets disjoint from training classes.
+R01235,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC11543947,Full text (Tables 1-2): ID and OOD accuracies with SD over 5 replications.
+R01403,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1109/access.2026.3672401,"Full text (Tables 7-9, Figures 11-13): per-dataset retraining with different classes."
+R01432,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://arxiv.org/pdf/2504.11022,Full text (Tables 4-6): all results are few-shot fine-tuned on the target.
+R01524,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1007/s11540-026-10063-6,"Full text (Tables 1, 4, 6, 11): paired same-dataset and cross-dataset accuracies."
+R01544,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1080/01431161.2025.2527988,"Full text (Tables 6-7, HTML): ID and cross-year OA for three models; earlier abstract note was wrong that no training-year test was reported."
+R01741,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.1080/22797254.2022.2073916,"Full text: eligible, but paired values only in figures."
+R01838,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://ttu-ir.tdl.org/server/api/core/bitstreams/b9dfa702-aa0c-4447-a7d1-01e6cefbc169/content,"Full text: eligible, OOD values for the matching design only in a figure."
+R01884,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1080/15481603.2026.2671603,"Full text (Section 4.1, Figure 8 description): ID and transferred R2 for the height model."
+R01997,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,europepmc:PMC13447843,Full text (Tables 6-7): cross-domain results without a reported common label set.
+R02057,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1007/s11119-026-10454-2,Full text (Tables 2 and 4 via the publisher's table pages): same-season and next-season RMSE for the same calibration.
+R02113,2026-10-02,EXCLUDE/E4,EXCLUDE/E5,https://doi.org/10.1007/s12559-025-10488-0,Full text (Tables 4-8): OoD = unseen classes.
+R02182,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.1109/jstars.2026.3682277,"Full text (Table IV, Section IV.E): only adapted and locally trained results."
+R02235,2026-10-02,EXCLUDE/E4,EXCLUDE/E3,https://doi.org/10.1109/jstars.2026.3702608,Full text: random field-level splits across pooled seasons.
+R02287,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.1109/jstars.2026.3704500,"Full text: eligible, paired values only in figures."
+R02322,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC12865012,"Full text (Tables 4, 7, 12): within- and cross-dataset accuracies."
+R02348,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1007/s11119-026-10428-4,Full text (Tables 6 and 8 via publisher table pages): matching stage-model combinations paired.
+R02492,2026-10-02,EXCLUDE/E4,EXCLUDE/E5,https://doi.org/10.3390/agronomy16161544,Full text (Table 12): target label sets differ from training labels.
+R02524,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1007/s43621-026-03598-8,Full text (Table 6): within-season CV vs cross-season RMSE.
+R02526,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.20944/preprints202608.0602.v1,"Full text: eligible, inter-site values not in text or tables."
+R02552,2026-10-02,EXCLUDE/E4,EXCLUDE/E3,https://doi.org/10.3390/ai7080278,Full text: random split of pooled controlled and field images.
+R02665,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1080/01431161.2026.2612904,Full text (Tables 4 and 7): training-site and unseen-region RMSE for six input sets and three models.
+R02837,2026-10-02,EXCLUDE/E4,EXCLUDE/E4,https://doi.org/10.20944/preprints202609.1678.v1,Full text: review article.
+R02889,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,europepmc:PMC13211083,Full text: cross-dataset result without a reported common label set.
+R02992,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/app15189947,"Full text (Figure 8, Tables 2-3): OOD results only."
+R03005,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1080/10095020.2026.2624280,"Full text (Section 3.4, Table 5): Site 1 and Site 2 R2 stated for the best model."
+R03156,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.1109/jstars.2026.3720556,"Full text: eligible, paired values only in Fig. 5-6."
+R03253,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/app16073177,Full text: per-dataset training; no OOD test of the same model.
+R03393,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/rs18111828,Full text: per-region training and validation.
+R03534,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/agriengineering8090392,Full text (Tables 4 and 9): CV R2 and cross-season R2 for three feature sets and four models.
+R03664,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC13610689,Full text: within-year and cross-year RMSE stated in text.
+R03738,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/agriculture16060664,Full text (Tables 3-8): in-band and cross-band mAP50 for 3 models x 20 band pairs.
+R03763,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.1109/lgrs.2026.3693043,"Full text: cross-year values in text, matching within-year values only in a figure."
+R03810,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.1109/access.2026.3734726,Full text: target-trained linear probe.
+R03747,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/agronomy16070763,Full text (Table 3): random vs field-wise validation for four models.
+R03896,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/agriculture16020191,"Full text (Tables 12-13): ID values are training accuracy, not a held-out test."
+R04464,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/rs18132149,Full text: same-year and cross-year accuracies tabulated.
+R04498,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.1109/access.2026.3703440,Full text: paired values not recoverable from the retrieved text.
+R04539,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/rs18172857,"Full text (Tables 3-4): source reference, zero-shot, target-only and adapted IoU."
+R04698,2026-10-02,EXCLUDE/E4,FIG/I2-fig,https://doi.org/10.3390/rs18152502,Full text: OOD values described only qualitatively in text.
+R04910,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,europepmc:PMC12709961,Full text: few-shot evaluation with target support sets.
+R04965,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC12020128,Full text (Tables 1-2): baseline and full-model mAP50 in both environments.
+R04986,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1109/jstars.2024.3497653,Full text (Tables III-VII): only transferred-map accuracies.
+R05137,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/agronomy16121156,Full text (Table 2): in-domain and cross-dataset mAP50.
+R05332,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1007/978-3-030-13469-3_9,Full text: OOD-only transfer accuracies.
+R05344,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/rs14194915,Full text (Tables 3-4): no ID or oracle value.
+R05438,2026-10-02,EXCLUDE/E4,EXCLUDE/E4,https://doi.org/10.1109/access.2026.3651737,Full text retrieved without its result tables; added to the manual retrieval list.
+R05478,2026-10-02,EXCLUDE/E4,EXCLUDE/E4,https://doi.org/10.1109/access.2026.3723880,Full text retrieved without its result tables; added to the manual retrieval list.
+R05585,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1080/10095020.2024.2416897,Full text (Table 3): OOD-only results.
+R05654,2026-10-02,EXCLUDE/E4,FIG/I2-fig,europepmc:PMC12709990,Full text: cross-year values for the KGCNN model only in a figure.
+R05681,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/rs16081464,Full text (Tables 1-2): source- and target-domain OA for three models and three input sets.
+R05720,2026-10-02,EXCLUDE/E4,EXCLUDE/E3,https://doi.org/10.3390/rs13010103,"Full text (Section 3, Tables 3-7): training and evaluation regions coincide."
+R05772,2026-10-02,EXCLUDE/E4,EXCLUDE/I1,europepmc:PMC13519648,Full text: dataset description only.
+R05815,2026-10-02,EXCLUDE/E4,INCLUDE-O,https://doi.org/10.3390/rs17223762,"Full text (Table 1): source-only, adapted and target-only results on the target domain."
+R05939,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/agronomy16141370,Full text (Tables 1-2): ID validation and OOD test mAP on the official split.
+R06158,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.3390/land15060932,Full text (Table 6): target labels used in all transfer results.
+R06281,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,europepmc:PMC12788353,Full text (Tables 2-5): per-dataset training.
+R06319,2026-10-02,EXCLUDE/E4,INCLUDE-O,europepmc:PMC8541592,"Full text (Table 4): source-only, adapted and target-supervised counting errors."
+R06351,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.3390/agriculture14091511,Full text (Tables 6-8): no unadapted transfer.
+R06374,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/horticulturae12040486,Full text (Tables 7-8): in-domain and cross-scenario accuracy.
+R06392,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,https://doi.org/10.1080/15481603.2024.2319939,Full text (Tables 4-8): adapted results only.
+R06540,2026-10-02,EXCLUDE/E4,EXCLUDE/I3,europepmc:PMC12944063,Full text: no source-only field result.
+R06709,2026-10-02,EXCLUDE/E4,EXCLUDE/E2,https://doi.org/10.3390/electronics15081762,"Full text (Tables 3-4, 12): synthetic shadow shift."
+R06748,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/app15137056,Full text (Table 2): ID validation and OOD test metrics for four training schemes at two scales.
+R06754,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.1080/07038992.2024.2367479,Full text (Tables 3-5): OOD-only results.
+R06765,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.3390/rs18183210,Full text (Table 3): yearly OA for four models; ID taken as the training-year mean.
+R06778,2026-10-02,EXCLUDE/E4,EXCLUDE/I1,europepmc:PMC12647907,Full text: task is crop species classification.
+R06898,2026-10-02,EXCLUDE/E4,EXCLUDE/I2,https://doi.org/10.3390/app16073520,Full text (Table 6): OOD-only results.
+R06899,2026-10-02,EXCLUDE/E4,INCLUDE,https://doi.org/10.1007/978-3-030-93420-0_14,"Full text (Tables 1-2 via publisher table pages): own-domain, source-only, adapted and target-trained F1."
+R07006,2026-10-02,EXCLUDE/E4,INCLUDE,europepmc:PMC10348660,Full text (Tables 4 and 6): same-year and cross-year accuracies.
+R07070,2026-10-02,EXCLUDE/E4,INCLUDE-O,https://doi.org/10.34133/remotesensing.0439,"Full text (Table 5): source-only, adapted and local results on the target region."
+R07087,2026-10-02,EXCLUDE/E4,EXCLUDE/E4,https://doi.org/10.5194/essd-2024-372,Retrieved copy lacks the result tables; added to the manual retrieval list.
+C00003,2026-10-02,(new record),EXCLUDE/E2,,"Chased record, full text: synthetic-to-real shift."
+C00008,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: paired values only in figures."
+C00011,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text: per-dataset retraining."
+C00012,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2): training RMSE vs future years only."
+C00013,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Table 2 and text): ID values are training accuracies."
+C00015,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 6-8): validation and two test-year F1 for lodging."
+C00016,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2, Figure 4): OOD-only evaluation."
+C00017,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 7): same-stage and cross-stage accuracies."
+C00018,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: OOD values only in a figure."
+C00020,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 2-3): per-cover-level mIoU for each training set."
+C00022,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 3-7)."
+C00023,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text: random splits only."
+C00025,2026-10-02,(new record),EXCLUDE/I1,,"Chased record, full text: non-crop species."
+C00026,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 1): ID and three OOD accuracies for three models."
+C00028,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 2-3)."
+C00029,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Table 3)."
+C00030,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00031,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 3-4)."
+C00033,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text."
+C00034,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 1): ID, unadapted, SPL and fine-tuned OA."
+C00035,2026-10-02,(new record),EXCLUDE/I1,,"Chased record, full text."
+C00036,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 1-3)."
+C00037,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Table 2): no same-metric OOD result."
+C00041,2026-10-02,(new record),INCLUDE,,"Chased record, full text: same-year and transferred OA."
+C00042,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 2-4): training-country and Netherlands OA."
+C00043,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 3 and 6): Bihar and Uttar Pradesh detection F1."
+C00044,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text: OOD-only evaluation."
+C00045,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00047,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00048,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 5-8): in-domain and cross-domain accuracy for both models."
+C00051,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00054,2026-10-02,(new record),INCLUDE,,"Chased record, full text: micro F1 under conditions A, B and C."
+C00055,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 2 and 6)."
+C00056,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00057,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 4-5): year-by-year and cross-state main F1."
+C00058,2026-10-02,(new record),EXCLUDE/E4,,Retrieved copy lacks the result tables; added to the manual retrieval list.
+C00060,2026-10-02,(new record),EXCLUDE/E4,,Retrieved copy lacks the result table; added to the manual retrieval list.
+C00061,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: OOD values only in figures."
+C00064,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 7 and 9): CV and transferability RMSE."
+C00066,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text (Table 4)."
+C00067,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00068,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 2-3)."
+C00069,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Table 1)."
+C00073,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text (Tables 4-5)."
+C00074,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00075,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 1): train-year by test-year F1."
+C00076,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00077,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: values in figures."
+C00079,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 3 and 6): within-year CV and cross-year F1."
+C00080,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text (Table 2)."
+C00081,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 1-2)."
+C00086,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00087,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 6-8)."
+C00088,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: OOD values in a figure."
+C00089,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text."
+C00090,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text."
+C00095,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 1-6): within-stage and cross-stage mAP."
+C00092,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00093,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00096,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00097,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: OOD values in a figure."
+C00099,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2)."
+C00101,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text."
+C00102,2026-10-02,(new record),INCLUDE,,"Chased record, full text: closed- vs open-set F1 per disease."
+C00103,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 2): source, unadapted and adapted OA."
+C00107,2026-10-02,(new record),INCLUDE-O,,"Chased record, full text (Table 4): naive, transfer and local OA."
+C00112,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 3-4)."
+C00113,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00121,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00122,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00125,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 3-5)."
+C00130,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2)."
+C00136,2026-10-02,(new record),EXCLUDE/I1,,"Chased record, full text."
+C00137,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2)."
+C00138,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00139,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Table 3)."
+C00140,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text."
+C00141,2026-10-02,(new record),INCLUDE,,"Chased record, full text: 2024 test and 2023 cross-year OA."
+C00143,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: OOD values in figures."
+C00144,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text (Tables 1-2)."
+C00145,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text."
+C00146,2026-10-02,(new record),INCLUDE,,"Chased record, full text: validation and spatial test OA."
+C00147,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00148,2026-10-02,(new record),FIG/I2-fig,,"Chased record, full text: values in figures."
+C00149,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00151,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Table 5): zero-shot accuracy and in-domain drop for 26 models."
+C00150,2026-10-02,(new record),INCLUDE,,"Chased record, full text (Tables 3-4)."
+C00157,2026-10-02,(new record),INCLUDE,,"Chased record, full text (field-level IoU table)."
+C00156,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00159,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00160,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text (Tables 1-5)."
+C00164,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text."
+C00165,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00176,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text (Tables 5-6)."
+C00183,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text (Tables 3-4)."
+C00184,2026-10-02,(new record),EXCLUDE/I3,,"Chased record, full text."
+C00185,2026-10-02,(new record),EXCLUDE/E3,,"Chased record, full text."
+C00187,2026-10-02,(new record),EXCLUDE/E2,,"Chased record, full text."
+C00190,2026-10-02,(new record),EXCLUDE/I2,,"Chased record, full text."
+S00002,2026-10-02,(new record),FIG/I2-fig,europepmc:PMC7706323,Sentinel full text: OOD baseline values in a supplementary figure.
+S00003,2026-10-02,(new record),EXCLUDE/I2,europepmc:PMC8548052,Sentinel full text (Tables 2-3).
+C00001,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00002,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00005,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00006,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00007,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00010,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00014,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00019,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00021,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00024,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00027,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00032,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00038,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00039,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00040,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00046,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00049,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00050,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00052,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00053,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00059,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00062,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00063,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00065,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00070,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00071,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00072,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00078,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00082,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00083,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00084,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00085,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00091,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00094,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00098,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00100,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00104,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00105,2026-10-02,(new record),INCLUDE-A,,"Chased record, abstract only: paired lab and field accuracies."
+C00106,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00108,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00109,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00110,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00111,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00114,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00115,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00116,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00117,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00118,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00119,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00120,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00123,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00124,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00126,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00128,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00129,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00131,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00132,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00133,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00134,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00135,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00142,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00152,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00153,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00154,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00155,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00158,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00161,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00162,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00163,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00167,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00168,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00169,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00170,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00171,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00172,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00173,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00174,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00175,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00177,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00180,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00181,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00182,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00186,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00188,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00189,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00191,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00192,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00193,2026-10-02,(new record),EXCLUDE/E4,,"Chased record, abstract-level decision."
+C00194,2026-10-02,(new record),EXCLUDE/E2,,"Chased record, abstract only."
+R00427,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs15174156,Figure-only study digitised: Figure 11 prints the values on the bars.
+R00022,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs14061493,Figure-only study digitised from Figures 6-7.
+R00149,2026-10-02,FIG/I2-fig,INCLUDE-O,https://doi.org/10.3390/rs14184639,"Figure-only study digitised from Figure 12; no ID value, oracle available."
+R00061,2026-10-02,FIG/I2-fig,FIG/I2-fig,https://doi.org/10.3390/rs16040683,Checked Figure 4 for digitisation: correlation coefficient only.
+R00201,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs15164071,Figure-only study digitised from Figure 8.
+R00321,2026-10-02,FIG/I2-fig,FIG/I2-fig,https://doi.org/10.3390/rs16234548,"Checked Figure 14: transfer values only, no ID."
+R00376,2026-10-02,FIG/I2-fig,FIG/I2-fig,https://doi.org/10.3390/plants14213265,Checked Figure 11: OOD boxplots without matching ID values.
+R01298,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs18071065,Figure-only study digitised from Figures 10 and 12 with ID from Table A2.
+C00088,2026-10-02,FIG/I2-fig,INCLUDE,,Figure-only study digitised from Figure 7.
+C00008,2026-10-02,FIG/I2-fig,EXCLUDE/I2,,Checked Figure 6: OOD-only accuracies.
+C00097,2026-10-02,FIG/I2-fig,EXCLUDE/I2,,Checked Figure 8 and Table 2: ID and OOD belong to different models.
+C00077,2026-10-02,FIG/I2-fig,INCLUDE,,Figure-only study digitised from Figure 4.
+R00570,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs15092443,"Figure-only study digitised: ID from Figure 5c, OOD and fine-tuned values from text."
+C00061,2026-10-02,FIG/I2-fig,INCLUDE,,Figure-only study: summary statistics printed on Figures 9-10.
+C00018,2026-10-02,FIG/I2-fig,FIG/I2-fig,,Checked Figure 5: no summary statistics to read.
+R01663,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/agriculture15151638,Figure-only study: OOD values printed on Figure 15; ID range in text.
+R01481,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/rs16214081,"Figure-only study digitised: ID values printed in a heatmap, OOD bars calibrated against the ID bars with a check against three text-reported values."
+R00835,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.3390/s23157008,"Figure-only study: cross-year values printed on Figure 13 bars (sub-panels a-c), ID and oracle in Table 3."
+R02382,2026-10-02,FIG/I2-fig,INCLUDE,https://doi.org/10.1590/1983-40632026v5684508,Figure-only study digitised: CV-scheme comparison (random hold-out vs leave-one-season-out) read from Figure 3 RMSE bars.
+C00143,2026-10-02,FIG/I2-fig,EXCLUDE/I2,,Checked Figure 9 and Table 3: ID and OOD use different metrics and units of analysis.
+R01838,2026-10-02,FIG/I2-fig,INCLUDE,https://ttu-ir.tdl.org/server/api/core/bitstreams/b9dfa702-aa0c-4447-a7d1-01e6cefbc169/content,Figure values printed on the bars of Fig. 4 (read from a 300 dpi render); ID from Table 4 text layer.
+R02043,2026-10-02,FIG/I2-fig,INCLUDE,https://arxiv.org/pdf/2609.17138,Figure-only study: cross-year matrix values printed in the Figure 8 heatmap (read from a 300 dpi render).
+R01829,2026-10-02,FIG/I2-fig,INCLUDE,https://www.geodetski-vestnik.com/arhiv/70/2/268_Pandzic_at_al.pdf,Table 5 values recovered from the PDF text layer (previously missing from the retrieved text).
+R00487,2026-10-02,FIG/I2-fig,INCLUDE,https://isprs-archives.copernicus.org/articles/XLII-3-W6/585/2019/isprs-archives-XLII-3-W6-585-2019.pdf,"Tables 6-8 read from the PDF; Table 8 identified as the mean of Tables 6 and 7, so the UP-trained models' UP and Bihar accuracies form the pairs."
+R04681,2026-10-02,FIG/I2-fig,EXCLUDE/I2,https://arxiv.org/pdf/2310.01825,Checked Tables 1-3 in the PDF.
+R00095,2026-10-02,FIG/I2-fig,INCLUDE-O,https://arxiv.org/pdf/2109.01246,"Sentinel study digitised: oracle-referenced comparisons from Figures 6 and 9, checked against differences reported in the text."
+R01843,2026-10-02,FIG/I2-fig,INCLUDE,http://article.isciencegroup.com/pdf/j.cst.2023.04.006,Tables 1-2 recovered from the PDF text layer (missing from the earlier retrieved text).
+R01752,2026-10-02,FIG/I2-fig,INCLUDE,https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1720819/pdf,Figure 3 values printed on panels; Table 2 read from the PDF page image.

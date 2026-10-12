@@ -1,0 +1,26 @@
+# Build products and caches
+manuscript/build/
+__pycache__/
+*.pyc
+.DS_Store
+*.out
+out/
+
+# Full texts of the reviewed articles: copyrighted, kept local only (review/fulltext/retrieved.json lists the reports retrieved)
+review/fulltext/pdf/
+review/fulltext/txt/
+review/fulltext/html/
+review/fulltext/chrome-profile*/
+review/fulltext/retry/*.pdf
+review/fulltext/retry/*.html
+
+# LaTeX leftovers
+*.aux
+*.bbl
+*.blg
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+main.pdf
+refs/exemplars/

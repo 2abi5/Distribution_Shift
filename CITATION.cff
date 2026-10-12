@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the review and this archive."
+title: "Data and code for: How much performance do agricultural machine-learning models lose out of distribution? A systematic review and quantitative synthesis"
+authors:
+  - family-names: Pant
+    given-names: Abinash
+  - family-names: Mishra
+    given-names: Binayak Prakash
+version: v1.1
+date-released: 2026-10-12
+license: CC-BY-4.0
+keywords:
+  - distribution shift
+  - domain adaptation
+  - out-of-distribution generalisation
+  - deep learning
+  - precision agriculture
+  - systematic review
+  - digital agriculture
+repository-code: "https://github.com/2abi5/Distribution_Shift"
+# [AUTHOR DECISION] after the Zenodo upload add:  doi: 10.5281/zenodo.xxxxxxx

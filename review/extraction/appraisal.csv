@@ -1,0 +1,255 @@
+rid,Q1,Q2,Q3,Q4,Q5,Q6,code,note
+R00004,low,unclear,unclear,low,high,unclear,,single run; test sizes not stated in text
+R00015,low,unclear,low,low,high,high,,"data on request; s.d. across classes, not runs"
+R00056,low,unclear,low,low,high,unclear,,county-level; single run per year
+R00057,low,unclear,low,low,high,low,https://github.com/MrTalhaIlyas/ARUFE,target-test learning curves plotted; selection on target unclear
+R00073,low,low,low,low,unclear,low,https://github.com/Sina-Mohammadi/CropSupervision,early stopping on 5-fold split of training data
+R00082,low,low,low,low,high,low,https://github.com/ATDehkordi/Stack_ensemble_GEE,ID = held-out 2021 GT
+R00097,low,unclear,unclear,low,high,low,https://github.com/JunfengGaolab/weed-mapping-with-cross-domain-learning-,
+R00098,low,unclear,low,low,high,high,,oracle = lab+field training tested on field
+R00121,low,unclear,low,low,high,low,https://github.com/IyatomiLab/LeafGAN,
+R00131,low,unclear,unclear,low,high,low,https://github.com/Orion-AI-Lab/S4A,ID model trained on pooled data (CV-scheme comparison)
+R00177,low,high,unclear,low,low,low,https://github.com/cvar-upm/tropical_plant_counting_UDA,early stopping/hyperparameters use target validation data (stated limitation)
+R00206,low,unclear,low,low,low,unclear,,10 years summarised (mean/min/max)
+R00223,low,unclear,high,low,high,unclear,,test sets ~95-100 images
+R00259,low,high,low,low,low,low,https://github.com/jnyborg/timematch,UDA hyperparameters tuned on target validation labels of one task (DK1->FR1); source model selected on source validation
+R00275,low,unclear,unclear,low,high,low,https://github.com/agroimpacts/cnn-generalization-enhancement,small validation set (4 tiles per year)
+R00127,low,unclear,unclear,high,high,low,web dataset: https://doi.org/10.5281/zenodo.14051480,OOD retention >1: OOD test set easier than ID test set
+R00186,low,unclear,low,low,high,unclear,,ID and OOD on identical test grids
+R00200,low,unclear,low,low,high,unclear,,
+R00213,unclear,unclear,unclear,low,high,unclear,,OOD plots near training plots; OOD test size not stated
+R00227,low,unclear,low,low,high,unclear,,
+R00244,low,unclear,low,low,low,unclear,,"500 resampling runs, SD reported"
+R00301,low,unclear,low,low,high,unclear,,
+R00336,low,unclear,unclear,low,high,unclear,,
+R00346,low,unclear,low,low,high,low,https://github.com/hanzhu97702/ISPRS_STMA,
+R00401,low,unclear,low,low,low,unclear,,
+R00454,low,unclear,low,low,high,low,https://github.com/tselea/agrisen-cog,
+R00484,low,unclear,low,low,high,low,https://github.com/Hzunyi/Rice-Identification,hyperparameters tuned on 2020 data
+R00609,low,unclear,low,low,high,low,https://github.com/ai-pest/pest_damage_image_db,
+R00635,low,unclear,low,low,low,unclear,,CV-scheme comparison
+R00665,low,unclear,unclear,low,low,unclear,,ID mean±sd over runs; OOD single values
+R00666,low,unclear,low,low,high,unclear,,ID = validation samples (2508)
+R00692,low,high,low,low,high,unclear,,ID value is the best key-period result (optimistic selection)
+R00725,low,unclear,low,low,low,low,https://github.com/tiny-smart/tasselnetv4,1-shot results with sd over runs
+R00777,low,unclear,high,low,high,unclear,,Carrots and Onions have 20 images each
+R00037,low,unclear,low,low,high,unclear,,
+R00044,low,low,low,low,high,low,https://github.com/PRBonn/DG-CWS,target images unavailable during training
+R00781,low,unclear,low,low,low,low,https://github.com/cassiofragadantas/Colza_Classif,mean over year pairs; min/max reported
+R00192,low,unclear,unclear,low,high,unclear,,"R2 of root metrics, not pixel accuracy"
+R00273,low,unclear,low,low,high,unclear,,
+R00475,low,unclear,low,unclear,high,unclear,,cross-dataset tests evaluated on shared disease classes; oracle = model trained on target dataset (global test)
+R00823,low,unclear,low,low,low,unclear,,hyperparameter search space reported; selection criterion unclear
+R00874,unclear,unclear,unclear,low,high,unclear,,regions and crops not named; values rounded
+R00952,low,low,low,low,high,low,open-access map and code (paper states),ID = random CV in training region
+R01000,low,low,low,low,high,unclear,,
+R00994,low,high,unclear,low,high,unclear,,best model chosen per dataset on test results
+R01060,low,low,low,low,high,unclear,,
+R01133,low,unclear,high,low,high,unclear,,about 40 test samples per year
+R01136,low,unclear,unclear,low,high,unclear,,
+R01202,low,unclear,unclear,low,high,unclear,,task coded W? lodging segmentation treated as plant/organ segmentation
+R01209,low,low,low,low,low,unclear,,10 repeated calibration splits; 95% CIs reported
+R01250,low,unclear,unclear,high,high,unclear,,label mapping to field species not fully described
+R01402,low,low,low,low,unclear,unclear,,field validation split (200 images) used for hyperparameter tuning of the proposed method
+R01424,low,unclear,low,low,high,unclear,,subregions adjacent within one plain
+R01453,low,low,low,low,low,unclear,,pixel-level random split leaks spatial autocorrelation into ID
+R01526,low,unclear,low,low,low,low,benchmark released,
+R01646,low,unclear,unclear,low,high,unclear,,
+R01690,low,unclear,unclear,low,high,unclear,,preprint
+R01718,low,unclear,low,low,high,unclear,,preprint
+R01721,low,unclear,low,unclear,high,low,CropHarvest-based pipeline (paper states availability),label sources differ (Geowiki crowd labels vs field survey)
+R01756,low,unclear,unclear,low,high,unclear,,
+R01880,low,unclear,unclear,unclear,high,unclear,,class mapping to PlantDoc not described
+R01899,low,unclear,unclear,low,high,unclear,,
+R01902,low,unclear,unclear,low,high,unclear,,
+R02099,low,unclear,unclear,low,low,unclear,,CV intervals reported
+R02122,low,high,unclear,low,high,unclear,,flight selection by CV accuracy
+R02134,low,unclear,unclear,low,high,unclear,,
+R02150,low,unclear,unclear,low,low,unclear,,preprint
+R02213,low,unclear,low,low,high,low,public datasets,aggregated mean across dataset pairs; preprint
+R02224,low,unclear,low,low,low,low,https://github.com/cassiofragadantas/Colza_Classif,conditional ID (out-of-year at source site); min/max over years reported
+R02250,low,high,low,low,low,unclear,,bootstrap 95% CI for OOD; KD checkpoint chosen on PlantVillage
+R02305,low,unclear,low,low,high,unclear,,
+R02312,low,unclear,low,low,high,unclear,,
+R02411,low,unclear,low,low,high,unclear,,
+R02588,low,unclear,high,low,low,unclear,,small external set
+R02598,low,low,low,low,low,unclear,,"Wilcoxon tests, two seeds; preprint (Zenodo)"
+R02602,low,unclear,low,low,high,unclear,,preprint; single run
+R02611,low,unclear,low,low,low,low,,fold s.d. reported; dataset released
+R02625,low,low,low,unclear,high,unclear,,class availability differs in external sets; preprint
+R02687,low,low,low,low,high,low,,code and data public; single run
+R02913,low,unclear,high,unclear,high,unclear,,36-image local test; label space reduced to four classes; preprint
+R02964,low,unclear,low,low,high,unclear,,
+R02972,low,low,unclear,low,low,unclear,,five seeds; preprint
+R03084,low,unclear,high,low,high,unclear,,20-image local test
+R03135,low,unclear,low,low,high,low,,duplicate-image audit across datasets; public datasets; preprint
+R03136,low,unclear,unclear,unclear,high,unclear,,
+R03206,low,unclear,low,low,high,low,,code public; single run
+R03314,low,low,low,low,low,unclear,,five fold checkpoints; CIs reported
+R03496,low,low,low,low,low,unclear,,nested tuning check; repeated subsamples
+R03499,low,unclear,unclear,unclear,low,unclear,,five seeds for proposed model; PlantDoc subset size not stated
+R03609,low,high,low,unclear,high,unclear,,OOD value only in abstract; label space 6 of 9 classes
+R03760,low,unclear,unclear,low,high,high,,data on request
+R03779,low,unclear,unclear,low,low,unclear,,fold distributions shown
+R03914,low,unclear,unclear,low,low,unclear,,five seeds; paired t-tests; preprint
+R04381,low,unclear,unclear,low,high,unclear,,single run; preprint
+R04476,low,unclear,high,low,high,low,,OOD set is 6 annotated patches; dataset public
+R04536,low,unclear,low,low,high,low,,dataset public; single run
+R04596,low,low,low,low,low,unclear,,four seeds; preprint
+R04683,low,unclear,unclear,unclear,low,unclear,,UDA runs repeated; preprint
+R04933,high,low,high,low,high,low,,"not stated whether J&K records were removed from training (state is a predictor); J&K R2 equals the temporal-test mean bias (-0.1047), so the value is unverifiable; 21-record OOD set"
+R05222,low,unclear,low,low,high,low,,public datasets; preprint
+R05439,low,unclear,unclear,low,high,low,,MiPlo datasets public
+R05501,low,unclear,low,unclear,high,unclear,,TR and TE class sets differ partly by region
+R05553,low,unclear,unclear,unclear,high,high,,proprietary trial data; REALITY includes unseen categories handled separately
+R06017,low,unclear,low,low,high,unclear,,single run
+R06033,low,unclear,unclear,low,low,unclear,,s.d. over runs reported; preprint
+R06604,low,high,unclear,low,high,unclear,,ID is the validation set used to choose the pixel threshold
+R06617,low,unclear,high,low,low,unclear,,47-image OOD subset; repeated runs for main model
+R06739,low,unclear,unclear,low,high,high,,Chinese-language article (English abstract and table captions)
+R06868,low,low,low,low,high,unclear,,cross-year preprocessing fit on training year only; comparison models shown in figure only
+R02799,low,unclear,low,low,high,low,,public CropNet data; preprint
+R02800,low,unclear,low,low,low,unclear,,100 calibration repetitions for conformal results; preprint
+R00011,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00014,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00049,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00088,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00172,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00439,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00581,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00582,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00815,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01048,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01166,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01309,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01498,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01611,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01791,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R01867,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02151,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02189,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02215,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02340,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02496,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02657,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02707,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R02830,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03125,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03177,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03417,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03470,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03493,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03649,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R03937,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R04716,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R04738,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R04864,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05129,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05177,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05384,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05741,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05853,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R05957,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R06109,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R06278,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R06289,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R06635,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R06920,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R07131,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R07172,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R07372,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R07405,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+X00001,low,unclear,unclear,unclear,high,low,,PlantVillage public; external test-set sizes not re-checked offline
+R00595,low,unclear,low,low,high,unclear,,"single run; public imagery and CDL, sample points not released"
+R02818,low,low,low,low,high,unclear,,k-fold CV tuning on training data; single run; only the public imagery is referenced
+R00534,low,unclear,unclear,low,high,unclear,,single run; number of Hubei counties not stated; tables not readable in the page text
+R00529,low,low,unclear,low,high,high,,classifier chosen by 5-fold CV on lab data; field test size not stated; code on request; no dispersion reported for field results
+R00747,low,unclear,low,low,high,unclear,,validation pixels drawn from the test set; single run; reporting inconsistencies between abstract and tables
+R02488,low,low,low,low,high,unclear,,source model trained once (seed 42); FT selected on UAV validation; dataset availability stated vaguely
+R02950,low,low,low,low,low,unclear,,all tuning on 2025 source data; 10-seed repeats reported for feature-selection comparison; ~178 validation samples per year
+R03010,low,unclear,unclear,low,high,unclear,,single run; test sizes in pixels not stated
+R03478,low,unclear,low,unclear,low,unclear,,2025 labels not field-verified; repeated splits reported for 2023
+R03620,low,low,low,low,low,high,,selection on HA-P2 only; ID reported as mean +/- SD; data on request
+R04887,low,unclear,unclear,low,high,high,,number of districts per fold not stated; data on request
+R05809,low,low,high,low,high,high,,epochs chosen on source validation AP; cross-facility OOD tests have 62 images (100 for the cultivation-system and daytime tests); single run; data on request
+R07395,low,low,low,low,low,low,,early stopping on the source 70/10/20 validation split; five seeds; code public (GitHub); ConvNeXt-T omitted because its ID result is not reported
+R00604,low,unclear,unclear,low,high,low,,"public datasets; 35/15/50 splits, selection rule not stated; OOD test sizes not stated; single run; cross-dataset results only per class"
+R00755,low,low,unclear,low,high,low,,code and training data public; single run; test-set sizes per county not stated; Benton County F1 differs between Sections 3.3 and 4.1.3
+R00961,low,unclear,low,unclear,low,low,,public PlantVillage and PlantDoc; CropDis on request; 5-fold CV for the PlantDoc scenario; shared class set not described; selection rule not stated
+R00988,low,high,unclear,low,high,high,,augmentation re-tuned after the UAV test; UAV test size not stated; single run; data on request
+R01112,low,low,low,low,unclear,unclear,,"sample counts per site and year in Table 3; spatial CV for the ID estimate, single OOD evaluations; availability not stated"
+R01182,low,low,unclear,low,high,unclear,,ID validation is a 7:3 random pixel split of Guangdong ROIs; validation sample sizes for other provinces not given in text; single run
+R01235,low,unclear,high,low,low,low,,dataset (Zenodo) and code public; 5 replications; OOD test is 54 images from 27 image sets
+R01524,low,low,low,low,high,unclear,,early stopping on 20% of the training data; 600-image test sets; single run
+R01544,low,low,low,high,unclear,unclear,,"ID labels come from TerraClass maps and OOD labels from field samples (different annotation protocol); 5,528 OOD samples"
+R01884,low,low,low,low,high,unclear,,thousands of GEDI shots per site; values from the accessible description of Figure 8; single run
+R02057,low,low,low,low,high,unclear,,a calibrated statistical mapping rather than a learned model; whole-field yield maps as reference; single run
+R02322,low,low,low,unclear,low,low,,public datasets; 5-fold CV for ID; OOD restricted to shared classes while ID covers all classes
+R02348,low,low,low,low,high,unclear,,ID hold-out is a random pixel split (likely optimistic); hyperparameters by randomized search on training data; single run
+R02524,low,unclear,unclear,low,low,unclear,,Kjeldahl N labels in both seasons; CV dispersion reported; test sizes not stated in text
+R02665,low,low,unclear,low,high,unclear,,number of unseen fields not stated in text; hyperparameters tuned on training-site data; single run
+R03005,low,low,unclear,low,high,unclear,,Site 2 sample size not stated in text; single run
+R03534,low,low,high,low,low,low,,public dataset; fixed model settings; OOD seasons have 55 and 100 observations; CV dispersion reported
+R03664,low,unclear,high,low,high,unclear,,small samples (28 GPC values); single run
+R03738,unclear,unclear,unclear,low,high,unclear,,cross-band tests may image the same shrubs as the training band; ID performance saturated; single run
+R03747,low,unclear,low,low,low,unclear,,"29,569 yield points from 8 fields; repeated group resampling reported"
+R04464,low,low,low,low,unclear,unclear,,hyperparameters by 5-fold CV on 2018-2020 training data; Nemenyi tests across subsets
+R04539,low,low,low,unclear,low,low,,public datasets and code; harmonised label systems across countries; fold and seed dispersion reported
+R04965,unclear,unclear,unclear,low,high,unclear,,target environment not described in detail in the retrieved text; single run
+R05137,low,unclear,unclear,low,low,unclear,,SDs reported; OOD test size not stated in text
+R05681,low,unclear,unclear,low,high,unclear,,"same crop classes (soybean, corn, rice, others); test sizes not stated in text; single run"
+R05815,low,unclear,unclear,low,low,unclear,,SDs over runs; target test size not stated in text
+R05939,low,low,low,low,low,low,,public GWHD data; 3 runs with SD; official split
+R06319,low,unclear,unclear,low,high,low,,public datasets; target test size not stated in text
+R06374,unclear,unclear,unclear,unclear,high,unclear,,split construction for the cross-crop/site/year scenarios not described in detail; single run
+R06748,low,low,low,low,high,low,,public FarmMap dataset; single run
+R06765,low,unclear,low,low,high,unclear,,validation points per year; label maps corrected with 80 check points; single run
+R06899,low,unclear,unclear,low,high,low,,public datasets; CLAHE parameters compared across configurations; single run
+R07006,low,unclear,unclear,high,high,low,,labels from different raters and years (inter-rater agreement modest); public dataset; single run
+R07070,low,unclear,low,low,low,unclear,,repeated runs with SD; polygon counts per region and year in Table 1
+C00015,low,low,unclear,low,high,unclear,,different acquisition dates and years; single run
+C00017,low,unclear,unclear,low,low,low,,public bccr-segset data; five test folds
+C00020,low,unclear,high,low,high,unclear,,small evaluation sets (7-42 images per cover level); single run
+C00026,low,unclear,unclear,low,high,low,,public datasets; single run; IPM and Bing test sizes not stated in text
+C00034,low,unclear,low,low,high,unclear,,single run
+C00041,low,low,unclear,low,high,unclear,,single run; validation sample counts not checked
+C00042,low,low,low,low,high,unclear,,large point-based validation sets; single run
+C00043,low,unclear,low,low,high,unclear,,thousands of reference fields; single run
+C00048,low,unclear,low,low,high,unclear,,large test sets; single run
+C00054,low,unclear,unclear,low,high,unclear,,single run; test sizes not stated in text
+C00055,low,low,low,low,low,low,,public datasets; SDs over runs
+C00057,low,low,low,low,low,unclear,,five training runs for main experiments; large parcel test sets
+C00064,low,low,unclear,low,high,unclear,,GBM omitted because its CV row is not legible in the retrieved text; single run
+C00075,low,unclear,low,low,high,unclear,,single run per cell
+C00079,low,low,low,low,low,unclear,,10 runs for cross-year tests; 5-fold CV for ID
+C00095,low,unclear,unclear,low,high,unclear,,growth stages imaged in different settings and dates; single run
+C00102,low,unclear,unclear,low,high,unclear,,single run; set sizes not checked
+C00103,low,unclear,low,low,high,unclear,,CDL-based labels; single run
+C00107,low,unclear,low,unclear,high,unclear,,class sets harmonised between CDL and Hexi labels; single run
+C00125,low,unclear,unclear,low,low,unclear,,dispersion across test tiles reported
+C00141,low,unclear,low,unclear,high,unclear,,OOD scored with a 3-day tolerance
+C00146,low,low,low,low,high,unclear,,thousands of test fields per year; single run
+C00151,low,low,low,low,low,unclear,,"4,800 OOD images; overlap checked by hashing; multiple seeds"
+C00150,low,low,low,low,high,unclear,,ID validation doubles as model-selection set; single run
+C00157,low,low,low,unclear,high,low,,geographic block splits; label sources differ between countries (RPG vs manual annotation)
+C00105,unclear,unclear,unclear,unclear,unclear,unclear,,abstract only
+R00427,low,unclear,unclear,low,high,unclear,,single run; values from labelled bars
+R00022,low,low,low,low,unclear,unclear,,values digitised from figures; median over seven states per configuration
+R00149,low,unclear,unclear,unclear,high,unclear,,minor crops absent from some target images (cases 3 and 6); values digitised
+R00201,low,unclear,low,low,high,unclear,,values digitised from a figure; single run
+R01298,low,unclear,low,low,low,low,,public embeddings; error bars over repetitions; OOD values digitised
+C00088,low,low,low,low,low,unclear,,averages of 10 repetitions; OOD values digitised
+C00077,low,unclear,unclear,low,low,unclear,,5-fold CV with error bars; values digitised
+R00570,low,unclear,unclear,low,low,unclear,,ID digitised
+C00061,low,unclear,low,low,high,unclear,,values from figure labels; single run
+R01663,low,unclear,high,low,high,unclear,,small field samples (about 60 points per year); ID given as a range
+R01481,low,low,unclear,low,high,high,,all three tuned models reported for every transfer; yield-monitor point counts not stated; data confidential
+R00835,low,unclear,low,low,high,unclear,,test sets are 40% of millions of labelled pixels per year; model selection not described; single run
+R02382,low,low,low,low,high,unclear,,hyperparameters tuned by five-fold CV on training data; 128 observations per left-out season; no intervals
+R01838,low,unclear,unclear,low,high,unclear,,sub-field sample counts for 2022-2023 not stated
+R02043,low,unclear,low,low,high,unclear,,same patch locations reused across years; single run
+R01829,low,unclear,low,low,high,unclear,,source and target test sets differ by design; single run
+R00487,low,low,low,low,high,unclear,,parameters tuned by 10-fold CV on UP training data; overall accuracy over all LULC classes
+R00095,low,low,low,low,high,unclear,,test regions contain thousands of labelled pixels/fields; no code or data statement found
+R01843,low,unclear,low,low,high,unclear,,ID is a validation split also used during training; leaderboard is a subset of the hidden test set
+R01752,low,unclear,low,low,high,unclear,,hundreds of plots per trial; single run

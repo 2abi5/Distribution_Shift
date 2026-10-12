@@ -1,0 +1,498 @@
+{"rid": "S00002", "doi": "10.34133/2020/3521852", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC7706323", "text_bytes": 52355, "pdf": "", "html": "", "seconds": 2.1}
+{"rid": "R06651", "doi": "10.3390/agronomy16030364", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy16030364", "text_bytes": 137971, "pdf": "", "html": "fulltext/html/R06651.html", "seconds": 101.9}
+{"rid": "S00004", "doi": "10.1002/rob.21869", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 102.2}
+{"rid": "R00011", "doi": "10.1016/j.rse.2020.111946", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 100.8}
+{"rid": "R00022", "doi": "10.3390/rs14061493", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs14061493", "text_bytes": 83868, "pdf": "", "html": "fulltext/html/R00022.html", "seconds": 100.3}
+{"rid": "R00534", "doi": "10.1109/jstars.2025.3604524", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2025.3604524", "text_bytes": 58419, "pdf": "", "html": "fulltext/html/R00534.html", "seconds": 100.9}
+{"rid": "R02818", "doi": "10.3390/app16073598", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/app16073598", "text_bytes": 73624, "pdf": "", "html": "fulltext/html/R02818.html", "seconds": 100.9}
+{"rid": "R00102", "doi": "10.1038/s41438-021-00553-8", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC8167097", "text_bytes": 51593, "pdf": "", "html": "", "seconds": 2.2}
+{"rid": "R04965", "doi": "10.1186/s13007-025-01371-y", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12020128", "text_bytes": 81889, "pdf": "", "html": "", "seconds": 2.4}
+{"rid": "R00001", "doi": "10.1016/j.compag.2018.04.002", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 101.1}
+{"rid": "S00003", "doi": "10.34133/2021/9846158", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC8548052", "text_bytes": 35636, "pdf": "", "html": "", "seconds": 2.8}
+{"rid": "R00595", "doi": "10.1080/17538947.2022.2036832", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/17538947.2022.2036832", "text_bytes": 77526, "pdf": "", "html": "fulltext/html/R00595.html", "seconds": 101.0}
+{"rid": "R00605", "doi": "10.1038/s41598-026-44550-0", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13171958", "text_bytes": 167699, "pdf": "", "html": "", "seconds": 3.4}
+{"rid": "R02492", "doi": "10.3390/agronomy16161544", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy16161544", "text_bytes": 128900, "pdf": "", "html": "fulltext/html/R02492.html", "seconds": 18.6}
+{"rid": "S00001", "doi": "10.1016/j.compag.2018.01.009", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.3}
+{"rid": "R00014", "doi": "10.1016/j.inpa.2024.03.002", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.3}
+{"rid": "R02966", "doi": "10.3390/bdcc10080273", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/bdcc10080273", "text_bytes": 136638, "pdf": "", "html": "fulltext/html/R02966.html", "seconds": 10.9}
+{"rid": "R07003", "doi": "10.1109/iccike67021.2025.11318215", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 11.9}
+{"rid": "R00049", "doi": "10.1016/j.ophoto.2024.100064", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R00088", "doi": "10.1016/j.isprsjprs.2024.05.020", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R00172", "doi": "10.1016/j.agrformet.2020.108317", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.5}
+{"rid": "R00439", "doi": "10.1016/j.jag.2024.103718", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R00581", "doi": "10.1016/j.jia.2023.05.032", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R00582", "doi": "10.1016/j.jag.2024.103826", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R00529", "doi": "10.1007/s11119-022-09986-0", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s11119-022-09986-0", "text_bytes": 64462, "pdf": "", "html": "fulltext/html/R00529.html", "seconds": 9.2}
+{"rid": "R00747", "doi": "10.1109/jstars.2024.3392448", "status": "ok", "tried": [["europepmc", "no"]], "via": "pdf", "source": "https://ieeexplore.ieee.org/ielx7/4609443/4609444/10506557.pdf", "text_bytes": 142613, "pdf": "fulltext/pdf/R00747.pdf", "html": "", "seconds": 11.5}
+{"rid": "R00815", "doi": "10.1016/j.compag.2024.108748", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R01048", "doi": "10.1016/j.ecoenv.2025.118176", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R01166", "doi": "10.1016/j.atech.2025.101011", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R01309", "doi": "10.1016/j.rse.2018.06.017", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R01498", "doi": "10.1016/j.compag.2025.110865", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R01791", "doi": "10.1016/j.atech.2026.101845", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R01611", "doi": "10.1016/j.jag.2023.103636", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.6}
+{"rid": "R01867", "doi": "10.1016/j.srs.2026.100364", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R02151", "doi": "10.2139/ssrn.6335058", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R02189", "doi": "10.1109/jstsp.2026.3695806", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.8}
+{"rid": "R02215", "doi": "10.1016/j.atech.2026.102512", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R02340", "doi": "10.38094/jastt71614", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R02374", "doi": "10.1080/23311932.2026.2712685", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/23311932.2026.2712685", "text_bytes": 91340, "pdf": "", "html": "fulltext/html/R02374.html", "seconds": 8.4}
+{"rid": "R02488", "doi": "10.1038/s41598-026-56162-9", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13439456", "text_bytes": 104105, "pdf": "", "html": "", "seconds": 2.7}
+{"rid": "R02707", "doi": "10.32877/bt.v8i3.3753", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R02830", "doi": "10.1016/j.compag.2026.112268", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R02496", "doi": "10.5281/zenodo.20759768", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 10.4}
+{"rid": "R02950", "doi": "10.3390/rs18183137", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18183137", "text_bytes": 96977, "pdf": "", "html": "fulltext/html/R02950.html", "seconds": 10.9}
+{"rid": "R03010", "doi": "10.3390/rs18070980", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18070980", "text_bytes": 99137, "pdf": "", "html": "fulltext/html/R03010.html", "seconds": 10.6}
+{"rid": "R03177", "doi": "10.1109/tafe.2026.3667568", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R03417", "doi": "10.1016/j.jag.2026.105495", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R03478", "doi": "10.3390/f17091022", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/f17091022", "text_bytes": 114246, "pdf": "", "html": "fulltext/html/R03478.html", "seconds": 6.5}
+{"rid": "R02657", "doi": "10.12133/j.smartag.sa202508029", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 43.2}
+{"rid": "R03493", "doi": "10.3390/plants15192998", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.7}
+{"rid": "R03125", "doi": "10.12133/j.smartag.sa202508025", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 43.1}
+{"rid": "R03649", "doi": "10.1016/j.jia.2026.05.005", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R03937", "doi": "10.1002/ppj2.70109", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R03620", "doi": "10.3390/rs18172961", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18172961", "text_bytes": 102900, "pdf": "", "html": "fulltext/html/R03620.html", "seconds": 17.8}
+{"rid": "R04471", "doi": "10.3390/agronomy15061438", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy15061438", "text_bytes": 70545, "pdf": "", "html": "fulltext/html/R04471.html", "seconds": 6.5}
+{"rid": "R04716", "doi": "10.1109/icstsn67075.2025.11397875", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R04738", "doi": "10.1109/ic2ie63342.2024.10747994", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.8}
+{"rid": "R03470", "doi": "10.12133/j.smartag.sa202601026", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 43.5}
+{"rid": "R04887", "doi": "10.3390/agriculture16070782", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture16070782", "text_bytes": 110283, "pdf": "", "html": "fulltext/html/R04887.html", "seconds": 7.5}
+{"rid": "R04864", "doi": "10.1109/wacvw68408.2026.00094", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.5}
+{"rid": "R05129", "doi": "10.1109/agro-geoinformatics70621.2026.11667495", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R05177", "doi": "10.1016/j.inpa.2026.08.007", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R05384", "doi": "", "status": "not_retrieved", "tried": [["pdf", "no"]], "seconds": 0.0}
+{"rid": "R05741", "doi": "10.1109/peccii70991.2026.11661839", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R05746", "doi": "10.3390/agriculture14030476", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture14030476", "text_bytes": 64904, "pdf": "", "html": "fulltext/html/R05746.html", "seconds": 7.1}
+{"rid": "R05809", "doi": "10.3390/agriengineering6020106", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriengineering6020106", "text_bytes": 74847, "pdf": "", "html": "fulltext/html/R05809.html", "seconds": 6.9}
+{"rid": "R05853", "doi": "10.1109/sist61674.2026.11596121", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R05957", "doi": "10.1109/aciis66255.2025.11402958", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R06109", "doi": "10.1109/icisc69558.2026.11681323", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.6}
+{"rid": "R06289", "doi": "10.1109/tqcebt67648.2026.11681930", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R06278", "doi": "10.1117/12.3096309", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.7}
+{"rid": "R06635", "doi": "10.1109/ecitech69277.2026.11601587", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R06920", "doi": "10.1109/icoco67189.2025.11334147", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R07172", "doi": "10.1016/j.isprsjprs.2026.08.029", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R07372", "doi": "10.1016/j.atech.2026.102535", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R07395", "doi": "10.22266/ijies2026.0831.70", "status": "ok", "tried": [["europepmc", "no"]], "via": "pdf", "source": "https://inass.org/wp-content/uploads/2026/05/2026083170-1.pdf", "text_bytes": 76871, "pdf": "fulltext/pdf/R07395.pdf", "html": "", "seconds": 5.0}
+{"rid": "R07131", "doi": "10.5281/zenodo.21866610", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 10.3}
+{"rid": "R00095", "doi": "10.1016/j.rse.2021.112488", "status": "ok", "tried": [], "via": "pdf", "source": "https://arxiv.org/pdf/2109.01246", "text_bytes": 124577, "pdf": "fulltext/pdf/R00095.pdf", "html": "", "seconds": 0.8}
+{"rid": "R07405", "doi": "10.1016/j.aiia.2026.07.011", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00061", "doi": "10.3390/rs16040683", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs16040683", "text_bytes": 153175, "pdf": "", "html": "fulltext/html/R00061.html", "seconds": 5.4}
+{"rid": "R00157", "doi": "10.1109/lgrs.2022.3211444", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 4.8}
+{"rid": "R00168", "doi": "10.1109/lgrs.2021.3085139", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 6.1}
+{"rid": "R00201", "doi": "10.3390/rs15164071", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs15164071", "text_bytes": 90848, "pdf": "", "html": "fulltext/html/R00201.html", "seconds": 7.9}
+{"rid": "R00211", "doi": "10.1109/tgrs.2023.3247343", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 6.6}
+{"rid": "R00149", "doi": "10.3390/rs14184639", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs14184639", "text_bytes": 87204, "pdf": "", "html": "fulltext/html/R00149.html", "seconds": 16.0}
+{"rid": "R00321", "doi": "10.3390/rs16234548", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs16234548", "text_bytes": 148297, "pdf": "", "html": "fulltext/html/R00321.html", "seconds": 6.5}
+{"rid": "R00376", "doi": "10.3390/plants14213265", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/plants14213265", "text_bytes": 80889, "pdf": "", "html": "fulltext/html/R00376.html", "seconds": 6.4}
+{"rid": "R00274", "doi": "10.1080/15481603.2024.2395700", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/15481603.2024.2395700", "text_bytes": 88809, "pdf": "", "html": "fulltext/html/R00274.html", "seconds": 9.6}
+{"rid": "R00396", "doi": "10.1016/j.srs.2025.100227", "status": "ok", "tried": [], "via": "pdf", "source": "https://arxiv.org/pdf/2409.00020", "text_bytes": 115471, "pdf": "fulltext/pdf/R00396.pdf", "html": "", "seconds": 3.0}
+{"rid": "R00380", "doi": "10.1080/17538947.2025.2563211", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/17538947.2025.2563211", "text_bytes": 86354, "pdf": "", "html": "fulltext/html/R00380.html", "seconds": 8.7}
+{"rid": "R00437", "doi": "10.1109/jstars.2023.3316304", "status": "ok", "tried": [], "via": "pdf", "source": "https://ieeexplore.ieee.org/ielx7/4609443/4609444/10254255.pdf", "text_bytes": 147928, "pdf": "fulltext/pdf/R00437.pdf", "html": "", "seconds": 2.6}
+{"rid": "R00427", "doi": "10.3390/rs15174156", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs15174156", "text_bytes": 74025, "pdf": "", "html": "fulltext/html/R00427.html", "seconds": 5.4}
+{"rid": "R00487", "doi": "10.5194/isprs-archives-xlii-3-w6-585-2019", "status": "ok", "tried": [], "via": "pdf", "source": "https://isprs-archives.copernicus.org/articles/XLII-3-W6/585/2019/isprs-archives-XLII-3-W6-585-2019.pdf", "text_bytes": 57879, "pdf": "fulltext/pdf/R00487.pdf", "html": "", "seconds": 4.1}
+{"rid": "R00492", "doi": "10.3390/rs17132190", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs17132190", "text_bytes": 102526, "pdf": "", "html": "fulltext/html/R00492.html", "seconds": 6.1}
+{"rid": "R00570", "doi": "10.3390/rs15092443", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs15092443", "text_bytes": 94093, "pdf": "", "html": "fulltext/html/R00570.html", "seconds": 6.8}
+{"rid": "R00574", "doi": "10.3390/rs13091769", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs13091769", "text_bytes": 90463, "pdf": "", "html": "fulltext/html/R00574.html", "seconds": 7.9}
+{"rid": "R00643", "doi": "10.22541/au.175100405.52153616/v1", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 5.6}
+{"rid": "R00835", "doi": "10.3390/s23157008", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/s23157008", "text_bytes": 61075, "pdf": "", "html": "fulltext/html/R00835.html", "seconds": 5.3}
+{"rid": "R00866", "doi": "10.3389/fpls.2025.1725017", "status": "ok", "tried": [], "via": "pdf", "source": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1725017/pdf", "text_bytes": 148751, "pdf": "fulltext/pdf/R00866.pdf", "html": "", "seconds": 4.2}
+{"rid": "R00875", "doi": "10.3390/rs14163968", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs14163968", "text_bytes": 86254, "pdf": "", "html": "fulltext/html/R00875.html", "seconds": 8.2}
+{"rid": "R00768", "doi": "10.3390/rs16244620", "status": "ok", "tried": [], "via": "pdf", "source": "https://lirias.kuleuven.be/retrieve/4bf4600f-12ef-40a2-8e7f-6399ecde5a86", "text_bytes": 174242, "pdf": "fulltext/pdf/R00768.pdf", "html": "", "seconds": 13.9}
+{"rid": "R01247", "doi": "10.3390/rs18020365", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18020365", "text_bytes": 106363, "pdf": "", "html": "fulltext/html/R01247.html", "seconds": 5.8}
+{"rid": "R01298", "doi": "10.3390/rs18071065", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18071065", "text_bytes": 86922, "pdf": "", "html": "fulltext/html/R01298.html", "seconds": 5.6}
+{"rid": "R01316", "doi": "10.1016/j.atech.2026.101936", "status": "ok", "tried": [], "via": "pdf", "source": "https://era.dpi.qld.gov.au/id/eprint/15564/1/1-s2.0-S2772375526001607-main.pdf", "text_bytes": 104996, "pdf": "fulltext/pdf/R01316.pdf", "html": "", "seconds": 2.8}
+{"rid": "R01331", "doi": "10.64898/2026.06.03.729887", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 6.6}
+{"rid": "R01752", "doi": "10.3389/fpls.2025.1720819", "status": "ok", "tried": [], "via": "pdf", "source": "https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1720819/pdf", "text_bytes": 93737, "pdf": "fulltext/pdf/R01752.pdf", "html": "", "seconds": 2.2}
+{"rid": "R01481", "doi": "10.3390/rs16214081", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs16214081", "text_bytes": 62173, "pdf": "", "html": "fulltext/html/R01481.html", "seconds": 5.8}
+{"rid": "R01663", "doi": "10.3390/agriculture15151638", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture15151638", "text_bytes": 101300, "pdf": "", "html": "fulltext/html/R01663.html", "seconds": 5.9}
+{"rid": "R01843", "doi": "10.57237/j.cst.2023.04.006", "status": "ok", "tried": [], "via": "pdf", "source": "http://article.isciencegroup.com/pdf/j.cst.2023.04.006", "text_bytes": 52449, "pdf": "fulltext/pdf/R01843.pdf", "html": "", "seconds": 1.3}
+{"rid": "R02043", "doi": "10.48550/arxiv.2609.17138", "status": "ok", "tried": [], "via": "pdf", "source": "https://arxiv.org/pdf/2609.17138", "text_bytes": 145931, "pdf": "fulltext/pdf/R02043.pdf", "html": "", "seconds": 1.4}
+{"rid": "R01829", "doi": "10.15292/geodetski-vestnik.2026.02.268-288", "status": "ok", "tried": [], "via": "pdf", "source": "https://www.geodetski-vestnik.com/arhiv/70/2/268_Pandzic_at_al.pdf", "text_bytes": 139984, "pdf": "fulltext/pdf/R01829.pdf", "html": "", "seconds": 2.9}
+{"rid": "R02138", "doi": "10.37005/2071-9612-2020-2-59-69", "status": "ok", "tried": [], "via": "pdf", "source": "https://sanse.ru/download/391", "text_bytes": 58730, "pdf": "fulltext/pdf/R02138.pdf", "html": "", "seconds": 3.3}
+{"rid": "R02442", "doi": "10.1109/jstars.2026.3704675", "status": "ok", "tried": [], "via": "pdf", "source": "https://epb.bibl.th-koeln.de/frontdoor/deliver/index/docId/3499/file/Weak-to-Gold_Label_Training.pdf", "text_bytes": 115032, "pdf": "fulltext/pdf/R02442.pdf", "html": "", "seconds": 3.2}
+{"rid": "R04681", "doi": "10.48550/arxiv.2310.01825", "status": "ok", "tried": [], "via": "pdf", "source": "https://arxiv.org/pdf/2310.01825", "text_bytes": 38043, "pdf": "fulltext/pdf/R04681.pdf", "html": "", "seconds": 0.6}
+{"rid": "R02382", "doi": "10.1590/1983-40632026v5684508", "status": "ok", "tried": [["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1590/1983-40632026v5684508", "text_bytes": 72865, "pdf": "", "html": "fulltext/html/R02382.html", "seconds": 6.6}
+{"rid": "R05449", "doi": "10.3389/fpls.2025.1706973", "status": "ok", "tried": [], "via": "pdf", "source": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1706973/pdf", "text_bytes": 100035, "pdf": "fulltext/pdf/R05449.pdf", "html": "", "seconds": 1.3}
+{"rid": "R02194", "doi": "10.5281/zenodo.21512986", "status": "not_retrieved", "tried": [["pdf", "no"], ["chrome", "no"], ["europepmc", "no"]], "seconds": 10.0}
+{"rid": "R00008", "doi": "10.1016/j.rse.2018.12.026", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R00010", "doi": "10.1016/j.rse.2020.111912", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00026", "doi": "10.1016/j.rse.2021.112831", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R00035", "doi": "10.1016/j.isprsjprs.2022.12.005", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00038", "doi": "10.1016/j.scitotenv.2020.138869", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.4}
+{"rid": "R00080", "doi": "10.1016/j.jag.2024.104084", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.0}
+{"rid": "R00104", "doi": "10.1016/j.jag.2021.102451", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 10.8}
+{"rid": "R00106", "doi": "10.1016/j.fcr.2023.108824", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 10.5}
+{"rid": "R00160", "doi": "10.1016/j.ecoinf.2024.102546", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.6}
+{"rid": "R00229", "doi": "10.1016/j.compag.2023.107927", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R00254", "doi": "10.1016/j.srs.2022.100059", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.1}
+{"rid": "R00315", "doi": "10.1016/j.compag.2025.110058", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.0}
+{"rid": "R00406", "doi": "10.1016/j.agrformet.2022.109186", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00445", "doi": "10.1016/j.jhazmat.2024.134723", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R00590", "doi": "10.34133/2022/9761674", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC9513831", "text_bytes": 63457, "pdf": "", "html": "", "seconds": 2.0}
+{"rid": "R00548", "doi": "10.1016/j.agwat.2026.110254", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R00604", "doi": "10.1038/s41598-026-45464-7", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13039305", "text_bytes": 78549, "pdf": "", "html": "", "seconds": 2.5}
+{"rid": "R00606", "doi": "10.1080/17538947.2023.2275657", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/17538947.2023.2275657", "text_bytes": 51879, "pdf": "", "html": "fulltext/html/R00606.html", "seconds": 5.4}
+{"rid": "R00613", "doi": "10.1016/j.rse.2026.115287", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00638", "doi": "10.1016/j.isprsjprs.2024.10.015", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00654", "doi": "10.3233/jifs-230561", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 3.8}
+{"rid": "R00661", "doi": "10.1109/tgrs.2025.3643447", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.5}
+{"rid": "R00663", "doi": "10.1109/jstars.2025.3532283", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2025.3532283", "text_bytes": 46778, "pdf": "", "html": "fulltext/html/R00663.html", "seconds": 6.4}
+{"rid": "R00749", "doi": "10.1117/1.jei.32.3.033014", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R00751", "doi": "10.1016/j.atech.2025.101284", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R00844", "doi": "10.34133/plantphenomics.0197", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC11266478", "text_bytes": 78721, "pdf": "", "html": "", "seconds": 2.1}
+{"rid": "R00755", "doi": "10.1080/15481603.2026.2626004", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/15481603.2026.2626004", "text_bytes": 78508, "pdf": "", "html": "fulltext/html/R00755.html", "seconds": 7.4}
+{"rid": "R00902", "doi": "10.1016/j.ecolind.2024.112295", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R00961", "doi": "10.1016/j.plaphe.2025.100001", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12709998", "text_bytes": 61761, "pdf": "", "html": "", "seconds": 2.2}
+{"rid": "R00956", "doi": "10.1109/tgrs.2025.3544434", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.3}
+{"rid": "R01093", "doi": "10.1016/j.atech.2025.101349", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R01112", "doi": "10.1109/access.2025.3615739", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2025.3615739", "text_bytes": 73192, "pdf": "", "html": "fulltext/html/R01112.html", "seconds": 5.8}
+{"rid": "R01113", "doi": "10.1016/j.jag.2025.104673", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R01151", "doi": "10.1109/lgrs.2024.3382871", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R01189", "doi": "10.1038/s41598-025-32568-9", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12749937", "text_bytes": 200609, "pdf": "", "html": "", "seconds": 3.2}
+{"rid": "R01153", "doi": "10.1016/j.fcr.2025.110237", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R01308", "doi": "10.1016/j.srs.2024.100188", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R01344", "doi": "10.1016/j.inpa.2025.11.005", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R01418", "doi": "10.1109/tgrs.2025.3597921", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R01403", "doi": "10.1109/access.2026.3672401", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2026.3672401", "text_bytes": 74067, "pdf": "", "html": "fulltext/html/R01403.html", "seconds": 7.4}
+{"rid": "R01480", "doi": "10.1016/j.atech.2026.102215", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R01483", "doi": "10.1016/j.fraope.2026.100513", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R01545", "doi": "10.1016/j.compag.2025.110658", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R01571", "doi": "10.1016/j.atech.2025.101481", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R01637", "doi": "10.1002/ppj2.70050", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R01544", "doi": "10.1080/01431161.2025.2527988", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/01431161.2025.2527988", "text_bytes": 83486, "pdf": "", "html": "fulltext/html/R01544.html", "seconds": 9.3}
+{"rid": "R01838", "doi": "10.1016/j.atech.2026.101999", "status": "ok", "tried": [["europepmc", "no"]], "via": "pdf", "source": "https://ttu-ir.tdl.org/server/api/core/bitstreams/b9dfa702-aa0c-4447-a7d1-01e6cefbc169/content", "text_bytes": 97951, "pdf": "fulltext/pdf/R01838.pdf", "html": "", "seconds": 2.7}
+{"rid": "R01741", "doi": "10.1080/22797254.2022.2073916", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/22797254.2022.2073916", "text_bytes": 79754, "pdf": "", "html": "fulltext/html/R01741.html", "seconds": 5.9}
+{"rid": "R01780", "doi": "10.1016/j.rsase.2026.101885", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R01778", "doi": "10.5281/zenodo.18514672", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.9}
+{"rid": "R01847", "doi": "10.1016/j.compag.2025.110632", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R01860", "doi": "10.3233/jifs-232104", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R01878", "doi": "10.1080/01431161.2026.2649953", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.2}
+{"rid": "R01881", "doi": "10.1016/j.agwat.2026.110317", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R01882", "doi": "10.1016/j.jag.2026.105140", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R01944", "doi": "10.1002/ppj2.70085", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R01997", "doi": "10.1038/s41598-026-55107-6", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13447843", "text_bytes": 69707, "pdf": "", "html": "", "seconds": 3.6}
+{"rid": "R01903", "doi": "10.14288/1.0452866", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.9}
+{"rid": "R01884", "doi": "10.1080/15481603.2026.2671603", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/15481603.2026.2671603", "text_bytes": 112678, "pdf": "", "html": "fulltext/html/R01884.html", "seconds": 12.5}
+{"rid": "R02007", "doi": "10.1016/j.aiia.2026.03.011", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R02061", "doi": "10.1016/j.atech.2026.102154", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R02182", "doi": "10.1109/jstars.2026.3682277", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2026.3682277", "text_bytes": 50958, "pdf": "", "html": "fulltext/html/R02182.html", "seconds": 7.3}
+{"rid": "R02166", "doi": "10.1038/s41598-026-59178-3", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.4}
+{"rid": "R02235", "doi": "10.1109/jstars.2026.3702608", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2026.3702608", "text_bytes": 77177, "pdf": "", "html": "fulltext/html/R02235.html", "seconds": 7.9}
+{"rid": "R02254", "doi": "10.1016/j.atech.2026.102510", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R02287", "doi": "10.1109/jstars.2026.3704500", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2026.3704500", "text_bytes": 60573, "pdf": "", "html": "fulltext/html/R02287.html", "seconds": 6.3}
+{"rid": "R02322", "doi": "10.1038/s41598-025-34713-w", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12865012", "text_bytes": 79076, "pdf": "", "html": "", "seconds": 2.8}
+{"rid": "R02268", "doi": "10.5281/zenodo.22160934", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.8}
+{"rid": "R02302", "doi": "10.5281/zenodo.18259816", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.4}
+{"rid": "R02472", "doi": "10.1002/agj2.70463", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R02348", "doi": "10.1007/s11119-026-10428-4", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s11119-026-10428-4", "text_bytes": 140790, "pdf": "", "html": "fulltext/html/R02348.html", "seconds": 8.6}
+{"rid": "R02353", "doi": "10.1016/j.inpa.2026.08.002", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.9}
+{"rid": "R02479", "doi": "10.1016/j.atech.2025.101148", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.5}
+{"rid": "R02483", "doi": "10.1016/j.saa.2026.128695", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.4}
+{"rid": "R02524", "doi": "10.1007/s43621-026-03598-8", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s43621-026-03598-8", "text_bytes": 76630, "pdf": "", "html": "fulltext/html/R02524.html", "seconds": 8.0}
+{"rid": "R02552", "doi": "10.3390/ai7080278", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/ai7080278", "text_bytes": 101065, "pdf": "", "html": "fulltext/html/R02552.html", "seconds": 6.4}
+{"rid": "R02564", "doi": "10.1016/j.srs.2026.100442", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R02526", "doi": "10.20944/preprints202608.0602.v1", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.20944/preprints202608.0602.v1", "text_bytes": 78932, "pdf": "", "html": "fulltext/html/R02526.html", "seconds": 15.3}
+{"rid": "R02665", "doi": "10.1080/01431161.2026.2612904", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/01431161.2026.2612904", "text_bytes": 112287, "pdf": "", "html": "fulltext/html/R02665.html", "seconds": 6.9}
+{"rid": "R02790", "doi": "10.1016/j.atech.2026.101963", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R02906", "doi": "10.1016/j.still.2026.107247", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R02719", "doi": "10.20944/preprints202601.1638.v1", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 11.2}
+{"rid": "R02923", "doi": "10.1016/j.aiia.2025.12.006", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R03009", "doi": "10.1016/j.atech.2026.101908", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R03071", "doi": "10.1016/j.rsase.2026.102264", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R02992", "doi": "10.3390/app15189947", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/app15189947", "text_bytes": 73883, "pdf": "", "html": "fulltext/html/R02992.html", "seconds": 8.0}
+{"rid": "R03134", "doi": "10.1016/j.aiia.2026.06.005", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R03194", "doi": "10.1016/j.compag.2026.112105", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R03156", "doi": "10.1109/jstars.2026.3720556", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2026.3720556", "text_bytes": 83297, "pdf": "", "html": "fulltext/html/R03156.html", "seconds": 8.1}
+{"rid": "R02949", "doi": "10.1016/j.agwat.2025.109384", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 20.2}
+{"rid": "R03393", "doi": "10.3390/rs18111828", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18111828", "text_bytes": 119821, "pdf": "", "html": "fulltext/html/R03393.html", "seconds": 7.4}
+{"rid": "R03410", "doi": "10.1016/j.atech.2026.102205", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R03455", "doi": "10.1038/s41598-026-62760-4", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.7}
+{"rid": "R03462", "doi": "10.1016/j.atech.2026.102339", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R03664", "doi": "10.3390/plants15182811", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13610689", "text_bytes": 71951, "pdf": "", "html": "", "seconds": 3.3}
+{"rid": "R03534", "doi": "10.3390/agriengineering8090392", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriengineering8090392", "text_bytes": 71307, "pdf": "", "html": "fulltext/html/R03534.html", "seconds": 7.5}
+{"rid": "R03747", "doi": "10.3390/agronomy16070763", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy16070763", "text_bytes": 61251, "pdf": "", "html": "fulltext/html/R03747.html", "seconds": 9.7}
+{"rid": "R03763", "doi": "10.1109/lgrs.2026.3693043", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/lgrs.2026.3693043", "text_bytes": 21140, "pdf": "", "html": "fulltext/html/R03763.html", "seconds": 8.9}
+{"rid": "R03770", "doi": "10.1002/jsfa.71102", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R03896", "doi": "10.3390/agriculture16020191", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture16020191", "text_bytes": 79699, "pdf": "", "html": "fulltext/html/R03896.html", "seconds": 6.9}
+{"rid": "R03898", "doi": "10.1016/j.isprsjprs.2026.07.022", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R04377", "doi": "10.1109/tgrs.2026.3715962", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.8}
+{"rid": "R04092", "doi": "10.1080/01431161.2026.2717437", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.0}
+{"rid": "R04402", "doi": "10.1109/tgrs.2025.3633252", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R04467", "doi": "10.1109/icsigsys71160.2026.11613921", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R04398", "doi": "10.1109/dicta51227.2020.9363407", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.8}
+{"rid": "R04464", "doi": "10.3390/rs18132149", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18132149", "text_bytes": 128898, "pdf": "", "html": "fulltext/html/R04464.html", "seconds": 6.7}
+{"rid": "R04494", "doi": "10.1109/igarss.2018.8519554", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R04658", "doi": "10.1109/admit67050.2025.11336883", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R04698", "doi": "10.3390/rs18152502", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18152502", "text_bytes": 84141, "pdf": "", "html": "fulltext/html/R04698.html", "seconds": 6.5}
+{"rid": "R04498", "doi": "10.1109/access.2026.3703440", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2026.3703440", "text_bytes": 36507, "pdf": "", "html": "fulltext/html/R04498.html", "seconds": 10.1}
+{"rid": "R04984", "doi": "10.1109/tafe.2025.3650340", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R05081", "doi": "10.1002/ppj2.70097", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.5}
+{"rid": "R05027", "doi": "10.1109/igarss53475.2024.10640948", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R05137", "doi": "10.3390/agronomy16121156", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy16121156", "text_bytes": 52796, "pdf": "", "html": "fulltext/html/R05137.html", "seconds": 6.2}
+{"rid": "R05261", "doi": "10.1109/isctis65944.2025.11065512", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.5}
+{"rid": "R05329", "doi": "10.1117/12.3115702", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.5}
+{"rid": "R05478", "doi": "10.1109/access.2026.3723880", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2026.3723880", "text_bytes": 74338, "pdf": "", "html": "fulltext/html/R05478.html", "seconds": 6.5}
+{"rid": "R05496", "doi": "10.20965/jrm.2026.p0658", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R05512", "doi": "10.1109/qpain69676.2026.11546289", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R05522", "doi": "10.53941/aiet.2026.100009", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R05550", "doi": "10.1109/isaeece70502.2026.11635317", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R05570", "doi": "10.1109/igarss55030.2025.11242457", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R05585", "doi": "10.1080/10095020.2024.2416897", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/10095020.2024.2416897", "text_bytes": 68287, "pdf": "", "html": "fulltext/html/R05585.html", "seconds": 6.9}
+{"rid": "R05681", "doi": "10.3390/rs16081464", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs16081464", "text_bytes": 73963, "pdf": "", "html": "fulltext/html/R05681.html", "seconds": 6.2}
+{"rid": "R05720", "doi": "10.3390/rs13010103", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs13010103", "text_bytes": 84902, "pdf": "", "html": "fulltext/html/R05720.html", "seconds": 7.6}
+{"rid": "R05606", "doi": "10.1109/tgrs.2026.3661077", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.5}
+{"rid": "R05715", "doi": "10.1109/igarss.2019.8897867", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.5}
+{"rid": "R05843", "doi": "10.1109/jiot.2026.3719665", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.1}
+{"rid": "R05785", "doi": "10.1109/iatmsi68868.2026.11465993", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.4}
+{"rid": "R05844", "doi": "10.1016/j.compag.2017.04.013", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R05825", "doi": "10.1109/cisat71030.2026.11682169", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.2}
+{"rid": "R05888", "doi": "10.1016/j.atech.2026.102107", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R05928", "doi": "10.1109/icmnwc66779.2025.11354355", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R05971", "doi": "10.1109/smc58881.2025.11343588", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.1}
+{"rid": "R06008", "doi": "10.1109/iccad69956.2026.11642968", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.4}
+{"rid": "R06132", "doi": "10.1016/j.compag.2020.105745", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.2}
+{"rid": "R06202", "doi": "10.1109/icerect65215.2025.11375892", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.2}
+{"rid": "R06158", "doi": "10.3390/land15060932", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/land15060932", "text_bytes": 81395, "pdf": "", "html": "fulltext/html/R06158.html", "seconds": 11.4}
+{"rid": "R06229", "doi": "10.1109/icisc69558.2026.11681580", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R06241", "doi": "10.1109/incet61516.2024.10593106", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R06281", "doi": "10.3390/s26010174", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12788353", "text_bytes": 76471, "pdf": "", "html": "", "seconds": 3.4}
+{"rid": "R06253", "doi": "10.1016/j.rse.2024.114385", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R06313", "doi": "10.1117/12.3094666", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.1}
+{"rid": "R06374", "doi": "10.3390/horticulturae12040486", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/horticulturae12040486", "text_bytes": 103792, "pdf": "", "html": "fulltext/html/R06374.html", "seconds": 7.0}
+{"rid": "R06451", "doi": "10.1016/j.isprsjprs.2026.06.019", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R06392", "doi": "10.1080/15481603.2024.2319939", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/15481603.2024.2319939", "text_bytes": 76593, "pdf": "", "html": "fulltext/html/R06392.html", "seconds": 9.7}
+{"rid": "R06540", "doi": "10.3390/plants15040623", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12944063", "text_bytes": 57018, "pdf": "", "html": "", "seconds": 2.7}
+{"rid": "R06533", "doi": "10.1109/agro-geoinformatics70621.2026.11667499", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R06492", "doi": "10.1109/smc58881.2025.11343547", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R06595", "doi": "10.1109/lgrs.2022.3213679", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R06728", "doi": "10.1016/j.rse.2020.112048", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R06656", "doi": "10.1109/gcon69192.2026.11648276", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R06754", "doi": "10.1080/07038992.2024.2367479", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/07038992.2024.2367479", "text_bytes": 47295, "pdf": "", "html": "fulltext/html/R06754.html", "seconds": 7.4}
+{"rid": "R06765", "doi": "10.3390/rs18183210", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18183210", "text_bytes": 110013, "pdf": "", "html": "fulltext/html/R06765.html", "seconds": 6.4}
+{"rid": "R06839", "doi": "10.1109/cafe58535.2023.10291910", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.6}
+{"rid": "R06875", "doi": "10.1109/cvprw53098.2021.00329", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.6}
+{"rid": "R06898", "doi": "10.3390/app16073520", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/app16073520", "text_bytes": 88464, "pdf": "", "html": "fulltext/html/R06898.html", "seconds": 6.7}
+{"rid": "R07004", "doi": "10.1109/prai55851.2022.9904111", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R07006", "doi": "10.34133/plantphenomics.0068", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC10348660", "text_bytes": 63427, "pdf": "", "html": "", "seconds": 2.1}
+{"rid": "R07062", "doi": "10.1016/j.rineng.2025.108833", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R07081", "doi": "10.1016/j.atech.2026.102355", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R07127", "doi": "10.1016/j.jia.2026.04.010", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R07087", "doi": "10.5194/essd-2024-372", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.5194/essd-2024-372", "text_bytes": 22176, "pdf": "", "html": "fulltext/html/R07087.html", "seconds": 9.3}
+{"rid": "R07166", "doi": "10.1016/j.atech.2026.102531", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R07213", "doi": "10.1016/j.atech.2026.102513", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R07231", "doi": "10.1016/j.jag.2026.105579", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R07255", "doi": "10.1016/j.aiia.2026.08.010", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R07437", "doi": "10.1016/j.atech.2026.102560", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00005", "doi": "10.1016/j.isprsjprs.2023.04.002", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R00020", "doi": "10.1016/j.compag.2020.105766", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R00052", "doi": "10.1016/j.agrformet.2023.109652", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R00086", "doi": "10.1016/j.jag.2024.103867", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R00103", "doi": "10.1016/j.eswa.2025.126896", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R00128", "doi": "10.1016/j.compag.2015.02.015", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R00129", "doi": "10.1016/j.compag.2023.108114", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R00142", "doi": "10.1016/j.isprsjprs.2021.02.011", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00202", "doi": "10.1016/j.fcr.2020.107793", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R00216", "doi": "10.1016/j.biosystemseng.2022.10.016", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R00219", "doi": "10.1016/j.biosystemseng.2023.12.014", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R00235", "doi": "10.1016/j.rse.2021.112724", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R00238", "doi": "10.1016/j.engappai.2025.111168", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00261", "doi": "10.1016/j.compag.2025.110673", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00252", "doi": "10.1016/j.atech.2023.100188", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.1}
+{"rid": "R00291", "doi": "10.2139/ssrn.4345158", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R00306", "doi": "10.1016/j.compag.2022.107473", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00310", "doi": "10.1016/j.compag.2024.109022", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00328", "doi": "10.1016/j.atech.2024.100538", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R00313", "doi": "10.1016/j.eswa.2025.127324", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.7}
+{"rid": "R00379", "doi": "10.1016/j.compag.2023.107967", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R00415", "doi": "10.1016/j.rse.2024.114430", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R00419", "doi": "10.1016/j.isprsjprs.2017.07.003", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R00442", "doi": "10.1016/j.jafr.2024.101096", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R00451", "doi": "10.1016/j.eswa.2025.127101", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R00458", "doi": "10.1016/j.isprsjprs.2023.07.004", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R00502", "doi": "10.1007/s42979-024-02816-2", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R00558", "doi": "10.1016/j.compag.2022.107480", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00588", "doi": "10.1016/j.ecoinf.2025.103579", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00620", "doi": "10.1016/j.compag.2024.109536", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00647", "doi": "10.1038/s41598-022-08969-5", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC8948195", "text_bytes": 64290, "pdf": "", "html": "", "seconds": 2.5}
+{"rid": "R00623", "doi": "10.1101/2024.10.07.617111", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.4}
+{"rid": "R00671", "doi": "10.1016/j.biosystemseng.2026.104418", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R00697", "doi": "10.1016/j.compag.2023.107806", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R00712", "doi": "10.1016/j.compag.2024.109341", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00717", "doi": "10.1016/j.compag.2024.109726", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R00764", "doi": "10.1016/j.srs.2025.100256", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00657", "doi": "10.11834/jrs.20221408", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 17.4}
+{"rid": "R00766", "doi": "10.1016/j.compag.2024.109849", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R00905", "doi": "10.1016/j.compag.2024.109211", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R00906", "doi": "10.1016/j.compag.2020.105978", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00916", "doi": "10.1080/2150704x.2020.1821120", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R00918", "doi": "10.1117/1.jrs.16.024519", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R00988", "doi": "10.34133/plantphenomics.0017", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC10076054", "text_bytes": 59131, "pdf": "", "html": "", "seconds": 2.5}
+{"rid": "R00958", "doi": "10.1016/j.isprsjprs.2025.04.004", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R00981", "doi": "10.1016/j.compag.2024.109012", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.7}
+{"rid": "R00992", "doi": "10.1016/j.iswa.2024.200468", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R01040", "doi": "10.1186/s12870-026-08537-3", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13112643", "text_bytes": 83256, "pdf": "", "html": "", "seconds": 2.7}
+{"rid": "R01007", "doi": "10.1016/j.compag.2026.111558", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R01066", "doi": "10.1109/tgrs.2024.3442171", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.2}
+{"rid": "R01081", "doi": "10.1109/tgrs.2021.3123117", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.8}
+{"rid": "R01087", "doi": "10.1038/s41598-026-45684-x", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13039964", "text_bytes": 68107, "pdf": "", "html": "", "seconds": 1.9}
+{"rid": "R01082", "doi": "10.1016/j.rse.2025.115051", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R01235", "doi": "10.34133/plantphenomics.0268", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC11543947", "text_bytes": 47852, "pdf": "", "html": "", "seconds": 1.9}
+{"rid": "R01170", "doi": "10.1016/j.isprsjprs.2025.03.024", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R01182", "doi": "10.1109/jstars.2025.3573750", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2025.3573750", "text_bytes": 39427, "pdf": "", "html": "fulltext/html/R01182.html", "seconds": 6.3}
+{"rid": "R01249", "doi": "10.1016/j.asoc.2026.115515", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R01269", "doi": "10.1016/j.atech.2024.100581", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R01284", "doi": "10.1016/j.isprsjprs.2015.07.001", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R01302", "doi": "10.1002/ppj2.70006", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.5}
+{"rid": "R01303", "doi": "10.1016/j.atech.2025.100877", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R01504", "doi": "10.1016/j.fraope.2025.100369", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R01432", "doi": "10.1016/j.ophoto.2026.100117", "status": "ok", "tried": [["europepmc", "no"]], "via": "pdf", "source": "https://arxiv.org/pdf/2504.11022", "text_bytes": 260551, "pdf": "fulltext/pdf/R01432.pdf", "html": "", "seconds": 7.4}
+{"rid": "R01524", "doi": "10.1007/s11540-026-10063-6", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s11540-026-10063-6", "text_bytes": 98416, "pdf": "", "html": "fulltext/html/R01524.html", "seconds": 7.0}
+{"rid": "R01563", "doi": "10.1016/j.rse.2026.115336", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R01774", "doi": "10.2139/ssrn.5946343", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.9}
+{"rid": "R01604", "doi": "10.1016/j.knosys.2026.115703", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.8}
+{"rid": "R01792", "doi": "10.2139/ssrn.7360015", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R01684", "doi": "10.13031/aea.16247", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.9}
+{"rid": "R01970", "doi": "10.1109/jsen.2024.3459618", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R01971", "doi": "10.1016/j.atech.2024.100513", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R02057", "doi": "10.1007/s11119-026-10454-2", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s11119-026-10454-2", "text_bytes": 86353, "pdf": "", "html": "fulltext/html/R02057.html", "seconds": 8.7}
+{"rid": "R02108", "doi": "10.36227/techrxiv.174062971.11176782/v1", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R01916", "doi": "10.55041/ijsrem66380", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 15.3}
+{"rid": "R02113", "doi": "10.1007/s12559-025-10488-0", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/s12559-025-10488-0", "text_bytes": 90600, "pdf": "", "html": "fulltext/html/R02113.html", "seconds": 6.7}
+{"rid": "R02175", "doi": "10.1016/j.fcr.2026.110730", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R02226", "doi": "10.2139/ssrn.7153993", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R02229", "doi": "10.1016/j.atech.2026.102350", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R02236", "doi": "10.2139/ssrn.6539919", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R02240", "doi": "10.1007/s00138-026-01910-0", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.8}
+{"rid": "R02248", "doi": "10.5281/zenodo.23008134", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.3}
+{"rid": "R02257", "doi": "10.2139/ssrn.7267481", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R02318", "doi": "10.2139/ssrn.5252482", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R02294", "doi": "10.5281/zenodo.21833836", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.4}
+{"rid": "R02354", "doi": "10.1016/j.engappai.2026.114771", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R02434", "doi": "10.12988/ams.2026.919323", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.2}
+{"rid": "R02587", "doi": "10.1016/j.compag.2026.111964", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R02634", "doi": "10.2139/ssrn.6589940", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R02612", "doi": "10.1002/ppj2.70087", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R02534", "doi": "10.6084/m9.figshare.31385791.v1", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 13.5}
+{"rid": "R02688", "doi": "10.2139/ssrn.5242851", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R02791", "doi": "10.1080/01431161.2026.2648095", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.4}
+{"rid": "R02889", "doi": "10.3390/s26103206", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13211083", "text_bytes": 77067, "pdf": "", "html": "", "seconds": 2.1}
+{"rid": "R02837", "doi": "10.20944/preprints202609.1678.v1", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.20944/preprints202609.1678.v1", "text_bytes": 29441, "pdf": "", "html": "fulltext/html/R02837.html", "seconds": 7.8}
+{"rid": "R02997", "doi": "10.1007/s42044-025-00274-4", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.2}
+{"rid": "R03080", "doi": "10.1016/j.jag.2026.105548", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R03005", "doi": "10.1080/10095020.2026.2624280", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1080/10095020.2026.2624280", "text_bytes": 94506, "pdf": "", "html": "fulltext/html/R03005.html", "seconds": 8.5}
+{"rid": "R03228", "doi": "10.2139/ssrn.5352243", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 3.9}
+{"rid": "R03277", "doi": "10.2139/ssrn.7345639", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R03253", "doi": "10.3390/app16073177", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/app16073177", "text_bytes": 69643, "pdf": "", "html": "fulltext/html/R03253.html", "seconds": 7.0}
+{"rid": "R03317", "doi": "10.1016/j.compag.2025.111270", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R03133", "doi": "10.18420/giljt2026_07", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 18.3}
+{"rid": "R03467", "doi": "10.2139/ssrn.6827633", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R03661", "doi": "10.1016/j.aiia.2026.04.012", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R03749", "doi": "10.2139/ssrn.7372001", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R03738", "doi": "10.3390/agriculture16060664", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture16060664", "text_bytes": 95590, "pdf": "", "html": "fulltext/html/R03738.html", "seconds": 8.1}
+{"rid": "R03810", "doi": "10.1109/access.2026.3734726", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2026.3734726", "text_bytes": 70151, "pdf": "", "html": "fulltext/html/R03810.html", "seconds": 9.2}
+{"rid": "R03828", "doi": "10.1007/s12524-026-02567-y", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.8}
+{"rid": "R04016", "doi": "10.1155/ioa/1411368", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R04347", "doi": "10.1007/s41064-026-00419-5", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R04439", "doi": "10.1109/m2garss67833.2026.11582130", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R04369", "doi": "10.1109/icccnt61001.2024.10725369", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.1}
+{"rid": "R04006", "doi": "10.12133/j.smartag.sa202510026", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 21.5}
+{"rid": "R04504", "doi": "10.1109/icdxa69105.2025.11329797", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R04510", "doi": "10.1109/icmra62519.2024.10809352", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R04539", "doi": "10.3390/rs18172857", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs18172857", "text_bytes": 115951, "pdf": "", "html": "fulltext/html/R04539.html", "seconds": 8.2}
+{"rid": "R04727", "doi": "10.1145/3677525.3678696", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.2}
+{"rid": "R04662", "doi": "10.1109/icdm58522.2023.00031", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.4}
+{"rid": "R04734", "doi": "10.1109/metroagrifor58484.2023.10424071", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R04791", "doi": "10.1016/j.atech.2026.102273", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R04910", "doi": "10.1016/j.plaphe.2025.100024", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12709961", "text_bytes": 61932, "pdf": "", "html": "", "seconds": 4.1}
+{"rid": "R04979", "doi": "10.1109/icass69550.2026.11547747", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R04986", "doi": "10.1109/jstars.2024.3497653", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/jstars.2024.3497653", "text_bytes": 43121, "pdf": "", "html": "fulltext/html/R04986.html", "seconds": 6.3}
+{"rid": "R05023", "doi": "10.1109/eit64391.2025.11103692", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R05083", "doi": "10.1109/tensymp54529.2022.9864468", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R05095", "doi": "10.1109/migars67156.2025.11232009", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R05099", "doi": "10.1088/1742-6596/2711/1/012020", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R05155", "doi": "10.1016/j.compag.2026.111450", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R05162", "doi": "10.13031/aim.202500763", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R05235", "doi": "10.1109/icecco67619.2026.11488762", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.9}
+{"rid": "R05251", "doi": "10.5220/0014485200004067", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.1}
+{"rid": "R05244", "doi": "10.1080/01431161.2023.2204199", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 9.3}
+{"rid": "R05332", "doi": "10.1007/978-3-030-13469-3_9", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/978-3-030-13469-3_9", "text_bytes": 27026, "pdf": "", "html": "fulltext/html/R05332.html", "seconds": 6.5}
+{"rid": "R05344", "doi": "10.3390/rs14194915", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs14194915", "text_bytes": 72035, "pdf": "", "html": "fulltext/html/R05344.html", "seconds": 8.0}
+{"rid": "R05311", "doi": "10.1109/jstars.2026.3671096", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 90.9}
+{"rid": "R05438", "doi": "10.1109/access.2026.3651737", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1109/access.2026.3651737", "text_bytes": 43945, "pdf": "", "html": "fulltext/html/R05438.html", "seconds": 6.5}
+{"rid": "R05341", "doi": "10.1109/icivc55077.2022.9886334", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.4}
+{"rid": "R05388", "doi": "10.1109/aetcse69203.2026.11504334", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.3}
+{"rid": "R05521", "doi": "10.1109/dicta52665.2021.9647293", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R05430", "doi": "10.1109/aimla59606.2024.10531439", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.3}
+{"rid": "R05536", "doi": "10.1109/igarss55030.2025.11242356", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.0}
+{"rid": "R05517", "doi": "10.33693/2313-223x-2026-13-2-95-106", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 12.4}
+{"rid": "R05654", "doi": "10.1016/j.plaphe.2025.100004", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12709990", "text_bytes": 67996, "pdf": "", "html": "", "seconds": 2.8}
+{"rid": "R05740", "doi": "", "status": "not_retrieved", "tried": [["pdf", "no"]], "seconds": 0.0}
+{"rid": "R05717", "doi": "10.1109/igarss53475.2024.10641082", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R05675", "doi": "10.1109/adacis65663.2025.11436706", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.6}
+{"rid": "R05727", "doi": "10.1109/cmt.2019.8931403", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.5}
+{"rid": "R05755", "doi": "10.29207/resti.v9i5.6857", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R05772", "doi": "10.1016/j.dib.2026.113168", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC13519648", "text_bytes": 36173, "pdf": "", "html": "", "seconds": 3.8}
+{"rid": "R05906", "doi": "10.1109/cvprw.2019.00315", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.4}
+{"rid": "R05815", "doi": "10.3390/rs17223762", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/rs17223762", "text_bytes": 104743, "pdf": "", "html": "fulltext/html/R05815.html", "seconds": 8.4}
+{"rid": "R05910", "doi": "10.1109/cvprw63382.2024.00255", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.2}
+{"rid": "R05922", "doi": "10.1117/12.3094909", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.7}
+{"rid": "R05982", "doi": "10.1109/ispa54004.2022.9786306", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.1}
+{"rid": "R06057", "doi": "10.1016/j.patcog.2026.113086", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R06012", "doi": "10.1109/nelex69209.2026.11590231", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R05939", "doi": "10.3390/agronomy16141370", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agronomy16141370", "text_bytes": 68147, "pdf": "", "html": "fulltext/html/R05939.html", "seconds": 11.1}
+{"rid": "R06060", "doi": "10.1109/icaace69793.2026.11508629", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.1}
+{"rid": "R06125", "doi": "10.1109/siu53274.2021.9477948", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.7}
+{"rid": "R06068", "doi": "10.1109/robot61475.2024.10797395", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R06128", "doi": "10.1145/3677525.3678639", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R06140", "doi": "10.1109/iatmsi60426.2024.10503427", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R06188", "doi": "10.1109/dspa69176.2026.11476792", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.0}
+{"rid": "R06210", "doi": "10.1117/12.3122165", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R06235", "doi": "10.1109/iccvw69036.2025.00310", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R06319", "doi": "10.3390/jimaging7100198", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC8541592", "text_bytes": 52344, "pdf": "", "html": "", "seconds": 2.7}
+{"rid": "R06342", "doi": "10.1109/iros45743.2020.9341277", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R06443", "doi": "", "status": "not_retrieved", "tried": [["pdf", "no"]], "seconds": 0.0}
+{"rid": "R06351", "doi": "10.3390/agriculture14091511", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/agriculture14091511", "text_bytes": 93777, "pdf": "", "html": "fulltext/html/R06351.html", "seconds": 6.8}
+{"rid": "R06372", "doi": "10.1016/j.jag.2025.104379", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.2}
+{"rid": "R06448", "doi": "10.1109/icmla61862.2024.00246", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.1}
+{"rid": "R06488", "doi": "10.1109/raiie70320.2026.11566956", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R06495", "doi": "10.1007/978-3-032-14492-8_20", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.2}
+{"rid": "R06504", "doi": "10.1007/s10044-026-01754-4", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R06778", "doi": "10.1038/s41598-025-26225-4", "status": "ok", "tried": [], "via": "europepmc", "source": "europepmc:PMC12647907", "text_bytes": 55391, "pdf": "", "html": "", "seconds": 2.0}
+{"rid": "R06709", "doi": "10.3390/electronics15081762", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/electronics15081762", "text_bytes": 91719, "pdf": "", "html": "fulltext/html/R06709.html", "seconds": 6.8}
+{"rid": "R06793", "doi": "10.1016/j.jag.2025.104795", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R06748", "doi": "10.3390/app15137056", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.3390/app15137056", "text_bytes": 101270, "pdf": "", "html": "fulltext/html/R06748.html", "seconds": 43.8}
+{"rid": "R06894", "doi": "10.1016/j.biosystemseng.2024.10.005", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R06897", "doi": "10.1109/cvprw67362.2025.00211", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.3}
+{"rid": "R06899", "doi": "10.1007/978-3-030-93420-0_14", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.1007/978-3-030-93420-0_14", "text_bytes": 33658, "pdf": "", "html": "fulltext/html/R06899.html", "seconds": 6.4}
+{"rid": "R06901", "doi": "10.1007/978-3-032-03708-4_1", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.1}
+{"rid": "R06526", "doi": "10.1109/case59546.2024.10711616", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.7}
+{"rid": "R06925", "doi": "10.1109/migars72065.2026.11689206", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.7}
+{"rid": "R06790", "doi": "10.1109/icoecit68303.2026.11497206", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.3}
+{"rid": "R06967", "doi": "10.1016/j.compag.2025.110473", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.4}
+{"rid": "R06982", "doi": "10.17660/actahortic.2023.1360.8", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.8}
+{"rid": "R06823", "doi": "10.1109/iccvw69036.2025.00736", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 91.5}
+{"rid": "R06991", "doi": "10.1109/wacvw68408.2026.00092", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.7}
+{"rid": "R07032", "doi": "10.1117/12.2559514", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.2}
+{"rid": "R07008", "doi": "10.1109/apsipaasc65261.2025.11249182", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.7}
+{"rid": "R07040", "doi": "10.1016/j.isprsjprs.2022.09.010", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 7.9}
+{"rid": "R07037", "doi": "10.1016/j.rse.2023.113496", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.1}
+{"rid": "R07069", "doi": "10.1016/j.compag.2026.111862", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 8.1}
+{"rid": "R07070", "doi": "10.34133/remotesensing.0439", "status": "ok", "tried": [["europepmc", "no"], ["pdf", "no"]], "via": "chrome", "source": "https://doi.org/10.34133/remotesensing.0439", "text_bytes": 131334, "pdf": "", "html": "fulltext/html/R07070.html", "seconds": 13.4}
+{"rid": "R07116", "doi": "10.1016/j.compag.2025.110081", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.9}
+{"rid": "R07128", "doi": "10.1016/j.cropro.2024.106690", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.8}
+{"rid": "R07133", "doi": "10.13140/rg.2.2.29699.98086", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R07151", "doi": "10.2139/ssrn.4851453", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R07165", "doi": "10.2139/ssrn.7434488", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 3.8}
+{"rid": "R07170", "doi": "10.2139/ssrn.6835322", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 3.9}
+{"rid": "R07175", "doi": "10.13140/rg.2.2.19541.38889", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 3.7}
+{"rid": "R07184", "doi": "10.2139/ssrn.7228922", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.8}
+{"rid": "R07197", "doi": "10.1016/j.eswa.2025.129550", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.8}
+{"rid": "R07201", "doi": "10.1016/j.compag.2025.111195", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.5}
+{"rid": "R07217", "doi": "10.1016/j.engappai.2026.115643", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.0}
+{"rid": "R07223", "doi": "10.1016/j.jag.2026.105357", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.6}
+{"rid": "R07251", "doi": "10.1016/j.compag.2026.112429", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.4}
+{"rid": "R07285", "doi": "10.2139/ssrn.6685528", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.4}
+{"rid": "R07321", "doi": "10.1016/j.neucom.2026.134836", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 5.3}
+{"rid": "R07524", "doi": "10.2139/ssrn.7467807", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 4.3}
+{"rid": "R07411", "doi": "10.1007/s10341-026-01810-7", "status": "not_retrieved", "tried": [["europepmc", "no"], ["pdf", "no"], ["chrome", "no"]], "seconds": 6.7}

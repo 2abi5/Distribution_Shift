@@ -1,0 +1,32 @@
+{
+ "date": "2026-10-02",
+ "seeds_included_studies": 177,
+ "backward_unique": 4468,
+ "forward_unique": 8306,
+ "chased_unique": 12441,
+ "new_after_dedup_against_pool": 11459,
+ "prefilter_steps": {
+  "2015-2026": 10576,
+  "record type": 10348,
+  "English": 10282,
+  "crop-domain term": 7780,
+  "learning-method or ML-shift term": 5297
+ },
+ "removed_by_prefilter": 6162,
+ "screened_ta": 5297,
+ "ta_included": 194,
+ "duplicate_reports": {
+  "C00004": "R00015 (journal version, already included)",
+  "C00009": "C00011 (GigaScience version)",
+  "C00127": "C00126 (TGRS version)",
+  "C00166": "C00165 (Drones version)",
+  "C00178": "S00002 (GWHD 2020, Plant Phenomics)",
+  "C00179": "S00002 (same DOI, sentinel record)"
+ },
+ "sentinel_reports_sought_directly": [
+  "X00001",
+  "S00002",
+  "S00003"
+ ],
+ "note": "Prefilter applies the database query's building blocks (crop-domain term, learning-method or ML-shift term) plus year, type and language limits to chased records; reconstructed from the 2 October 2026 session log."
+}

@@ -1,0 +1,9 @@
+{
+ "_about": "MISMATCH entries checked by hand against the source and found correct. Read by verify_citations.py --resolved; each is listed in citation_report.md with its reason. Checked 2026-10-02.",
+ "singh2020plantdoc": "Crossref holds only the short title 'PlantDoc'. The full title 'PlantDoc: A Dataset for Visual Plant Disease Detection' is the one printed in the CoDS-COMAD 2020 proceedings and on arXiv:1911.10317.",
+ "koh2020wilds": "Cited as the peer-reviewed version: Proceedings of the 38th International Conference on Machine Learning, PMLR 139, 5637-5664 (2021), checked at proceedings.mlr.press/v139/koh21a.html. The database record is the 2020 arXiv preprint.",
+ "gulrajani2020search": "Cited as the peer-reviewed version: ICLR 2021 (OpenReview lQdXeXDoWtI; OpenAlex W3039431315 lists the ICLR location). The database record is the 2020 arXiv preprint.",
+ "R04716": "Crossref deposit reverses the given name and the initials (family 'M.K.S.', given 'Senthilkumar.'). The author is M.K.S. Senthilkumar, as in the publisher's own author string 'Senthilkumar. M.K.S.' (OpenAlex raw name).",
+ "R06278": "Crossref deposit swaps the Vietnamese family and given names (family 'Minh Triet', given 'Le'). The first author is Le Minh Triet; Le is the family name.",
+ "R06739": "Crossref deposit swaps the Chinese family and given names (given 'LI', family 'Qiannan') and lists affiliations as authors. The first author is Li Qiannan (Qian-Nan Li in OpenAlex)."
+}

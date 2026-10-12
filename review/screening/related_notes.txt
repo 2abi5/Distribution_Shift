@@ -1,0 +1,16 @@
+R02466 related-work: systematic review tomato detection, mean cross-domain loss 8.24%
+R01943 related-work: rice leaf disease benchmarks/bias review
+R00357 related-work: DA for agri image analysis review (arXiv 2506.05972)
+R01865 related-work: lab-to-field systematic review DA (CJSSR 2026)
+R02403 related-work: methodological critique ML Tanzanian agriculture
+R01986 related-work: crop recommendation review, spatial CV AUC .89->.55-.62
+R02176 related-work: AI crop disease systematic review, lab-to-field gap Africa
+R01037 related-work: AI early warning pipelines review, cross-region external tests 24%
+R03254 related-work: AI advisory smallholder NE India review; field domain shift
+R02966 related-work: BDCC evidence-weighted review (direct competitor)
+R03326 related-work: validation-induced optimism food spectroscopy multi-dataset benchmark
+R03290 related-work: grape disease DL systematic review generalizability
+R05775
+R06651
+R07003
+R07439

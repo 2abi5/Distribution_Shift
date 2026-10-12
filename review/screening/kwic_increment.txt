@@ -1,0 +1,1186 @@
+07037|Rapid early-season maize mapping without crop labels
+   > [no abstract]
+07038|Meta-learning baselines and database for few-shot classification in agriculture
+   > [no abstract]
+07039|Discriminable feature enhancement for unsupervised domain adaptation
+   > [no abstract]
+07040|Cross-phenological-region crop mapping framework using Sentinel-2 time series Imagery: A new perspective for winter crops in China
+   > [no abstract]
+07041|Automated delineation of agricultural field boundaries from Sentinel-2 images using recurrent residual U-Net
+   > field boundary extraction, and the automated technique has the potential of being applied to other regions.
+07042|Dual-polarization SAR rice growth model: A modeling approach for monitoring plant height by combining crop growth patterns with spatiotemporal SAR dat
+   > [no abstract]
+07043|Mounting evidence that managed and introduced bees have negative impacts on wild bees: an updated review
+   > [no term] Worldwide, the use of managed bees for crop pollination and honey production has increased dramatically. Concerns about the pressures of these increases on native ecosystems has resulted in a recent
+07044|Hyper spectral image classifications for monitoring harvests in agriculture using fly optimization algorithm
+   > [no abstract]
+07045|LettuceP3D: A tool for analysing 3D phenotypes of individual lettuce plants
+   > [no term] Lettuce is one of the major raw vegetables in the world, with diverse species and large differences in morphological structures. Achieving automated, high-throughput acquisition and intelligent analysis of 3D lettuce
+07046|Plant lipids: trends and beyond
+   > cover the epidermal cells and play a crucial role in protecting cells from the external environment. And the various fatty acids in the oils produced by plants are harvested … in the assembly and functioning of such complexes among plants, algae, and cyanobacteria. In another review, Guéguen and Maréchal (2022) focus on the biophysics of thylakoid membrane and propose
+07047|AGRONER: An unsupervised agriculture named entity recognition using weighted distributional semantic model
+   > [no abstract]
+07048|Evaluating and deploying Large Vision-Language Models for fruit quality assessment in smart agriculture systems
+   > [no abstract]
+07049|Global warming will affect the maximum potential abundance of boreal plant species
+   > scenario using temperature‐only models. We predict major potential changes in abundance and average northward distribution shifts of 6–8 km yr −1 . Our results emphasize inter‐specific differences in the
+07050|A seed of Albizzia julibrissin wild plant as an efficient source for biodiesel production
+   > [no abstract]
+07051|Cross-domain self-supervised few-shot learning via multiple crops with teacher-student network
+   > [no abstract]
+07052|A review on enhancing agricultural intelligence with large language models
+   > validates the application value of LLMs in agricultural knowledge services. Addressing core challenges in domain adaptation, including knowledge acquisition and integration, logical reasoning, multimodal data processing, agent collaboration, and
+07053|UDA-FlyRecog: Unsupervised domain adaptation for drosophila cross-domain recognition model
+   > [no abstract]
+07054|Agricultural large language model for standardized production of distinctive agricultural products
+   > [no abstract]
+07055|Vibration-based monitoring of agro-industrial machinery using a k-Nearest Neighbors (kNN) classifier with a Harmony Search (HS) frequency selector alg
+   > iv) similar levels of accuracy were obtained when using data from the accelerometers at different locations. The results suggested that it was feasible to predict the operational status of
+07056|Land cover associations of wild bees visiting flowers in apple orchards across three geographic regions of southeast Australia
+   > [no abstract]
+07057|Cross-individual electrophysiological signal recognition in Clivia biosensors via domain adaptation
+   > [no abstract]
+07058|Recent advances in drone-view object detection
+   > the image and makes capturing useful features for object detection difficult for the existing detectors.2)Different regions of drone-view images have great differences, and most objects are concentrated in the
+07059|Advances in agricultural fruit detection using you only look once (YOLO) algorithm: A review
+   > occlusions, and accuracy-speed trade-offs. Priority research directions include hardware-aware optimization, standardized benchmark development, and domain adaptation for cross-orchard generalization. These insights guide the advancement of YOLO-based fruit detection from laboratory studies toward reliable
+07060|Multidimensional diversity associated with plants: a view from a plant–insect interaction ecologist
+   > in top predators and high consumer diversity at intermediate trophic levels, while stability is decreased by high variation in interaction strengths (Gross et al., 2009). Furthermore, a high diversity … into local (alpha) diversity or turnover (beta diversity) of interactions from one site to another. Beta interaction diversity is one measure of response diversity, which is the number of
+07061|Classifying change and heterogeneity in amyotrophic lateral sclerosis
+   > [no abstract]
+07062|From vineyard to vision: Multi-domain analysis and mitigation of grape cluster detection failures in complex viticultural environments
+   > • Cross-domain validation: First cross-dataset evaluation of six modern detectors across stratified RGB/NIR vineyard datasets in China, Brazil and … YOLOv11, and YOLOv8-OBB maintain F1 ≥ 0.85 with low metric variance across RGB/NIR and degraded imagery, indicating strong cross-domain generalization. • Spectral findings: RGB outperforms NIR by 8–10%, but geometry and scale-aware architectures narro
+07063|Range contractions of farmland and steppe birds over two decades in relation to agricultural management in Spain
+   > 2018, evaluating their responses to agricultural management at the scale of agricultural counties. Using generalized linear mixed models (GLMMs), we quantified distribution shifts and species richness changes for three bird guilds classified by their dependence on … widespread contractions in species' distribution ranges. Total utilized agricultural area and agricultural yields exerted generalized
+07064|Towards densely clustered tiny pest detection in the wild environment
+   > [no abstract]
+07065|Growth and antioxidant responses triggered by water stress in wild relatives of eggplant
+   > [no abstract]
+07066|Roles of climate niche conservatism and range dynamics in woody plant diversity patterns through the Cenozoic
+   > age (mean family age), cold tolerance and per‐genus species richness. Results We found diversity decreasing with latitude in modern‐day flora, but not in the warmer periods of the Neogene and Palaeogene. The percentage of genera surviving decreased with latitude through the Cenozoic. Older genera with less cold tolerance and/or species‐poor genera
+07067|Meta-collaborative comparison for effective cross-domain few-shot learning
+   > [no abstract]
+07068|Feature structured domain adaptation for quality prediction of cross working conditions in industrial processes
+   > [no abstract]
+07069|Generative diffusion models for agricultural AI: Plant image generation, indoor-to-outdoor translation, and expert preference alignment
+   > Agricultural AI is often constrained by limited, imbalanced plant image datasets and pronounced domain shift when models trained on controlled indoor imagery are deployed in field conditions. To address these challenges, we propose an integrated diffusion-based framework with three components that can be used independently or as complementary stages: (1) text-conditioned plant image synthesis to e
+07070|Unsupervised Cross-Regional and Cross-Year Adaptation by Climate Indicator Discrepancy for Crop Classification
+   > of the same crop type caused by variations in a crop-growing environment between regions, cross-regional model transfer faces important challenges. Given that models trained in the source domain are affected by SITS variations and perform poorly in the target domain, in this paper, we propose an unsupervised domain adaptation method based on climate indicator discrepancy (ClimID-UDA), which addres
+07071|Out-break, Distribution and Management of fall armyworm, Spodoptera frugiperda J.E. Smith in Africa: The Status and Prospects
+   > [no term] A review was made to highlight various research works done so far regarding to the introduction, distribution and managements of fall army worm in Africa. It has been reported that
+07072|Unsupervised shape-aware SOM down-sampling for plant point clouds
+   > [no abstract]
+07073|National-scale mapping of plastic-mulched farmlands in China based on deep semantic segmentation and Sentinel-2 imagery
+   > plastic pollution mitigation in China, and offers methodological insights for large-scale PMFs monitoring in other regions.
+07074|Production of Feed Crops for Local Dairy Goats Using an Integrated Farming System
+   > production and composition of crops as feed, classify the types of integrated farming in different locations, and compare dairy goats based on their morphometric characteristics. The data used were
+07075|Ichthyosis as the dermatological phenotype associated withTTC7Amutations
+   > was also reported to play a critical role in human keratinocytes in culture by decreasing proliferation and increasing terminal differentiation of keratinocytes.8,9 The skin consequences of TTC7A deficiency in
+07076|Meta-transfer learning in cross-domain image classification with few-shot learning
+   > [no term] 目的现有基于元学习的主流少样本学习方法假设训练任务和测试任务服从相同或相似的分布，然而在分布差异较大的跨域任务上，这些方法面临泛化能力弱、分类精度差等挑战。同时，基于迁移学习的少样本学习方法没有考虑到训练和测试阶段样本类别不一致的情况，在训练阶段未能留下足够的特征嵌入空间。为了提升模型在有限标注样本困境下的跨域图像分类能力，提出简洁的元迁移学习（compressed meta transfer learning，CMTL）方法。方法基于元学习，对目标域中的支持集使用数据增强策略，构建新的辅助任务微调元训练参数，促使分类模型更加适用于域差异较大的目标任务。基于迁移学习，使用自压缩损失函数训练分类模型，以压缩源域中基类数据所占据的特征嵌入空间，微调阶段引导与源域分布差异较大的新类数据有更合适的特征表示。最后，将以上两种策略的分类预测融合视为最终的分类结果。结果使用mini-
+07077|Ethnobotanical plant diversity of Betalghat region, Kumaun Himalaya
+   > [no term] ABSTRACT The magnificent Himalaya is well recognized for its bio-physical diversity and socio-cultural heritage, traditional systems and an ample quantity of indigenous knowledge. The study was conducted for the documentation
+07078|Can plants evolve to meet a changing climate? The potential of field experimental evolution studies
+   > in life history (shorter life span and delayed flowering time) (Agrawal et al., 2013), decreased herbivore resistance, and increased competitive ability in response to experimental reduction of insect herbivores … generations could elucidate the interactions between genetic diversity and other factors. Gene flow is another population-level parameter that will affect the rate and direction of evolu
+07079|Rapid identification of soil types in agricultural land based on laser induced breakdown spectroscopy (LIBS)
+   > The difference in the nutrient content and harmful heavy metal content of different regions and types of soils can have a certain impact on the crops grown … own ecologically suitable areas for planting. Identification of the types of agricultural soil from different regions, can quickly providing references for the selection and cultivation of crops on different
+07080|Cross-dataset evaluation of visual semantic segmentation models for off-road autonomous driving
+   > compromising the safety of autonomous systems. To address these challenges, we present a comprehensive cross-dataset evaluation of visual semantic segmentation models for autonomous off-road navigation. We propose a unified … both training and testing. This approach ensures fair model comparisons and reliable assessment of generalization to unseen domains. We further benchmark models on the origin
+07081|Cross-season candidate enrichment in potato breeding using a multi-temporal UAV-based 3D phenotyping framework
+   > multi-temporal UAV-based workflow to improve the robustness of plot-level phenotyping and its utility for cross-season screening in potato breeding. Using two large field trials conducted in 2024 and 2025 … volume, and dynamic canopy development traits, showed consistent associations with yield across seasons. In independent cross-season tests, top-33% model-based selection increased mean yield by
+07082|Genotypic classification of wheat using near-infrared spectroscopy and PLS-DA
+   > an alternative for genotype and hardness classification even when the cereal was cultivated in different regions and years.
+07083|A zero-shot industrial process fault diagnosis method based on domain-shift constraints
+   > [no abstract]
+07084|Exploration of Life-Course Factors Influencing Phenotypic Outcomes in Crops
+   > [no term] The rapidly increasing global population will require more food in the future, but global food security is facing challenges from climate change, and limited arable land and water resources (Bailey-Serres
+07085|Fonio [Digitaria exilis (Kippist.) Stapf.] Diversity Revealed by Farmers and its Importance in Cropping Systems in Niger
+   > [no term] Fonio [Digitaria exilis (Kippist.) Stapf.] is a cereal which is experiencing a renewed interest worldwide due to its organoleptic, nutritional and dietary qualities. Investigations on farm and sample collections were
+07086|Adaptive Transfer Learning of Cross-Spatiotemporal Canonical Correlation Analysis for Plant-Wide Process Monitoring
+   > popularity in past decades. However, process dynamics and insufficient training data usually result in degradation or even failure of a trained model. To deal with these problems, this paper … transfer learning (CS-AdBoostTrLM). Different from the standard methods, CS-AdBoostTrLM has the following advantages: first, source domain (SD) data, which are discarded by the factory, can be re-enabled to 
+07087|PMF-LP: the first 10 m plastic-mulched farmland distribution map (2019–2021) in the Loess Plateau of China generated using training sample generation 
+   > PMF. Additionally, it remains unclear whether a pre-trained classifier can be directly applied to different regions and years for rapid PMF mapping. To address these challenges, we proposed a new framework that simultaneously takes advantages of the automation of index-based method and the generalization ability of supervised classifier-based approach for PMF mapping. Based on the distinctive spec
+07088|Image signal process with dynamic class-rebalanced and IoU-threshold for unsupervised domain adaptive dark object detection
+   > [no abstract]
+07089|Ejection fraction to classify heart failure: are we using the right thing?
+   > data set of 45 531 echocardiograms and 35 976 patients from New Zealand provided independent validation. Overall, adjusted hazard ratios (HRs) for mortality showed a U-shaped relationship for LVEF, … enhanced the disappearance of pyrophosphate signals, attesting to a rapid amyloid deposit removal and degradation, and also improved echocardiographic measures of cardiac performance. Importantly, a c
+07090|A winner in the Anthropocene: changing host plant distribution explains geographical range expansion in the gulf fritillary butterfly
+   > [no term] 1. The changing climate is altering species distributions with consequences for population dynamics, resulting in winners and losers in the Anthropocene. 2. Agraulis vanillae , the gulf fritillary butterfly, has
+07091|Computational anatomy and geometric shape analysis enables analysis of complex craniofacial phenotypes in zebrafish
+   > [no term] Due to the complexity of fish skulls, previous attempts to classify craniofacial phenotypes have relied on qualitative features or sparce 2D landmarks. In this work we aim to identify previously
+07092|Projected distribution shifts of resident monarch butterflies and consequences for migratory monarchs
+   > [no term] • Large increase in suitable area for the winter breeding populations by 2100. • Increased overlap between the distribution of migratory and resident monarchs. • Increased risk of disease spread
+07093|Competition for roadside camera monocular 3D object detection
+   > density. As a result, the challenge faced by the perception system becomes increasingly complex. Generalization. Generalization of the roadside algorithms is difficult. Compared with autonomous driving vehicles that move everywhere, … image along the channel dimension and feeding them to the model to extract features. Another method is also based on shared weights, but the depth map and RGB image
+07094|A phenotyping system quantifies pollen populations during heat stress using high- throughput microscopy and computer vision
+   > [no term] Plant reproduction is sensitive to heat stress. Pollen tube growth can be accelerated or arrested by high temperatures, leading to unstable tubes, failed sperm cell delivery, and ultimately crop yield
+07095|A holistic multimodal approach for real-time anomaly detection and classification in large-scale photovoltaic plants
+   > proposed holistic approach includes a built-in feedback loop to ensure the model’s robustness against domain shifts in the production environment.
+07096|Accurate localization of fruit targets and picking points with multi-dimensional attention and dynamic upsampling
+   > [no abstract]
+07097|Large-scale water balance modeling using remote sensing and weather data: Application in an agricultural growing region of the coastal northeast Brazi
+   > [no abstract]
+07098|Impact of climate change on wheat security through an alternate host of stripe rust
+   > scenarios. The species richness of Berberis was predicted to increase in northwestern Sichuan but decreased in southern and eastern Sichuan under both SSP245 and SSP585 scenarios. The mean temperature
+07099|Spatiotemporal Distribution Shifts of Zelkova schneideriana Under Climate Change: A Biomod2-Driven Modeling Framework
+   > [no term] Zelkova schneideriana (Ulmaceae), an endemic relict species of the Tertiary in China, has experienced a sharp decline in population due to habitat fragmentation, poor natural regeneration, and anthropogenic disturbances. It
+07100|Detecting wheat yellow dwarf disease by employing a Dual-Branch multiscale model from UAV multispectral images
+   > [no abstract]
+07101|Adoption of climate-smart agriculture practices in the Gorganrood basin in Golestan province
+   > approach a systematic and long-term solution whose implementation requires all-inclusive attention to farmers in different regions.
+07102|A CRISPR /Cas9‐mediated mutant library of seed‐preferred genes in rice
+   > grain chalkiness significantly increased, with a pronounced core and belly white endosperm (Figure 1g–j). Another mutant from the Chalk3 gene, SG6281, exhibited the same increased chalkiness (Figure S10). These
+07103|A unified spatial-spectral pyramid mamba for hyperspectral image classification
+   > [no abstract]
+07104|Self-Supervised Domain-Adaptive learning for Self-Labeling unknown rice grains during actual rice transportation process
+   > [no abstract]
+07105|An investigation into the potential of Gabor wavelet features for scene classification in wild blueberry fields
+   > [no term] A Gabor wavelets based technique was investigated as a potential tool for scene classification (into one of bare patch, plant, or weed) for its ultimate utility in site-specific application of
+07106|High-Throughput Robotic Phenotyping for Quantifying Tomato Disease Severity Enabled by Synthetic Data and Domain-Adaptive Semantic Segmentation
+   > [no term] Plant diseases cause an annual global crop loss of 20-40%, leading to estimated economic losses of 30-50 billion dollars. Tomatoes are susceptible to more than 200 diseases. Breeding disease-resistant cultivars
+07107|Climate-Driven Spatial Variation in the Plant Height of Chinese Wheat and Its Targeted Breeding Practices
+   > of plant height and its correlations with climatic factors in wheat varieties selected from different regions of China, with a view to providing a scientific basis for breeding wheat
+07108|Livestock provide more than food in smallholder production systems of developing countries
+   > Such interventions have contributed to the increase of populations of livestock over time in different regions (Figure 2). Figure 2 shows that the population trends of major livestock species … about 2%. More species seem to thrive in Africa and South Asia compared with other regions. In South America, the major species dominating seem to be cattle and chickens, whereas, in South East Asia, it is 
+07109|SwinGhost-ClustNet: An explainable deep ensemble model for papaya leaf disease detection and field deployment in Bangladeshi agriculture
+   > dosage recommendations, multi-label classification, model pruning (<100MB), cloud deployment (AWS/GCP), and multi-crop validation with domain adaptation (e.g., 98.89% on lemon leaves; Section 4.7) to address domain shift and species differences. This promotes precision farming, which minimizes losses and excess of
+07110|Context perturbation: A Consistent alignment approach for Domain Adaptive Semantic Segmentation
+   > [no abstract]
+07111|Ecological functions, ecosystem services, and biocultural significance of wild edible fruits in a biodiversity hotspot: Evidence from West Kalimantan,
+   > [no abstract]
+07112|Spatial distribution shifts of Batocera horsfieldi (Coleoptera: Cerambycidae) and its natural enemies in China under climate change: Implications for 
+   > [no term] With the increasing impact of climate change on global ecosystems, the ranges of species are undergoing significant changes. The aim of this study was to assess the potential suitable areas
+07113|Infrared Imaging to Assess the Wild Rocket (Diplotaxis tenuifolia) Response to Fusarium Wilt in the Early Stages of Infection
+   > where infected plants were detected by thermography at 48 h.p.i. Active thermography revealed a decrease in leaf heat capacity attributable to the fungal infection and the subsequent tissue colonization
+07114|ACCURACIES, ERRORS, AND UNCERTAINTIES OF GLOBAL CROPLAND PRODUCTS
+   > collection of a cropland reference data based on the cropland distribution and proportion for different regions in the entire world. In addition to the accuracy assessment, the cropland extent
+07115|Determination of Terrace Size and Density Index of Agricultural Terraces in Cittaslow Uzundere using Drone and GIS
+   > the need to define and classify them. In this regard, agricultural terraces across many different locations have found their place on the List of Globally Important Agricultural Heritage Sites
+07116|A domain adaptive wheat scab detection method for UAV images
+   > [no abstract]
+07117|Phenotype and Prognostic Factors in Geriatric and Non-Geriatric Patients with Transthyretin Cardiomyopathy
+   > were present across all age groups, but reports of carpal tunnel symptoms or surgery decreased with age. Conversely, among ATTRv patients, reports of extracardiac symptoms increased with age and
+07118|Characterizing 3D inflorescence architecture in grapevine using X-ray imaging and advanced morphometrics: implications for understanding cluster densi
+   > Clustering and correlation analyses revealed unexpected relationships, for example pedicel branch angles were largely independent of other traits. We identified multivariate traits that typified species, which allowed us to
+07119|A Comprehensive Review Of Yolov26 And Existing Yolo Variants: Architecture, Training Paradigms, And Applications In Medical And General Computer Visio
+   > [no abstract]
+07120|Assessment of bioplastics degradation using near-infrared hyperspectral imaging and computer vision techniques
+   > Monitoring the degradation of bioplastics under real-world conditions remains challenging due to the complex chemical, physical, and microbial processes involved. In this study, the biodegradation of cassava ( Manihot esculenta ) starch–cellulose films containing oregano ( Origanum vulgare ) … different soil conditions were evaluated using near-infrared hyperspectral imaging (NIR-HSI) combined wit
+07121|Bird Sounds Global - model builder: An end-to-end workflow for building locally fine-tuned bird classifiers
+   > [no term] Patrik Lauha1 , Meeri Rannisto2 , Panu Somervuo1 , Mikko Heikkinen2 , Bess Hardwick1 , Deirdre Kerdraon3 , Ossi Nokelainen4, 5 , Sebastian Andrejeff6 , Petteri Lehikoinen2 , Orlando Acevedo-Charry7,
+07122|GlioVis data portal for visualization and analysis of brain tumor expression datasets
+   > missing most of the datasets and the thorough knowledge generated over the years by independent laboratories for specific tumor types. Here we introduce GlioVis (http://gliovis.bioinfo.cnio.es, accessed October 31, 2016),
+07123|Genetic diversity in interspecific hybridization derived advanced maize inbred lines
+   > [no term] Genetic diversity in maize is incessantly being reduced due to modern breeding practices. This necessitates the creation of diverse pre-breeding lines with desirable allelic introgression from wild germplasm. With a
+07124|Object Detection of Pedestrain and Vehicle at Night Based on Improved YOLO Algorithm
+   > [no abstract]
+07125|Improved Unsupervised Domain Generalization by Leaf-Bridge For Soybean Leaf Diseases Classification
+   > [no abstract]
+07126|Dual-stage parameter-efficient tuning for in-field plant disease few-shot classification
+   > [no abstract]
+07127|Screening elite bacterial blight (BB) resistant wild rice germplasm for breeding: An AI-driven approach
+   > an IoU of 94.14%. Comprehensive evaluations, including BB resistance level evaluation, field testing, and generalization testing, demonstrated high accuracy (92.0, 94.0, and 95.6% respectively) and efficiency gains. This method
+07128|Cross-dataset discriminant subspace learning algorithm for apple leaf diseases identification
+   > [no abstract]
+07129|Prediction of potential climate change impacts on the geographic distribution shift of Casuarina junghuhniana and C. equisetifolia in Southeast Asia
+   > Pradhan P, Setyawan AD. 2024. Prediction of potential climate change impacts on the geographic distribution shift of Casuarina junghuhniana and C. equisetifolia in Southeast Asia. Biodiversitas 23: 6360-6371. Global
+07130|Non canonical c-CBL mutations define a specific phenotype of myeloid neoplasia
+   > family of RING finger E3 ubiquitin ligases that regulate proliferative signals via ubiquitination and degradation of tyrosine-phosphorylated signaling proteins, such as KIT, CSF-1, FLT3 and PDGF [ 1 ]. … 2 )] but this difference was not significant. However, Cox regression model showed an independent role of T/FS mutations as risk factor for poor outcome (Hazard ratio:1.642, 95% CI:1.002–2.690;
+07131|Interaction of INT8 Post-Training Quantization and Lab-to-Field Domain Shift in Edge Crop-Disease Classification
+   > photographs differsharply from the laboratory datasets used for training. Priorwork typically studies quantization or domain shift; few experiments measure whether the two effects interact. We traina MobileNetV2 classifier on … −AccD is nearzero (I ≈ −0.33 percentage points). Float32 in-domain accuracyis 98.67% (macro-F1 98.18%). Domain shift alone drops accuracyby 81.24 points, while INT8 costs o
+07132|Immunological characteristics of spring wheat introgressive lines to rust resistance
+   > [no term] The research goalis to classify wheat-alien forms of spring wheat according to diseases resistance on an infectious background. Uredospores of stem (Puccinia graminis), yellow (P. striiformis) and leaf rust (P.
+07133|Optimizing Lightweight YOLO for Precision Agriculture: Domain Adaptation and XAI for Crop and Weed Detection
+   > [no abstract]
+07134|Diversity and morphometrics of fruit flies (Diptera: Tephritidae) in South Gujarat, India
+   > However, the peak fruit fly population was observed between April to July and gradually decreased from September to December. Higher diversity index was recorded in Gandevi, followed by Navsari
+07135|O–H–C stable isotopes as discriminant markers for fruits botanical origin
+   > [no abstract]
+07136|Mapping of invasive plant species in Jalthal forest of Nepal using high resolution remote sensing data
+   > [no term] Invasive alien plant species (IAPS) can have consequential impact on the plant biodiversity, growth of native plant species and functional integrity of ecosystem. For example, in the Jalthal forest with
+07137|BREEDING VALUE OF PROLIFIC MAIZE VARIETIES WITH NICKING OF PARENTAL LINES
+   > a disproportion in morphological features of the structure of upper and lower ears, and decreases the productivity and quality of the lower ears. Conclusion. The studied prolific maize lines
+07138|Domain-aligned feature extraction with Mobilenetv2-GRL and KNN for wheat leaf disease detection
+   > While CNN-based solutions have demonstrated promising results, they often fall short in terms of generalization and interpretability. We present a novel, hybrid, domain adaptive pipeline for wheat leaf disease … domain invariance. The system design separates feature extraction from the classification, resulting in improved generalization performance. The feature extractor is fine-tuned using a mul
+07139|AIdhd: Emergent Cognitive Phenotypes in Sustained Human-AI Collaboration Among Neurodivergent Operators
+   > longitudinal self-study (N=1) in which a single operator produced over one million words of cross-domain output across eight professional disciplines, we document five novel features of this phenotype —
+07140|Study of Spatial Distribution of the Hawthorn (Crataegus monogyna) Trees Attacked by Orchard Ermine (Yponomeuta padella) in Bazoft Forests of Chaharma
+   > [no term] Forest trees demonstrate different distribution patterns, depend on their living condition (Such as pest infestations). Forest density and epidemic pest concentration are hypothetically among the most influential factors. The current
+07141|Distribution, host plants and natural enemies of Aleyrodes proletella L. (Hemiptera: Aleyrodidae) on collard (Brassica oleracea L. var. acephala) in D
+   > [no term] This study was carried out on distribution, density, host plant, and natural enemies affecting its population fluctuation of Aleyrodes proletella L. (Hemiptera: Aleyrodidae) on collard during the years of 2016-2017
+07142|Integrating Large Multi-Modal Models for Automated Powdery Mildew Phenotyping in Grapevines
+   > [no abstract]
+07143|Emerging problems of data quality in citizen science
+   > [no term] The role of citizen science in research and natural resource monitoring and management is increasing, as evidenced by the growing number of peer-reviewed publications (including a special section in this
+07144|Multi-cluster assessment of microplastics discharge from textile effluent treatment plants of India: Removal efficiency, characterization and associat
+   > [no abstract]
+07145|Radiological risks and excess lifetime cancer risk of the topsoil around the coal-fired Plomin thermal power plant (Istria, Croatia) and long-term eff
+   > [no abstract]
+07146|Resource-limited backpropagation-free alignment at test time for domain adaptation
+   > [no abstract]
+07147|Glycyrrhiza, a commonly used medicinal herb: Review of species classification, pharmacology, active ingredient biosynthesis, and synthetic biology
+   > and more recognition. However, due to the excessive exploitation of wild licorice resources, the degrading germplasm reserves fail to meet the requirements of chemical extraction and clinical application. AIM
+07148|Distribution models predict large contractions of habitat‐forming seaweeds in response to ocean warming
+   > presence of 15 habitat‐forming seaweeds. Distributional data (herbarium records) were analysed with MAXENT and generalized linear and additive models, to construct species distribution models at 0.2° spatial resolution, and project possible distribution shifts under the RCP 6.0 (medium) and 2.6 (conservative) emissions scenarios of ocean warming
+07149|Skimming the surface: duckweed as a model system in ecology and evolution
+   > Vasseur et al., 1995), as well as distributional ecology and biogeography (e.g., Keddy, 1976). Another trait that makes duckweeds amenable to research in ecology and evolution is the ability … can be challenging to mark and track individuals in a laboratory setting, let alone in the wild. That said, we think it will be possible to conduct individual-based studies in the wild using mark–recapture t
+07150|Atypical features in two adult patients with Cockayne syndrome and analysis of genotype–phenotype correlation
+   > [no term] To the Editor: Cockayne syndrome (CS; Mendelian Inheritance in Man # 133540, 216400) is a rare autosomal recessive neurodegenerative disorder described by Edward Cockayne in 1936.[1] The prevalence of CS
+07151|A Robust, Rapid, and Automated Framework for Plastic-Mulched Farmland Distribution Mapping Based on Training Sample Generation and Classifier Transfer
+   > [no abstract]
+07152|Vision-Language Models in Agriculture: A Review of Multimodal Reasoning for Crop Management
+   > enhance decision-making, improve resource efficiency, and support site-specific management. Future research must prioritize improved domain adaptation, model efficiency for edge deployment, enhanced human-AI collaboration, and more advanced reasoning capabilities
+07153|Climate change shifts the spawning ground northward and extends the spawning period of chub mackerel in the western North Pacific
+   > [no term] MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 624:155-166 (2019) - DOI:
+07154|Can Polyphagous Invasive Tephritid Pest Populations Escape Detection for Years Under Favorable Climatic and Host Conditions?
+   > after one or more generations in survey traps or by consumers, while if it decreased significantly, it would eventually become extinct as a result of inhospitable climatic or host
+07155|Cascading clustering based crop row detection with online domain adaptation
+   > [no abstract]
+07156|Empowering Agricultural Decision Making with CLM: Mechanism Guided Crop Large Model
+   > [no abstract]
+07157|Designing Effective Synthetic Datasets for Fruit Detection in Agriculture
+   > datasets with progressively refined scene composition and annotation geometry. Our evaluation demonstrates that models trained on high-quality synthetic data achieve cross-domain generalization comparable to models trained on established real-world datasets. Notably, we found that the domain gap between synthetic and
+07158|Farmers' delivery of floral resources: to “bee” or not to “bee”
+   > for biofuels in the crop insurance program, or increasing funding per acre of land transferred to the Conservation Reserve Program would make for a more sustainable agricultural landscape. Furthermore,
+07159|Drought-tolerant sesame mutant lines assessed by physiological traits and stress indices under water deficit conditions
+   > stomatal resistance significantly increased, while chlorophyll content, seed yield, and relative water content significantly decreased in stressed plants. Drought indices revealed substantial differences among genotypes, with tolerant ones showing
+07160|Geographical origin traceability of muskmelon from Xinjiang province using stable isotopes and multi-elements with chemometrics
+   > [no abstract]
+07161|Cstn: A Cross-Region Crop Mapping Framework Integrating Self-Training and Contrastive Domain Adaptation
+   > [no abstract]
+07162|Carton dataset synthesis method for domain shift based on foreground texture decoupling and replacement
+   > such as comprehensive pharmaceutical logistics company(CPLC), e-commerce logistics company(ECLC), fruit market(FM). However, due to domain shift, the model trained with one of the three scenarios in SCD has poor generalization ability when applied to the rest scenarios. To solve this problem, a novel image … AP by at least 4.3%~6.5% on RetinaNet and 3.4%~6.8% on Faster R-CNN for the target domain.
+07163|Genetic diversity and population structure of Bael [Aegle marmelos (L.) Correa] genotypes using molecular markers in the North-Western plains of India
+   > [no term] Bael is a fruit crop that is extensively distributed throughout South-East Asia and is underutilized in medicine. The potential applications of bael's therapeutic and nutritional qualities in diverse ethnic communities
+07164|Challenges of passive citizen science in ecology within a shifting social media landscape
+   > Effective conservation relies on comprehensive ecological data, including detailed species occurrences, to track distribution shifts, detect invasive species, and assess wildlife-human interactions. Despite recent technological advancements, environmental and
+07165|Disentangle Before You Align: A Method-Independent Evaluation of Domain Generalization for Cross-Crop Pest and Disease Recognition
+   > [no abstract]
+07166|From laboratory to field: Frozen foundation-model features toward robust plant disease recognition
+   > Plant-disease classifiers trained on the laboratory PlantVillage benchmark exceed 99% in-domain accuracy yet collapse to ∼ 26–30% … 70 pp laboratory-to-field gap usually blamed on background bias, which background removal, augmentation and test-time adaptation close only marginally. We show the gap is largely a property of the representation : a frozen self-supervised DINOv2 backbone with a linear
+07167|A framework for the regional critical zone classification: the case of the Chinese Loess Plateau
+   > its indicators were not exhaustive and can be adapted according to the situations of other regions. The types of CZs and field-observation stations of the CLP region. ChinaFLUX, Chinese … sampling frameworks to cover different types of CZs with certain spatial configurations specific to different regional contexts. At least one formal CZ observatory is needed for each CZ class
+07168|Shifting cultivation induced burn area dynamics using ensemble approach in Northeast India
+   > difference performed better than other vegetation indices. The ensemble approach can be applied in other regions with minor modifications in threshold values, thus having the potential for accounting to
+07169|Aerospace Telemetry and Computer Vision for Precision Agriculture Supply Chains: A Central American Case Study
+   > broader smart agriculture and digital transformation initiatives, providing a scalable model for adoption in other regions. In conclusion, this study demonstrates that aerospace telemetry combined with computer vision technologies
+07170|CD-APDM: Domain Adaptation with Long-Tail Handling for Real-Field Agricultural Pest and Disease Detection
+   > [no abstract]
+07171|Bounded openness: A robust modality of access to genetic resources and the sharing of benefits
+   > [no term] Societal Impact Statement The Fourth Industrial Revolution is underway. Controversy surrounds the choice of modality for access to genetic resources and the fair and equitable sharing of benefits arising from
+07172|SAF-CropNet: Spatially adaptive fusion of SAR and optical imagery for semantic segmentation in operational cropland mapping across regions
+   > with 3.38 M parameters and 6.21 GFLOPs for 256 × 256 SAR–optical inputs. In leave-one-area-out transfer experiments, stratified few-shot adaptation increased the average F1 score from 0.4986 under zero-shot transfer to 0.7698. Grouped cross-continental and cross-sensor experiments further showed that direct transfer remains constrained under compound shifts in sensor characteristics, … SAF-CropNet
+07173|Shade-tolerant temperate broad-leaved trees are more sensitive to thermal stress than light-demanding species during a moderate heatwave
+   > damage. Severe damage can significantly weaken forest trees and lead to accelerated forest mortality. Cross-species studies investigating the thermal sensitivity of temperate tree species are still rare. Here, we
+07174|Determination of Potato Crop Cultivation in Hamedan Province, Using time series Satellite Images IRSP6
+   > [no term] Potato is an important commodity in terms of nutrition basket. Lack of knowledge of this situation specially production level of this staple product has led to un-sustainability in supply and
+07175|Leveraging Temporal Distribution Shifts for Rice Disease Detection
+   > [no abstract]
+07176|Isp Dynamic Teacher: Image Signal Process with Dynamic Class-Rebalanced and Iou-Threshold for Unsupervised Domain Adaptive Dark Object Detection
+   > [no abstract]
+07177|CTNet: A cognitive-inspired TriPercept CrossFusion self-distillation model for image classification in agricultural field
+   > artificial intelligence image classification tasks, existing models often exhibit redundant feature extraction and limited generalization capability. To address these practical demands and technical challenges, we propose a Cognitive-Inspired TriPercept … a novel end-to-end trainable self-distillation framework, termed Cognitive-Inspired Multi-Stage Self-Distillation (CISD). CISD operates without 
+07178|Integrating prior information for improving 3D model-driven GAI estimation with application to wheat crops
+   > simulation datasets incorporating different combinations of prior information. Support Vector Regression (SVR) models were independently trained on these simulated datasets and validated against an extensive data set made of 310 … that integrates physical and biological knowledge; (2) narrowing the training space; and (3) minimizing distribution shifts. While this study focused on GAI estimation f
+07179|Change Detection Trend Prediction of Leisure Agriculture and Rural Tourism Based on High-Resolution Remote Sensing Image Classification Algorithm
+   > Domain adaptation algorithms for source and target remote sensing images from the same region are
+07180|Thermal niche predicts recent changes in range size for bird species
+   > [no term] Species' distributions are strongly affected by climate, and climate change is affecting species and populations. Thermal niches are widely used as proxies for estimating thermal sensitivity of species, and have
+07181|SPATIAL DISTRIBUTION SHIFTS OF LITHOSPERMUM ERYTHRORHIZON (BORAGINACEAE), A RARE MEDICINAL PLANT IN CHINA, UNDER FUTURE CLIMATE SCENARIOS
+   > [no term] Lithospermum erythrorhizon, a second-level protected wild plant in China, faces population decline and extinction risk due to medicinal overexploitation.This study integrates 209 distribution points and 37 environmental variables using Pearson
+07182|Desirability assessment in farmlands using Fuzzy approach: A case study of the areas with agricultural land use in Esfahan, Iran
+   > [no abstract]
+07183|Quantifying trophic niche spaces of small mammals using stable isotopes (δ15N and δ13C) at two scales across Alaska
+   > Changing climate conditions are causing global distribution shifts, resulting in altered food webs and novel species assemblages in terrestrial systems. How
+07184|Auditing the Hidden Pitfalls of Foundation-Model-Assisted Annotation in Agricultural Vision: A Cross-Domain Stress Test on Bean Leaf Disease Detection
+   > [no abstract]
+07185|Classification and molecular mechanisms of gametophytic male sterility in Arabidopsis, rice and maize
+   > functional map for pollen development • Identifies 18 candidate GAMS genes in maize using cross-species analysis and confirms the pipeline with ZmCESA6. • Proposes the development of novel breeding
+07186|Analysis of nutritional components in wild forage plants for musk deer in Ganzi Prefecture
+   > [no term] This study aimed to enhance the protection and management of musk animals from the perspective of feed nutrition. Eleven species of wild forage plants preferred by musk deer in the
+07187|Enhancing the generalization ability of blueberry impact damage classification model based on SEM-STMMN-SVM
+   > [no abstract]
+07188|Wild Bird Detection on Dairy Farms using a Training-Free Multi-stage Computer Vision Pipeline
+   > [no abstract]
+07189|Whole-Fertility Rice Growth Monitoring Based on C-Band Sar Data at the Phenological Scale Using Crop Growth Curve
+   > [no abstract]
+07190|A deep surrogate model with spatio-temporal awareness for water quality sensor measurement
+   > However, when applying the surrogate model to a new location, the surrogate performance could decrease significantly. We propose a deep surrogate model (DSM) with spatio-temporal awareness for estimating water … of raw sensor data and encodes the temporal and auxiliary information to improve the generalization of the DSM. The domain adaptation layer is designed to learn the spatial differences bet
+07191|Exploring drivers of land use/land cover transformations in Goang watershed Ethiopia: Integrating local community perceptions with remote sensing data
+   > study site. Future studies should compare perceptions and drivers of land use change across different regions to identify common patterns and unique challenges. This approach will enhance understanding and
+07192|Nonstationarity in the global terrestrial water cycle and its interlinkages in the Anthropocene
+   > change and human activities alter the global freshwater cycle, causing nonstationary processes as its distribution shifting over time, yet a comprehensive understanding of these changes remains elusive. Here, we
+07193|Production of selected rainfed crops in the climatic regions defined for the state of Maranhão, Brazil
+   > the state was divided; e) Evaluate the aggregate behavior of rainfed crops in these different regions. The data was collected from NOAA (2022), the Statistical Yearbooks and the IBGE's … that Maranhão has ten regions with rainfall regimes whose annual averages differ from one another. It is also clear that the same does not apply to the annual temperature
+07194|Studies on nutritional profiling of lesser-known wild edible plants of Central Himalayan regions of Uttarakhand
+   > [no term] Less explored and underutilized plants have always been a great source of food, feed, medicine and other daily necessities in the day to day life of local inhabitants since the
+07195|Artificial Intelligence in Trichoscopy: From Image Classification to Longitudinal Quantitative Hair Phenotyping - A Clinical-Technical Perspective and
+   > landscape shows that the field is still dominated by retrospective and single-source datasets, while external validation, longitudinal analysis, calibration, uncertainty handling, and multimodal integration remain limited. This clinical-technical perspective … phototrichogram analysis; describes methodological failure modes including patient-level leakage, weak reference standards, class imbalance
+07196|Temperature Zoning, a Guide to Crop Management in Isfahan Province
+   > it is possible to predict the time of occurrence of weeds and pests in different regions. Certainly, by combining temperature zoning with other elements required by each plant (soil,
+07197|HFE-Net: A lightweight cross-layer hybrid feature enhancement network for efficient Hemerocallis citrina leaf disease detection and generalization
+   > [no abstract]
+07198|A new framework for the technical biogas potential: Concept design, method development, and analytical application in a case study from Germany
+   > agricultural policy decisions, particularly those affecting livestock production, significantly influence the technical biogas potential: Decreases in manure and slurry formation may reduce the potential, but this could be offset … from livestock feed, depending on policy choices. The presented framework may be used for different regions given availability of data, while the results offer valuable
+07199|Irrigation reshapes weathering and pedogenesis in calcareous soils of tropical dryland (NE Brazil)
+   > [no abstract]
+07200|The study of the sorghum genetic diversity using the mul¬tiplex microsatellite analysis
+   > [no term] This study is focused on evaluation of the genetic structure and diversity of the national sorghum collection.Analyzing the genetic diversity of crop species is of great importance for genetic resources
+07201|Cross-phenological domain adaptation for early-stage peach detection
+   > [no abstract]
+07202|Klasifikasi Kematangan Buah Ciplukan dengan Metode Naive Bayes dan Ekstraksi Fitur GLCM
+   > [no term] Ciplukan fruit has high nutritional value, but is often considered a weed or wild plant by the public. The lack of public knowledge about this fruit causes them to not
+07203|3D Robotics and LMM for Vineyard Inspection
+   > rover, is equipped with LiDAR, RGB cameras and GNSS-visual-inertial positioning, ensuring reliable operation in GNSS-degraded vineyard environments. We propose a novel methodology for automating several stages of the workflow … 3D mapping provides highresolution spatial data, AI-driven object detection and vision models require further domain adaptation for reaching reliable and trustable operatio
+07204|Studying the robustness of data imputation methodologies against adversarial attacks
+   > three missing rates (5%, 20%, 40%). We assessed imputation quality using MAE, while data distribution shifts were analyzed with the Kolmogorov–Smirnov and Chi-square tests. Furthermore, we measured classification performance
+07205|Plant Power!
+   > a long and complicated history in Europe going back to ancient Rome. Parsley is another featured plant in the photograph The Herbalist, Parsley (Petroselinum sp.), (2021), as a possible emmenagogue, or plant that brings on menstruation. In another work in this series, The Handmaid, Queen Anne’s Lace (Daucus sp.) (2015–16), Queen Anne’s
+07206|Vision systems in agriculture – Lagrangian particle tracking and field robotics
+   > fields at the growth stage of V4, V6, VT, R2, and R6 from five different locations. The robot predictions agree well with the ground truth with the correlation coefficient
+07207|Crab semantic segmentation method based on dual image encoders
+   > and segmentation remain challenging due to significant inter-individual appearance variations, complex backgrounds, underwater imaging degradation, and camouflage characteristics commonly encountered in natural environments. To address these challenges, we construct … β ω (0.929), mE ϕ (0.978), and MAE(0.008) across multiple evaluation metrics. In addition, cross-domain validation on four public m
+07208|Designing Chitosan Synergies for Sustainable Crop Protection and Postharvest Control
+   > these domains, shifting the paradigm from empirical observation to mechanistic predictability. Furthermore, we propose transferable design principles and rigorous guidelines to overcome the performance inconsistencies that currently constrain the
+07209|On the Role of Geometric Representations for Ultra-Fine-Grained Crop Variety Identification
+   > a participatory banana dataset (87 classes), and a grape variety dataset exhibiting a strong domain shift (34 varieties). Our results show that geometric self-supervised representations provide the most suitable
+07210|Alternative classifier to TCGA molecular subgroups to identify recurrence risk for endometrial cancer (2263)
+   > [no abstract]
+07211|Transparent radiative coolers: Material strategies, optical design, emerging applications and beyond
+   > challenges remain in optimizing the trade-offs between transparency and emissivity, ensuring long-term durability under real-world conditions, and developing scalable fabrication methods. Looking forward, opportunities lie in morphology-engineered nanomaterials, multifunctional
+07212|Geoclimatic factors influence the population genetic connectivity of Incarvillea arguta (Bignoniaceae) in the Himalaya–Hengduan Mountains biodiversity
+   > [no term] Abstract Geoclimatic factors related to the uplift of the Himalaya and the Quaternary climatic oscillations influence the population genetic connectivity in the Himalaya–Hengduan Mountains (HHM) biodiversity hotspot. Therefore, to explore
+07213|Developing a generalized plant stand count model based on transfer learning
+   > count, providing critical information on crop emergence for replanting and field-management decisions. However, the generalization ability of existing methods remains limited across crop types and field conditions, particularly when only small target-domain datasets are available. This study developed an open-source and generalized plant stand count pipeline based on transfer learning. UAV imagery
+07214|Context Perturbation: A Simple Consistent Alignment Approach for Domain Adaptive Semantic Segmentation
+   > [no abstract]
+07215|PEYOTE CRISIS CONFRONTING MODERN INDIGENOUS PEOPLES: THE DECLINING PEYOTE POPULATION AND A DEMAND FOR CONSERVATION
+   > [no term] Once abundant, the wild growing peyote cactus plants in Texas and Mexico are being drastically reduced and becoming scarce. Peyote, a slow growing cactus contains the hallucinogenic drug mescaline, is
+07216|Morphological characters of different regions of cowpea (Vigna ungiculata L.)
+   > [no term] The cowpea, Vigna unguiculata (L.) WALP is an important grain legume crop in tropical and sub-tropical areas.Cowpea exhibits a considerable variation in leaf shape.Cowpea leaves are compound, having two asymmetrical
+07217|A framework for unsupervised cross-weather object detection of pears in complex environments
+   > [no abstract]
+07218|Generative Artificial Intelligence in Digital Agriculture: A Systematic Literature Review and Taxonomy
+   > [no abstract]
+07219|Rapid Identification of Agricultural Soil Types Based on Laser Induced Breakdown Spectroscopy (Libs)
+   > [no abstract]
+07220|Plant counting: origins, development, and future paths
+   > local, region-bound assessments. We hope this review can serve as a reference for building cross-species, cross-modal, and cross-scale visual plant counting systems.
+07221|Crop sequence typology dataset for North Rhine-Westphalia, Germany (2019–2025)
+   > updating of the dataset when additional years become available and for transferring it to other regions. The dataset is provided in a vector format (GeoParquet, WGS84) in a single
+07222|DairyPersonNet: A dataset of people in dairy processing environments for industrial computer vision research
+   > capture days and organized into train, validation and test subsets. The dataset includes challenging real-world conditions such as occlusions, reflective surfaces, mixed lighting and viewpoint variability. It is intended
+07223|Assessing the value of advanced Sentinel-1 SLC features for multimodal time-series crop mapping
+   > deployment. • Coherence gains transfer across held-out regions, with larger marginal contributions under regional distribution shifts.
+07224|Enhanced obstacle detection for intelligent agricultural machinery via transfer learning and improved YOLO11
+   > robust detection in agricultural settings remains challenging due to limited annotated data and significant domain shifts between generic visual datasets and agricultural scenes, which constrain the effectiveness of existing … that task-aligned transfer learning, combined with targeted architectural enhancements, effectively mitigates data scarcity and domain shift in agricultural obstacle detecti
+07225|Unsupervised domain-adaptive diffusion network for zero-shot fault diagnosis in chemical processes
+   > [no abstract]
+07226|AAPA Statement on Race and Racism
+   > What has been characterized as "race" does not constitute discrete biological groups or evolutionarily independent lineages. Furthermore, while physical traits like skin color and hair texture are often emphasized … outside Africa are largely a subset of those found within it. Moreover, diversity generally decreases in populations located further from Africa. Because the human lineage first emerge
+07227|From 2D image synthesis to 3D scene generation: a comprehensive review of synthetic data for agricultural vision
+   > limited by privacy and data-sharing concerns. Together, these factors restrict the scale, diversity, and transferability of real-world datasets. This paper provides a systematic review of two-dimensional (2D) and three-dimensional … task-driven design rules: select SDG according to the primary bottleneck (class imbalance, occlusion, or domain shift); favor a "3D geometry first, 2D stylization late
+07228|State of India's Birds 2023: A framework to leverage semi‐structured citizen science for bird conservation
+   > such “structured” long‐term datasets, “semi‐structured” datasets have recently emerged as a promising alternative in other regions around the world. Semi‐structured data are generated and uploaded by birdwatchers to citizen … of Birds assessments from semi‐structured citizen science datasets and springboard conservation action in many other regions where structured data are lacking but strong comm
+07229|Petrology and organic geochemistry of the Middle Devonian cutinitic liptobioliths from Luquan region, Yunnan Province, China
+   > [no abstract]
+07230|Spark framework-based crop yield prediction using KR-PEclat and Mish-ANFIS-GRU technique
+   > the crop yield only based on the soil and weather conditions which in turn degraded the efficiency of the crop yield prediction. Hence, an efficient Mish-ANFIS-GRU and DI-LDA-based crop … methodology is proposed. Initially, the data obtained from the historical dataset is pre-processed and data partitioning is performed using the KR-PEclat algorithm. The partitioned data is then fed into
+07231|DATerra: Boundary and structure aware domain adaptation for cross-regional terraced parcel extraction
+   > particularly terraced fields, exhibit complex geometries and fine-scale boundaries that are highly sensitive to cross-regional variations in imaging conditions and landscape patterns. Although unsupervised domain adaptation (UDA) has shown promise for remote sensing segmentation under domain shifts, most existing methods primarily focus on semantic alignment while failing to adequately preserve … 
+07232|Hot tomato pollen is different, but how?
+   > [no term] Tiny tomato pollen has an outsized role in reproduction, providing essential cellular and genetic material for fertilization and fruit generation. Unfortunately, high temperatures reduce pollination efficiency, harm fruit set and
+07233|Improved Nighttime Vehicle Detection Using the Cross-Domain Image Translation
+   > differ significantly between day and night, introducing difficulties in nighttime detection using pretrained models trained on daytime data. In this study, the nighttime vehicle detection performance is improved by
+07234|A Shift-Aware Deployment Framework for Wearable Stress AI: Cross-Dataset Phenotype Audit, Few-Shot Adaptation, Statistical Reliability, and Cost-Aware
+   > [no abstract]
+07235|Dynamic attention-based transfer learning strategies for efficient and scalable visual recognition in resource-constrained environments
+   > [no abstract]
+07236|Latitudinal variability of physiological responses to heat stress of the intertidal limpet Cellana toreuma along the Asian coast
+   > Mongkut's Institute of Technology Ladkrabang, Bangkok 10520, Thailand *Corresponding author: dongyw@xmu.edu.cn ABSTRACT: Potential future distribution shifts of intertidal invertebrates along the Asian coast in the face of global change
+07237|Leaf economics in a three‐dimensional environment: Testing leaf trait responses in vascular epiphytes to land use, climate and tree zone
+   > spectra, such as the leaf economics spectrum (LES), and trait–environment relationships can provide crucial generalizable information that can contribute to forecasts of distributional shifts in response to the abiotic
+07238|Perspectives of invasive alien species management in C hina
+   > along China's coast, highlighting the importance of rapid adaptation to local environments in driving distribution shifts and preserving population viability at the distribution edge. Biotic interactions between IAS and … by altering hydrological regimes. Furthermore, their results indicated that the richness of alien species decreased as native biodiversity increased, thus supporting the biotic r
+07239|Moving forward with fine‐root definitions and research
+   > [no term] In the letter published in this issue of New Phytologist (pp. 310–312), ‘Fine roots – functional definition expanded to crop species?’ Dr Zobel emphasizes the importance of heterogeneity within crop-root
+07240|Light Absorption and Chemical Composition of Brown Carbon Organic Aerosol Produced from Burning of Selected Biofuels
+   > [no term] Biomass burning organic aerosols (BBOA) emitted from wildfires and prescribed forest and agricultural burns have diverse composition and undergo complex reactions and transformations in the atmosphere, leading to profound impacts
+07241|SIT-ia: A Software-Hardware System to Improve Male Sorting Efficacy for the Sterile Insect Technique
+   > [no term] Invasive insects can cause significant economic impacts to agriculture worldwide and impact human health. Traditional pest management methods that include chemical insecticides have raised increasing environmental and health concerns, prompting
+07242|Vegetation prior-guided domain adaptation for interannual phenological stage classification of prostrate Thymus mongolicus using UAV RGB imagery
+   > low canopy height. In this study, we propose a novel framework, termed Vegetation Prior-Guided Domain Adaptation (VPGDA), to improve interannual phenological stage classification of the creeping aromatic plant Thymus … integrates a vegetation-aware attention mechanism derived from the Excess Green (ExG) index with adversarial domain adaptation to enhance phenology-related feature representation wh
+07243|Computer Vision Sensing Systems for Structural Health Monitoring in Challenging Field Conditions
+   > tests are conducted to evaluate the performance of these techniques. In the second part, another vision sensing system SurfaceVision is developed for accurate and robust monitoring two-dimensional (2D) structural
+07244|PES-3D: A stereo vision-based 3D spherical crop detector with prior-enhanced semantic shape modelling
+   > cluttered backgrounds, and partial occlusions. Additional evaluation on the KITTI benchmark confirms the method’s cross-domain generalisation capability. Preliminary field evaluations suggest that PES-3D provides more accurate crop contour perception for
+07245|Demo Abstract: Porting and Execution of Anomalies Detection Models on Embedded Systems in IoT
+   > 2020, 25.6 billion MCUs were shipped, and over 250 billion MCUs are already operating in the wild. Such low-power, low-cost MCUs are being used as the brain to control
+07246|Water Hyacinth and Primrose: Invasive Plants in the California Delta
+   > plant rafts can help to make predictions of the presence of water hyacinth at different sites in the Delta. This information will serve the economists to plan the mechanical
+07247|High-throughput microscopy image analysis of plant stomata
+   > [no term] High-oil tobacco varieties have been recently engineered to produce increased leaf oil content for future food and fuel needs. An engineered variety of Nicotiana tabacum produces ~30 percent of leaf
+07248|Potential distribution of the weaver ant Oecophylla under current and future climate
+   > Using the MaxEnt model with 19 bioclimatic variables and elevation, this study predicts potential distribution shifts for O. longinoda and O. smaragdina under various climate scenarios for the present … under climate change, particularly in agricultural pest control. As these ant populations expand across different regions, they may play an important role in future pest management strategies. Our 
+07249|Spatiotemporal assessment of land use land cover dynamics in Mödling district, Austria, using remote sensing techniques
+   > for improved assessment. Our findings reveal a slight reduction in Mödling's forest area – decreasing from 39.11 % in 1999 to 36.5 % in 2022 – with an overall … accuracy. Although NDVI and SAVI estimates revealed a non-monotonic trend in forest cover across different years, NDVI performed better than SAVI. The results of this study are vital, providing
+07250|Frame Dependence: Circuit Robustness Under Task-Preserving Distribution Shift
+   > [no term] Measures whether a circuit discovered on a diverse set of sentence frames remains faithful on frames it was not discovered on, and finds the question cannot be answered at the
+07251|MMTA-ACDD: Multi-teacher online adaptive learning and multimodal augmentation synergy for robust crop disease detection
+   > practical crop cultivation environments, real-time detection models not only need to perform excellently on source domain data but also must adapt to target domain data with different distributions. To address this challenge, this paper proposes a primary–auxiliary teacher collaborative enhanced supervision test-time adaptation framework to improve the robustness of real-time detection models in d
+07252|Towards an anthropology of plant names:Part 6: The binomial system
+   > adopted in 2018. Its principles try to administer a universal system that can be independent of a native language or culture but will also result in names that are … is the product of years of selection from something that would otherwise be found in the wild. In the case of the cultivated apple, we would call these original
+07253|AGHRI: A dataset and benchmark for multimodal robot perception of humans in agricultural and off-road environments
+   > [no abstract]
+07254|Rapid in situ analysis with portable XRF sensor: A pioneering study proposing fitness-for-purpose approach for performance assessment in tropical soil
+   > [no term] • In situ XRF enables soil chemical analysis with only 5 s of scanning time; • Both low and high level of CEC and av-Ca can be reliably predicted in
+07255|GeoSphere-DETR: RGB-D citrus fruit detection in cluttered orchards via geometry-gated fusion and geometry-aware confidence recalibration
+   > high false positive rates in RGB-based detectors. In addition, conventional RGB-D fusion methods often degrade under real-world depth noise and domain shifts. To address these limitations, this study introduces GeoSphere-DETR, a geometry-aware extension of RT-DETR … orchards and acquisition days, with a strict cross-field and cross-day evaluation protocol to assess generalization. An efficient ann
+07256|A domain generalized UAV tracking framework via frequency-aware learning and target-aligned data augmentation in complex environments
+   > [no abstract]
+07257|Adjust to reality: LLM-driven test-time semantic adjustment for zero-shot fault diagnosis
+   > [no abstract]
+07258|Classification of Some Medicinal Plants (Asteraceae) in Badia Al Muthanna, Iraq
+   > in the desert of Al-Muthanna, southern Iraq, by using morphological and taxonomic characteristics. In different locations for the Badia Al-Muthanna, field surveys were carried out, and plant samples were
+07259|IDH1 Mutation and World Health Organization 2016 Diagnostic Criteria for Adult Diffuse Gliomas
+   > in IDH1-mutant GBM was more than 3-fold longer than that in IDH1 wild-type GBM. Independent groups rapidly replicated the finding that IDH1 mutation is a favorable prognostic biomarker of … high-grade glioma.11,13,23 Subsequently, the majority of clinical studies indicated that IDH mutation was an independent prognostic factor in grade II and III gliomas.11,23-29 This evidence indicates that IDH1 
+07260|LeafCLIP: A detection method for the lesion areas of outdoor plants in complex lighting scenarios
+   > [no abstract]
+07261|Studies on volume based mass modelling and physicochemical properties of wild bitter apple (Citrullus colocynthis L.) fruits grown in the semi-arid re
+   > [no abstract]
+07262|Unique region produces special tea: Metabolomic basis of the influence of production region on the quality of Wuyi Rock Tea
+   > (UPLC-Q-TOF-MS). The results demonstrated that the metabolites significantly varied among the tea samples from different regions. The correct rate was 94.94% in classifying the production regions using the 1058
+07263|Enhancing Object Detection in Digital Images: A Hybrid Approach to Illumination and Shadow Filtering
+   > object. (2) Template matching method: This technique involves comparison ofportions of images against one another. Examples of this method are active Shape Model and shape template [3], [4]. (3) … detection may be achieved by image segmentation in which an image is split in different regions for analysis. Object detection in images is an essential step for many image
+07264|Composition of plant-associated RNA virus communities in two Brazilian regions with different levels of human intervention
+   > [no term] Recent high-throughput sequencing (HTS)-based studies of transcriptomes and metatranscriptomes have expanded our understanding of the global RNA virome with a vast number of novel RNA viruses revealed in diverse host
+07265|IUCN Red List Threatened Bird Classification from Citizen-Science Images using Fine-Tuned CNN Features and a Hierarchical Lightweight Classifier
+   > should be merged and four stages suffice. A controlled down-sampling study finds the cascade degraded but usable at 128x128 and broken at 32x32, where an apparent rise in protected-species
+07266|Improving Agricultural Yield Forecasting with Support Vector Machines and Multi-Layer Perceptrons
+   > criteria. Our developation addresses key limitations in existing approaches by incorporating multi-modal fusion and cross-domain adaptation, which enable more effective handling of complex data patterns. The experimental results confirm
+07267|Enhancing Object Detection in Digital Images: A Hybrid Approach to Illumination and Shadow Filtering
+   > object. (2) Template matching method: This technique involves comparison ofportions of images against one another. Examples of this method are active Shape Model and shape template [3], [4]. (3) … detection may be achieved by image segmentation in which an image is split in different regions for analysis. Object detection in images is an essential step for many image
+07268|Exploring biodiversity of Uruguayan vascular plants through DNA barcoding
+   > a single molecular marker, a combination of markers has been proposed (Hollingsworth et al., 2011).Another central aspect for taxa recognition using molecular markers is the need for a comprehensive … conservation status.A total of 51 samples, representing 50 vascular plant species were collected in different regions of Uruguay: grasslands of Rivera and Río Negro departments; the greenhouse of the
+07269|Reprint of “Ranunculacean flower terata: Records, a classification, and some clues about floral developmental genetics and evolution”
+   > [no abstract]
+07270|Rediscovery and conservation of Lithocarpus kostermansii Soepadmo (Fagaceae), an endemic and endangered tree species in Java, Indonesia
+   > [no abstract]
+07271|Quantifying Physical Properties of Three Sphagnum ‐Based Growing Media as Affected by Drying–Wetting Cycles
+   > [no term] Core Ideas 3D imaging and conventional observations revealed growing media physical properties. Decomposition degree controlled porosity and pore‐size distributions. Aeration was typically low when the amount of easily available water
+07272|New Climatic Zones in Iran: A Comparative Study of Different Empirical Methods and Clustering Technique
+   > [no abstract]
+07273|Layered cross-modal fusion for multispectral object detection: A case study on RGB–R walnuts
+   > under controlled complexity, and ablation experiments confirm that each scale makes a non-redundant contribution. Cross-domain experiments on FLIR, VEDAI, and DroneVehicle indicate that the proposed scale-wise division of labor generalizes to heterogeneous sensors and scenes. Qualitative visualizations further reveal that the three modules respectively
+07274|UF-YOLO: Unified feature modeling for robust cotton apical bud detection in agricultural videos
+   > [no abstract]
+07275|The distribution of Δ14C in Korea from 2010 to 2013
+   > [no abstract]
+07276|Monitoring diet with automated microhistology
+   > virginianus ) and goats ( Capra aegagrus ) with access to the same plants in the wild at the Sonora Research Station, Edward's Plateau, Texas. Consistent size and shape
+07277|Prevalence Survey of Medicinal Plants Found in Ashi Village of Gujarat State
+   > [no term] Medicinal plants’ survey is essential to plot the distribution of medicinally useful plants in a given area. Due to higher human activity and lack of awareness about medicinal plants, many
+07278|A new reconstruction of cropland spatial distribution in China since 1850
+   > China’s cropland area experienced a “fluctuating increase–rapid expansion–continuous decline” trajectory, peaking around 1980. Cropland distribution shifted northward toward Northeast China since the early 20th century and toward Northwest China
+07279|Enhancing Image Analysis: Illumination and Shadow Filtering for Object Detection in Unconventional Digital Images
+   > (2) Template matching method: This technique involves comparison of portions of images against one another. Examples of this method are active Shape Model and shape template [3], [4]. (3) … detection may be achieved by image segmentation in which an image is split in different regions for analysis. Object detection in images is an essential step for many image
+07280|A Study on the Introduction of Zoning in Biosphere Reserves: Focusing on the Laws Related Protected Areas
+   > [no term] Background and objective: A biosphere reserve is a complex concept that combines the preservation of biodiversity and the sustainable development with the region, outstanding ecosystems with worth conserving in worldwide.The
+07281|Monitoring Agricultural Vegetation Change in Antalya Using Multi-Temporal NDVI and GIS Analysis
+   > Systems (GIS) spatial analysis between 2013 and 2025, the research identifies a statistically significant degradation and spatial fragmentation of agricultural landscapes. Quantitative assessments reveal that the regional mean Normalized … standard deviation (0.14 to 0.18) and the coefficient of variation (27.4% to 41.8%). Frequency distribution shifts further highlight this ecological stress; the
+07282|Effect of Pollution and Seasonal Variability on The Water Quality in Different Sites of The River Nile, Aswan, Egypt
+   > [no term] SURFACE water quality and the seasonal dynamics of the Nile River in the Aswan district were analyzed using multivariate data analysis and overall pollution index (OPI) analysis. Water samples were
+07283|How future climate and tree distribution changes shape the biodiversity of macrofungi across Europe
+   > [no term] Abstract Aim Climate change is affecting biodiversity at an accelerating rate. Despite the importance of fungi in ecosystems in general, and in the global carbon and nitrogen cycle in particular,
+07284|Solar-driven interfacial evaporation and salt precipitation from porous media with in-situ magnetic resonance characterization
+   > media, and it blocks the vapor escape to the ambient air while T 2 distribution shifts towards the left. As for coarse porous media, the growth of patchy salt takes place at the free surface of the porous media while T 2 distribution shifts towards the right. More interestingly, crusty salt precipitation has been observed at the
+07285|Evaluating Self-Supervised and Supervised Methods for Cross-Scene Generalization in Agricultural Hyperspectral Data
+   > [no abstract]
+07286|The Color Red: Madder Dyes as Determinants of Provenance in a Group of Kalamkari Textiles
+   > east, while printed textiles were generally made in Gujarat in the northwest and some other regions. This research will examine traditional production methods still used in Gujarat and the
+07287|The Trials and Tribulations of Priors and Posteriors in Bayesian Timing of Divergence Analyses: the Age of Butterflies Revisited
+   > [no term] Abstract The need for robust estimates of times of divergence is essential for downstream analyses, yet assessing this robustness is still rare. We generated a time-calibrated genus-level phylogeny of butterflies
+07288|Transformer adaptation for plant bioelectric potential classification: A scoping review and analogical transfer framework
+   > extension for Scoping Reviews (PRISMA-ScR), spanning BEP and plant electrophysiology, Transformer-based time-series classification, and transferable mechanisms from non-BEP physiological and general time-series research. The final corpus comprised 18 direct … recurring Transformer bottlenecks related to tokenization, locality, trend-noise separation, frequency representation, channel dependency, l
+07289|Climate change drives contrasting shifts in fish species distribution in the Mekong Basin
+   > species distribution models (SDMs) to evaluate potential changes in fish species distribution under the independent and combined impacts of changes in climate and population density. Our results show that
+07290|Influence Of The Sugar-Loving Ant, Camponotus Compressus (Fabricius, 1787) On Soil Physico-Chemical Characteristics
+   > [no term] The present study focuses on the physico-chemical characteristics of the nest rim debris soil of a common, abundant, plant-visiting ant, Camponotus compressus (Fabricius, 1787). The results reveal that the colonies
+07291|Reinforcement Learning-Based UAV Route Planning for Perishable Agricultural Produce Delivery under Uncertainty
+   > [no abstract]
+07292|Farm-scale mapping of compost and digestate spreadings from Sentinel-2 and Sentinel-1
+   > the simultaneously tracking of both liquid and solid EOM applications using satellite imagery, for different years, seasons and surface conditions. Relying on Support Vector Machine (SVM) classifier, this study
+07293|Mechanical attributes of Swedish pea cultivars
+   > splitting and dehulling phenomena of Swedish pea cultivars (Ingrid, Clara and Balder) harvested from different years (2018, 2019 and 2020) in relation to chemical compositional profile and physical attributes.
+07294|Real-time monitoring of pepper harvesting loss using a lightweight vision model
+   > ● A robust lightweight detection network (Pepper-YOLO) is proposed for visibility-degraded agricultural environments. ● Prior-guided restoration strategy effectively mitigates domain shift caused by heavy dust. ● Multi-scale feature fusion and SimAM attention enhance representation … Prior (DCP) algorithm is applied to reduce dust effects and restore image clarity under degraded field conditions. 
+07295|An Essay on Hittite Cultic Calendar Based Upon the Festivals
+   > [no term] Due to the lack of adequate information, there is no an attempt to make a Hittite cultic calendar.But, festivals associated with the agricultural cycle for the Hittite cultic calendar can
+07296|Trusted Data Space for the Agricultural Industry Chain: Theoretical Framework, Operating Mechanism, and Implementation Path
+   > [no term] [Objective]Data across the agricultural industrial chain are generated throughout production, processing, storage, logistics, sales and supervision. Such data feature dispersed stakeholders, long‑link processes, multi‑source heterogeneity, and high privacy‑ and business‑information
+07297|Align knowledge with time-series: Cross-modal domain knowledge activation for LLM-enabled zero-shot fault diagnosis
+   > [no abstract]
+07298|Non-Parametric Domain Adaptation Fault Diagnosis Framework of Photovoltaic Array Based on Residual Input Guided Patch-wise Attention Network
+   > [no abstract]
+07299|Adaptive Settings for Quadrilateral Relays Considering Local Measurements and Ride-Through of Inverter-Based Plants
+   > [no abstract]
+07300|Mayo CALR mutation type classification guide using alpha helix propensity
+   > [no term] Myeloproliferative neoplasms (MPN) constitute one of the major categories of myeloid neoplasms, according to the World Health Organization (WHO) classification system.1 Included under the 2016 WHO MPN category are polycythemia
+07301|Evaluation of chemotherapy toxicities in patients receiving treatment for gastrointestinal cancers and therapeutic monitoring of 5‐fluorouracil as a c
+   > [no term] BACKGROUND: 5-Fluorouracil (5-FU) is essential in treating gastrointestinal cancers, but some patients show severe toxicity. The toxicity is exposure-related, which is linked to the enzyme dihydropyrimidine dehydrogenase (DPD) decoded by
+07302|Floral diversity expedition in Ladakh: An insight into the exploration, distribution pattern, ethnobotanical, phytochemical studies and conservation s
+   > and climatic hurdles, researchers from India and abroad have explored its rich flora. Plant distribution shifts with elevation and climate change, peaking at 4000 to 5800 meters and diminishing
+07303|Fine Classification of Aquatic Plant Associations in Lakeshore Zones Using Uav-Based Optical and Lidar Remote Sensing
+   > [no abstract]
+07304|Volatile Compound Profiling and Aroma Perception Mechanisms of Table Grapes: Insights from Terroir and Variety Variability
+   > aroma perception. This study reveals the physical basis that causes the aroma differences between different regions and varieties of table grapes, and provides a theoretical basis for exploring the
+07305|Automated measurement of long-term bower behaviors in Lake Malawi cichlids using depth sensing and action recognition
+   > is difficult, and this hinders progress in understanding decision-making in response to ecologically-relevant stimuli. In the wild, many animals manipulate their environment to create architectural constructions, which represent a … this setup is inexpensive (<$250 per setup), allowing for the simultaneous recording from many independent aquariums. We further show that bower construction behaviors
+07306|Quantifying physiological trait variation with automated hyperspectral imaging in rice
+   > has been established in automated controlled-environment across the globe. Nonetheless, each crop in every new environment requires specific experimental design and data analysis pipeline. At Purdue University's Ag Alumni
+07307|Scientists Explore Diversity of Han Chinese
+   > contemporary Han Chinese populations have retained the genetic imprint of early Neolithic farmers from different regions, thus highlighting the important roles of the three ancient agricultural traditions in shaping
+07308|Pear green fruit thinning strategy in complex environments based on improved YOLO v8
+   > [no abstract]
+07309|Moringa oleifera seed oils: Physico-chemical characterization and its authentication using FTIR spectroscopy and chemometrics
+   > acid compositions and authentication of Moringa oleifera seed oil (MOSO) is essential. MOSO from different regions had acid values of 0.32 ± 0.01 mg KOH/g, saponification values of 182.50
+07310|The Cactus Hunters: Desire and Extinction in the Illicit Succulent Trade, Minneapolis
+   > [no term] Margulies, Jared D. The Cactus Hunters: Desire and Extinction in the Illicit Succulent Trade, Minneapolis, University of Minnesota Press, Minneapolis. 2023. (pp 392) Paperback (ISBN: 9781517913991) $24.95. The Cactus Hunters:
+07311|Predicting the current and future suitable habitats, species distribution, and conservation assessment of Fritillaria dagana (Liliaceae)
+   > status, we aimed to forecast its current and future suitable habitats as well as distribution shifts for 2050 and 2080. The Maxent model with different scenarios (representative concentration pathway
+07312|Expanded genetic variation (SNP) and phenomics (image based) dataset for Populus trichocarpa
+   > [no term] The image dataset consists of 11,791 images representing 1,219 genotypes of Populus trichocarpa undergoing in planta regeneration. Genotypes were imaged with a median of four weekly timepoints and a median
+07313|From Wild Foods to Mixed Subsistence: Nonlinear Nutrition Transition among Hadzabe Foragers
+   > [no abstract]
+07314|Worldwide agroextractivism: A probabilistic approach
+   > probabilistic analysis using panel data. Our results include the analysis of 23 countries across different regions. Of these, nine are classified as agroextractivist. Through the probabilistic analysis, we identify
+07315|Pear Green Fruit Thinning Strategy in Complex Environments Based on Improved Yolov8
+   > [no abstract]
+07316|Computational stance dynamics in Türkiye’s Akkuyu nuclear power plant debate around the 2023 earthquakes
+   > [no abstract]
+07317|Lar-Net: A hierarchical referring image segmentation framework for poisonous weed identification on the Tibetan Plateau
+   > Poisonous weeds on the Tibetan Plateau contribute to grassland degradation and livestock poisoning, thereby threatening fragile ecosystems and local pastoral production. To enable more … baseline by 1.52 percentage points and indicating strong general RIS performance. In addition, supplementary cross-domain experiments on the public crop/weed dataset CWFID provide quantitative evidence of the mode
+07318|A nuclear power plant open set fault recognition method based on dual mode negative sample generation and distance guided learning
+   > [no abstract]
+07319|A Lightweight Wild Berry Detector with a Heterogeneous Backbone and Dynamic Feature Interaction
+   > [no abstract]
+07320|Molecular Phylogenetic Analysis and Characterization of Wild Sunflower Species
+   > [no term] As it is known, sunflower is a very important oil crop that is generally used in Turkey and the world. To compensate of Turkish vegetable oil need, with increasing population
+07321|RS-prompt: Prompt-driven domain-incremental learning framework for remote sensing farmland segmentation
+   > [no abstract]
+07322|Prediction of potential climate change impacts on the geographic distribution shift of Selaginella kraussiana and S. uncinata in East, South and South
+   > Sulton MN, Nugroho GD. 2026. Prediction of potential climate change impacts on the geographic distribution shift of Selaginella kraussiana and S. uncinata in East, South and Southeast Asia. Nusantara
+07323|Current Evidence Demonstrates That Monkeypox Is a Sexually Transmitted Infection
+   > being caused by an infectious microorganism that can be transmitted from one person to another through bodily fluids (blood, semen, vaginal fluids, rectal fluid, or saliva) during oral, anal, … vaginal sex with an infected partner.7 Direct inoculation via skin-to-skin contact during sex is another mode of transmission common to other sexually transmitted infections such as herpes simplex virus
+07324|Calibrated Uncertainty, Conformal Prediction, and Abstention for Safety-Critical Fusion Control: Handing Authority Back to a Deterministic Floor Out o
+   > the budget exceeds a threshold, and — following the revised control architecture, in which independent detectors vote and a majority is required to act — we generalise the single-threshold gate to a quorum of three independent epistemic channels (reconstruction, feature-space density, physics-residual), and show on the budget that the majority … that calibrated coverage, the quorum gate and the fl
+07325|Subtyping Bladder Cancers: Biology vs Bioinformatics
+   > to be relatively resistant to neoadjuvant chemotherapy (7). Furthermore, the second TCGA article identifies another aggressive basal subset (“neuronal”) that may require unique therapeutic approaches (4). Similarly, the Lund … reaching consensus about the nature of the molecular subtypes that exist in NMIBCs is another top priority for further research and discussion. Finally, the clinical value o
+07326|A workflow to design new directed domestication programs to move forward current and future insect production
+   > for species for which humans reinforce their control over population life cycle while they decrease gene flow between populations engaged in the domestication process and their wild counterparts (Teletchea … refer in the text to the directed pathway). This workflow ranges from the selection in the wild biodiversity of biological units (at species and intraspecific levels) to start new
+07327|Consensus adversarial feature gating: A generalization enhancing and mechanism interpretable framework for fault diagnosis in nuclear power plants
+   > [no abstract]
+07328|A Site Index-Based Approach for Arid Lands: A Multivariate Ecological Assessment for Shrubby Species
+   > [no term] Development of site index models for shrubby species in arid ecosystems remains a challenge, due to the absence of dominant height–age relationships and the complexity of ecological drivers in these
+07329|A COMPARATIVE MORPHOLOGICAL AND ANATOMICAL STUDY OF FRUITS AND SEEDS FOR SOME GENERA OF PAPILIONACEAE FAMILY GROWN IN SEFFEN
+   > [no term] Five species of fruits and seeds for five genera of Papilionaceae have been studied which are from the wild species of Dicotyledonous growing in the study area at the Seffen
+07330|Survival Strategies of Endemic Alpine Plants (Primula) in the Hengduan Mountains: Adaptation and Migration Under Global Climate Change
+   > [no abstract]
+07331|Knowledge-guided hierarchical reinforcement learning for robust operational control of chiller plants: Field deployment in a hotel building
+   > [no abstract]
+07332|Prioritization of germplasm resources for Epimedium breeding: Chemotype oriented discovery using cross latitude scale resource evaluation
+   > [no term] Epimedium is a traditional medicinal plant used healthcare consumption for thousands of years, and also serves as a highly sought-after raw material in the pharmaceutical industry. In recent years, wild
+07333|The Study of Effective Methods for Cleaning of Contaminated Water and Soil, Participation of Natural Radionuclides in the Processes Occurring in the P
+   > [no term] A comprehensive physical, chemical and microbiological analysis of water, vegetation and soil samples taken from regions of the country was carried out. The distributions of heavy metals, trace amounts of
+07334|Emerging Factors Affecting Supply Chain Management of Horticulture Produce: A Systematic Literature Review
+   > [no abstract]
+07335|Smart surveillance with conversational alerts for wild elephant early warning
+   > [no abstract]
+07336|The world according to amaranth: interspecies memory in Tehuacán Valley
+   > they interacted in an effort to exclude their own impressions.According to Brito, this practice decreased the possibility of projecting one's own ideals onto interviewed subjects.Researchers had to respect the
+07337|Phenotypic diversity of Jordanian wild oat relative avena sterilis using multivariate analysis
+   > This study is aimed at assessing the extent and the pattern of morphological variation in the wild populations of oat with respect to populations’ passport data, and to identify
+07338|Species composition of patches influences mangrove recruitment in a saltmarsh mosaic
+   > [no term] MEPS Marine Ecology Progress Series Contact the journal Facebook Twitter RSS Mailing List Subscribe to our mailing list via Mailchimp HomeLatest VolumeAbout the JournalEditorsTheme Sections MEPS 602:103-116 (2018) - DOI:
+07339|European bison conservation must move beyond entrenched debates – response to Kerley et al. (2020)
+   > select for open areas, and sometimes not. This suggests that European bison are fairly generalist as regards landscape composition – a point we have made repeatedly in the past … 2011; Kuemmerle et al., 2018). Likewise, life history, behavioral and morphological evidence point to generalist diets and habitat use (see Kerley et al., 2011 for a summary), but do
+07340|Diversity assessment and evaluation of Nepalese rice landraces for agronomic traits in Chitwan, Nepal
+   > [no abstract]
+07341|Introduction: Innate Lymphoid Cells Special Issue
+   > fast since then; pioneering studies of relatively rare cells with novel properties isolated from different sites were quickly drawn together and, despite the complexity of the picture, patterns emerged
+07342|Potential of San Fernando Province of Romblon as Ecotourism Destination
+   > of San Fernando, Romblon on becoming an ecotourism destination. It also aims to identify different sites favorable for the industry and classify it as focal, complementary and support attraction.
+07343|Are Phenotypes of PCOS and Vitamin D Levels Interlinked
+   > [no term] Aim: The present review is done to analyze the serum vitamin D levels in different phenotypes of polycystic ovarian syndrome (PCOS).Objectives: To estimate the serum levels of vitamin D in
+07344|Adapting the Re‐ID Challenge for Static Sensors
+   > [no term] ABSTRACT The Grévy's zebra, an endangered species native to Kenya and southern Ethiopia, has been the target of sustained conservation efforts in recent years. Accurately monitoring Grévy's zebra populations is
+07345|Probabilistic forecasting of renewable curtailment under regime change: an open dataset and a conformal method with distribution-shift-aware coverage 
+   > [no abstract]
+07346|An errata-corrected, plant-level dataset of solar, wind and hydropower curtailment in Chile's National Electricity System (2022–2026)
+   > energy), and two omitted days were recovered from the corresponding monthly hourly sheets with independent cross-checks against the source files' total columns. Every rule, affected file and treatment is
+07347|Out-of-Distribution Detection and Epistemic Gating for Autonomous Fusion Control: A Machine-Readable Extrapolation Ledger That Throttles Model Authori
+   > frozen design point (Q=3.076, P_fus=85.04 MW) interior — by two complementary detectors: a reconstruction/feature-space out-of-distribution (OOD) score and a machine-readable extrapolation ledger resolved across a nine-device breeder-and-burner post-diction base. … GPU-accelerated campaign that produced every quantity, and we benchmark the gating stack against the out-of-distribution-detection, un
+07348|WLP-YOLO: Edge-efficient UAV-based walnut detection for orchard monitoring via lightweight YOLOv8 and structured pruning
+   > structured pruning reduced the computational cost to 2.7 GFLOPs, with only a 0.2 percentage-point decrease in mAP@0.5. On the Jetson Xavier NX, the pruned model achieved a per-image latency … trade-off for UAV-based walnut monitoring, while transfer to other tasks requires task-specific retraining and cross-domain validation.
+07349|Predicting performance of diverse color vision genotypes of wild primates when foraging for food.
+   > (and more difficult) discrimination of fruit vs leaf bottoms, predicted accuracy based on color decreased to 76-92% for trichromats and 64-71% for dichromats; CIs had small amounts of overlap
+07350|Phenotypic diversity, genetic analysis and core collection development of Spanish tomatoes saved in the IMIDA germplasm bank
+   > [no abstract]
+07351|Research on adaptive fault diagnosis of nuclear power plant for cross-power levels generalization: preprocessing enhancement and postprocessing analys
+   > [no abstract]
+07352|Food webs coupled in space: Consumer foraging movement affects both stocks and fluxes
+   > interconnecting fluxes we could replicate empirically observed effects of spatial subsidies, such as biomass distribution shifts and effect attenuation, and elucidate the underlying mechanisms. Our results demonstrate how foraging
+07353|Risk-Aware Natural Gas Forecasting for Peaking Plants Under High Renewable Penetration via Chaos-Bayesian Reinforcement Learning
+   > [no abstract]
+07354|Evolutionary history ofKingiodendron pinnatum(Fabaceae: Caesalpinoideae), an endangered species of the Western Ghats, India: a phylogeographical appro
+   > [no term] Palaeoclimatic conditions and the Palghat Gap (PG), an ancient geological break, influence structuring of genetic diversity in the Western Ghats (WG) of India. The present study describes the first approach
+07355|Characterisation of atopic dermatitis (AD) endotypes and novel treatment targets: towards a molecular classification
+   > seen in key cytokine pathways such as increased IL22, IL36A/G, IL36RN and CCL22 and decreased IL37 expression in intrinsic AD. Thus, this report provides evidence that the distinction between
+07356|Design, construction, and evaluation of an autonomous robot for harvesting damask roses, equipped with a specialized end-effector
+   > YOLOv9t as an object detection model, all images were collected from the field under real-world conditions, achieving an accuracy of 96.2 %. However, the robot's performance metrics were evaluated in a laboratory setting. The robot consists of four main mechanisms: three independent rail-based linear movement mechanisms, an advanced end-effector, a TCS3200 color detection sensor module, and … insi
+07357|Rethinking conservation and restoration strategies of endangered and key medicinal Clavicarpa plants in Yunnan-Kweichow Plateau's Karst areas under cl
+   > patterns, with a particular focus on the influence of climate variables in predicting potential distribution shifts and assessing extinction risks under the optimistic SSP1-2.6 and the pessimistic SSP5-8.5 socioeconomic
+07358|Hyperspectral-based assessment of internal quality indicators of peach and quantitative transfer learning model analysis
+   > [no abstract]
+07359|In silico identification and characterization of differential expressed genes (DEGs) associated with grain and panicle number in rice
+   > [no term] Grain number is an important trait for yield in rice. Several genes have been identified controlling grain and panicle number, which has direct or indirect effect on yield. Some genes
+07360|Organic Insecticides for Control of the Rice Stink Bug (Hemiptera: Pentatomidae)
+   > day as field collection of stink bugs. Only one ai rate and controls were tested on any 1 d because of time needed for catching insects, setting up replicates,
+07361|Historic disturbance events may overrule climatic factors as drivers of ruderal species distributions in the Scandinavian mountains
+   > The contemporary interaction of climate and land use change drives vegetation composition and species distribution shifts, making their respective roles difficult to disentangle. In this study, we investigated long-term
+07362|Chemical Fingerprint of Some Wild Apiaceae Species Distributed in Aleppo, Syria, Based on Thin-Layer Chromatography
+   > [no abstract]
+07363|Revisiting the role of mean annual precipitation in shaping functional trait distributions at a continental scale
+   > play in determining plant success from first principles (McDowell et al., 2008, 2022). The independent contribution of MAP in shaping the spatial distribution of species traits, at least at … maximum plant height (MH) and leaf nitrogen per area (Narea), with LMA and Narea decreasing and MH and Δ13C increasing with MAP (Table 2; Fig. 2). In addition, MAP
+07364|Physics-grounded virtual mock-up and simulation-to-real transfer framework for AI-assisted PAUT of nuclear power plant carbon steel pipe welds
+   > [no abstract]
+07365|Identification and protection of suitable habitat hotspots for threatened bryophytes in Hainan
+   > threatened bryophytes.(2) Adjust the threat levels of some bryophyte species and place threatened bryophytes in the wild plant protection list of Hainan Province.(3) Protect the cloud forest regions and
+07366|PEACE-Net: A Label-Free Soybean Mapping Framework via Multi-Index-Derived Pseudo-Label Enhancement and Contrastive Embeddings
+   > [no abstract]
+07367|Mitigating asparagus decline through biosolarisation: a sustainable alternative to chemical soil fumigation
+   > yield in 2019 correlated with prior-year dry biomass (R 2 = 0.67), and grade distribution shifted towards thicker spears (18–26 mm) under dazomet and hen-manure biosolarisation. Fumigation delivered only
+07368|Foreign Trade Policy under D. Trump: Risks and Challenges at the State Level
+   > [no term] The paper examines the dynamics of exports and imports by states under the President D. Trump’s foreign trade policy; the effects of the unprecedented tariff raising against the United States’
+07369|Identifikasi Sebaran dan Karakter Tanaman Leci sebagai Tanaman Lansekap di Tepi Jalan Raya Payangan, Kecamatan Payangan, Kabupaten Gianyar
+   > [no term] ABSTRACTThe Identification of Distribution and The Character of Lychee as The Landscape Plant in Sides of The Jalan Raya Payangan, The District of Payangan, Gianyar RegencyLychee plants in Bali are
+07370|Analysis of Landscape Patterns and Related Countermeasures in Urban Human-Wild Boar Conflict Zones
+   > [no abstract]
+07371|POLR3A variants in hereditary spastic paraplegia and ataxia
+   > F1-8, F3-1, F11-1, F12-1 and F19-1) by Minnerop et al. (2017) are caused by another aetiology. Non-neurological features are not obligatory in POLR3-related disorders and include a wide range … not mentioned by Minnerop et al., however, it is the most common non-neurological feature. Another frequent non-neurological manifestation in POLR3-related disorders is short stature, which is seen in appro
+07372|Continual learning model evaluation for hyperspectral-based tomato bacterial spot detection in greenhouse
+   > (GEM-MLP) were compared with Sequential and Joint-training MLP models under two conditions: a future unseen-experiment generalization test (Scenario 1) and a same-distribution benchmark (Scenario 2). Genetic-algorithm feature selection reduced input … development, further suggests that early canopy-scale disease detection is limited by factors beyond cross-experiment distribution shift.
+07373|What drive the disparities in different types of rural tourism spots evolution in the metropolitan suburbs: the case of Shanghai city
+   > has evolved from a single-core agglomeration to a multi-core structure, with the centre of distribution shifting northeastward. Agricultural experiential rural tourism sites exhibit strong clustering, whereas agricultural science and
+07374|Supervised learning-based multi-site lean blowout prediction for dry low emission gas turbine
+   > [no abstract]
+07375|ELIMINASI POTENSI MUDA PADA KEGIATAN SUPPLY SMALL PART DI LOGISTIC SUPPLY PARTNER (LSP) MACHINING PT. ASTRA DAIHATSU MOTOR – ENGINE PLANT
+   > [no term] Astra Daihatsu Motor Engine Plant is a manufacturing company that produces motor vehicle engines. In the production process, Logistic supply partner Machining is a Logistics Sub-division whose task is to
+07376|Preliminary study on phytogeography of Dipterocarpaceae Blume family in Vietnam
+   > [no term] Biogeographically mapping flora of Vietnam requires the studies on the distribution of some important species groups for identifying the typical species composition of each phytochorion. The Dipterocarpaceae family contains taxa
+07377|The importance of C3 and C4 grasses and CAM shrubs in the Greater Cape Floristic Region under contemporary and Last Glacial Maximum climates
+   > of different photosynthetic types in local vegetation at a landscape scale and depict an independent estimate of carbon isoscapes across the GCFR – under both an interglacial (Holocene) and
+07378|DAFN-T: A Robust Temporal Multimodal Fusion Framework with Adaptive Modality Scoring for Tomato Stress Diagnosis in Cold-Region Greenhouses
+   > [no abstract]
+07379|Design of Land Selection Model for Sustainable Rice Field Direction Using SIG Technology in Kurik District of Merauke of Papua
+   > [no term] Kurik District is a rice production center in Merauke Regency. The use of rice field agricultural land in Kurik District needs to be optimized for improving community welfare and the
+07380|Agro-morphological characterization of robusta genotypes from the INERA Yangambi coffee collection, DRC
+   > [no term] Meeting rising quality standards while at the same time addressing climate challenges will make the commercial cultivation of Robusta coffee increasingly difficult. Whereas breeding new varieties may be an important
+07381|Whole Genome Analysis Identifies Homologous Recombination Deficiency in Cancers with BRCA1/2 Wild-Type and BRCA1/2 Structural Variants
+   > [no abstract]
+07382|Assessing Vegetation and Shoreline Responses in Reduced Wave Climates Using Google Imagery
+   > carefully evaluated for each location. Several projects fell into classifications that did not reflect real-world conditions. The shoreline and vegetative response of the three detached breakwaters based on historical
+07383|Variation characteristics of fluorescent biological aerosol particles in Beijing under springtime clean, haze and dusty condition
+   > [no abstract]
+07384|Integration of air-cooled multi-stack polymer electrolyte fuel cell systems into renewable microgrids
+   > microgrid, allows monitoring of the entire AC-MSFCS (operating temperature, purging, cell voltage monitoring for degradation evaluation, stacks operating point control and alarm and event management), as well as serving as a user interface. This allows the EMS to know the degradation of each stack and to carry out energy distribution strategies or specific maintenance actions, … excellent in terms
+07385|Idiosyncratic shifts in life‐history traits at species' geographic range edges
+   > trait evolution during range expansion, and question how to draw predictive projections of species' distribution shifts under current global change.
+07386|Diverse mechanisms of leukemogenesis associated with PAX5 germline mutation
+   > analysis of Pax-5 expression. PAX5 expression was evaluated in CASE B ( A ), in the wild-type mother ( B ), control lymphoblastoid cell line ( C ); only … the presence of the wild-type Pax5 protein only (Fig. 1B ), indicating a possible degradation of mutant mRNA by the nonsense-mediated mRNA decay pathway rather than the production of
+07387|Definitions Can Confuse: Why the “Neonative” Neologism Is Bad for Conservation
+   > in global temperatures. Should such species be viewed similarly to those that are extinct in the wild? Given species assemblages are likely to shift, does it make sense to
+07388|PERSEBARAN PURWOCENG (PIMPINELLA PRUATJAN MOLKENB.) MASA LALU DAN MASA KINI
+   > [no term] Purwoceng (Pimpinella pruatjan Molkenb.) is a kind of medicinal plant which is very popular for aphrodisiac purposes. This plant is originated Java especially in Dieng Plateau Central Java. However, in
+07389|Unshaded coffee imposes a heavier load on thermoregulation than shaded coffee for birds in a tropical mountainous region
+   > Distribution shifts and local extinctions in tropical montane birds are expected to result from intolerance … which Tamic would demand a cooling response and compared it between farm types with generalised linear regression models. Finally, we estimated the water lost to cooling as a percentage
+07390|Objective Metabolomics Research
+   > the difference between 2 most extreme diets. Those metabolites were listed as increased or decreased (with upward and downward arrows, respectively) according to the most extreme diets in the … allow comparisons of how the highly controlled and restricted laboratory data would relate to real-world conditions with uncontrolled diets. Although the authors provided quantification of 4 urine metabolit
+07391|Some principles of causal analysis in genetics
+   > mating (though here of course we really have a pure line of females and another of males in bisexual organisms). Such are the named varieties of wheat, and a … differences in one generation due to diversity of environment give rise to differences in another generation due to diversity of ancestry. The denial of Lamarckism also rests on the
+07392|Study of Determining Water Quality Status and Water Distribution Using Five Methods in Selorejo Reservoir
+   > [no term] A reservoir is a place to store river water formed by the construction of a dam. The main problem of reduced water quality for Selorejo Reservoir is caused by the
+07393|Temporal sensitivity of maize starch to short-term low-light stress: Critical window during early grain filling
+   > to starch, leading to a marked reduction in total starch content. Starch granule size distribution shifted towards larger granules, with the proportion of granules >20 μm increasing by up to 64%. Amylose content increased while relative crystallinity decreased. These structural alterations were accompanied by substantial functional declines, including lower gelatinization temperature and … retrogr
+07394|Global aridity changes affect wheat quality and stress induced metabolites: a pioneering study by multiblock PLS-R analysis
+   > and stress induced metabolites. Six common and durum wheat varieties were cultivated in four different locations over three years and climate data were monitored by several weather stations, eventually
+07395|Efficient Maize Leaf Disease Classification via EfficientNetV2-S and Attention-augmented BiLSTM with Pareto-optimal Binary Aquila Optimizer Feature Se
+   > and a 0.9929 Matthews Correlation Coefficient.On PlantDoc, accuracy reaches 93.65% with a macro-F1 of 0.9462.Cross-dataset transfer evaluated on the full 314-image PlantDoc set yields 78.34% (246/314) accuracy, exceeding strong
+07396|Beef production and carcass evaluation in Brazil
+   > The current standard for carcass classification is based on dentition, gender, carcass weight, and subcutaneous/external fat scores. This paper aims to explore the main characteristics of beef cattle production … the Brazilian per capita beef consumption was estimated at 34.37 kg/year, which represents a decrease of 7.75 kg/year compared to the 2018 estimation (ABIEC, 2019). Despite Brazil achievi
+07397|Variable species establishment in response to microhabitat indicates different likelihoods of climate-driven range shifts
+   > to soil biota, soil moisture, temperature, and snow duration. Microhabitat suitability predictions suggest that distribution shifts are likely to be species-specific, as different species have different suitabilities, and availabilities,
+07398|Chinese Multidisciplinary Expert Consensus on the Diagnosis and Treatment of Hyperuricemia and Related Diseases
+   > A nationwide epidemiological survey of HUA is still lacking in China. The data from different regions at various times have shown an overall increasing prevalence of HUA in the … studies be in the on the an epidemiological of HUA and the factors in different regions of China, a the of the and a of the and of and
+07399|Dynamic variance computation for improved model reliability: A non-parametric approach for out-of-sample predictions
+   > [no abstract]
+07400|Pictures in public communications about livestock farming
+   > densities as welfare improvement because they are not obvious to lay-people in visuals. In another German study, the effects of different photo shoots showing the same circumstance were analyzed … not enhance acceptance of the system. Little space and fully slatted floors were criticized. Another study using a quantitative online survey in Germany comes to similar conclusions (Gauly et
+07401|Critical analysis of polycyclic tetramate macrolactam biosynthetic cluster phylogeny and functional diversity
+   > [no term] ABSTRACT Polycyclic tetramate macrolactams (PTMs) are bioactive natural products commonly associated with certain actinobacterial and proteobacterial lineages. These molecules have been the subject of numerous structure-activity investigations since the 1970s.
+07402|Hierarchical attribute-guided generalized zero-shot learning method for industrial fault diagnosis
+   > [no abstract]
+07403|Promoting effect of corn stalk on the aquathermolysis of low-asphaltene heavy oil over Ni–Mo/Al₂O₃ catalysts
+   > promoted the conversion of polar fraction into saturates, increased the atomic H/C ratio, and decreased sulfur and nitrogen contents. The average molecular weight decreased from 535.1 to 482.7 g·mol −1 , and the boiling-range distribution shifted toward lighter fractions. 1 H NMR indicated suppressed aromatization/condensation and increased aliphatic hydrogen.
+07404|Robust under-canopy navigation path extraction for collaborative harvesting robots using semi-supervised UniMatch V2 segmentation enhanced by edge-con
+   > [no abstract]
+07405|Real-time onboard rice lodging direction regression on combine harvesters via physics-prior-guided vision mamba
+   > The Coefficient of Determination (R 2 ) is 0.94. Zero-shot evaluations on newly annotated independent external regional datasets from Shehong, Sichuan and Quzhou, Zhejiang demonstrate that the model maintains robust generalization under severe geographic domain shifts. On the two external datasets, the model achieved MAE values of 3.84° and 4.06°, with R 2 values
+07406|Techno-flowers: entwinements of technology and nature in The Birth of a Flower and Little Joe
+   > [no term] The UK general release of Austrian director Jessica Hausner’s first English-language feature, Little Joe (2019), coincided at the London BFI Southbank in February 2020 with the launch of a major
+07407|Evaluation of grassland degradation status and vegetation characteristics changes in Hulunbuir
+   > Aims: Grassland degradation impacts the composition, structure, and ecological functions of plant communities, threatening ecosystem stability.Accurately assessing grassland degradation is essential for developing effective conservation measures and management strategies.Methods: This study utilized remote sensing data based on vegetation coverage to evaluate the current status of grassland degrad
+07408|ОЦЕНКА ОПАСНОСТИ РАСПРОСТРАНЕНИЯ БОРЩЕВИКА СОСНОВСКОГО В РОССИИ
+   > [no term] 目的 基于Transformer架构的网络在图像分类中表现出优异的性能。然而，注意力机制往往只关注图像中的显著性特征，而忽略了其他区域的次级显著信息，基于自注意力机制的Transformer也是如此。为了获取更多的有效信息，从有区别的潜在性特征中学习到更多的可判别特征，提出了一种互补注意多样性特征融合网络（complementary attention diversity feature fusion network，CADF），通过关注次显特征和对通道与空间特征协同编码，以增强特征多样性的注意感知。方法 CADF由潜在性特征模块（potential feature module，PFM）和多样性特征融合模块（diversity feature fusion module，DFFM）组成。PFM模块通过聚合空间与通道中感兴趣区域得到显著性特征，再对特征的显著性进行抑制，
+07409|Challenges in Utilisation of Macrobials and Microbials in Biological Control
+   > on plant defense signaling, varied thermal responses of herbivores, and its natural enemy and distribution shifts. It also comprises challenges concerning habitat manipulation, hyperparasitism, recognition and quantification of multiple
+07410|Multicentre External Testing of an AI-Assisted Trichoscopy System: Scalp Disorder Classification and Quantitative Hair Phenotyping - Protocol and Stat
+   > This protocol pre-specifies a multicentre external test of a frozen AI-assisted trichoscopy system for scalp-disorder classification and quantitative hair phenotyping. The study is designed to separate development data from external test data at the patient level, use an independent and blinded reference-standard process, quantify diagnostic discrimination and calibration, evaluate abstention and 
+07411|Detection of Oranges on Trees Across Diverse Field Conditions Using YOLOV11 Models
+   > [no abstract]
+07412|Impact of Accumulated Temperature on Wetland Vegetation Area in燩oyang燣ake
+   > sensing images of similar accumulated temperature rather than similar date should be selected from different years for comparison. We also found that, effects of different hydrological factors on area
+07413|Soft cerebellar signs unveil RARS2‐related epilepsy
+   > [no term] Pathogenic RARS2 variants, by critically reducing mitochondrial arginyl-tRNA aminoacylation activity, cause a rare autosomal recessive disease, generally presenting as a severe encephalopathy with onset at birth, premature death, microcephaly, drug-resistant
+07414|Physics-as-a-layer multi-task forecasting of photovoltaic power and module temperature with numerical weather prediction
+   > [no abstract]
+07415|BU54 | Layered Technical-Path Probing under B_U BU27 / BU20 x BU50, Structured Pruning, Multi-Step Zeroing, Residual Relocation, Minimal-Structure Cap
+   > planning and materials-modeling tasks. However, it remains a projection model with residuals, gaps, and out-of-distribution risk; it cannot replace ontic audit or grant reality-standing. BU54 concludes that technical progress
+07416|Knowledge-data-model-driven multimodal few-shot learning for hyperspectral fine classification: Generalization across sensor, category and scene
+   > [no abstract]
+07417|Structural basis of prokaryotic NAD-RNA decapping by NudC
+   > G) cap is essential for modulation of mRNA metabolism and protects the mRNA from degradation 1 . Removal of the cap from the 5′-terminus of the RNA is mainly … the Nudix hydrolase superfamily, whose members act on substrates of nucleoside diphosphate linked to another moiety, X (hence the name Nudix) 8 . The Nudix enzymes share a conserved
+07418|Sticking to seeds: direct regulation of cellulose synthesis controls seed mucilage development
+   > in cellulose synthesis in seed coat mucilage and cesa5 knock-out mutants have a substantial decrease in crystalline cellulose (Harpaz‐Saad et al., 2011). In recent years, the identification of multiple … reduction in the thickness of the adherent mucilage that can be attributed to a decrease in the crystalline cellulose content in the seed mucilage. The hdg2 mucilage shows irregular
+07419|P1‐488: BEHAVIORAL MANIFESTATIONS, AGRESSION AND PLAQUE DISTRIBUTION IN TRANSGENIC MOUSE MODELS OF ALZHEIMER'S DISEASE
+   > [no term] Behavioral aggression is a common neuropsychiatric symptom that coincides with progressive cognitive decline in adults with Alzheimer's disease (AD). One of the key hallmarks of AD is progressive accumulation of
+07420|Soil moisture and soil temperature trends across 21 sites over Northeast India and nearby areas using statistical tests
+   > [no abstract]
+07421|AI-assisted tractor control for secondary tillage
+   > we analyze the models when tested under the field conditions in the field trials (out-of-distribution) that are different from the field conditions during training data collection. The out-of-distribution testing leads to a reduced performance in terms of rRMSE of the decision-time planning
+07422|Biomarkers in NOA-04: another piece to the puzzle
+   > [no term] Molecular analyses are now integral to the diagnosis of lower-grade (World Health Organization [WHO] grades II–III) diffuse gliomas, with 3 biologically distinct and prognostic subgroups. From least to most aggressive,
+07423|Mitigating the role of aquaculture in crustacean invasions
+   > many regions.9 Farmed species are selected for traits which exacerbate their establishment and spread in the wild10 such as rapid growth, broad diet and resistance to parasite.11 Biological invasions, … pool or selective loss of genotypes Impact on native habitats Impact on fish community Decreased food resources and thus mollusc and amphibian occurrences Altered trophic levels Greater vulnerabili
+07424|Key enzymes behind black pepper aroma in wines
+   > no way reminiscent of the spice. Only afterwards, when the precious liquid had been transferred for safe storage, did we observe with relief that the rinsed glassware, containing only
+07425|DISTRIBUSI DAN KONSERVASI REKREKAN (Presbytis comata fredericae) DI TAMAN NASIONAL GUNUNG MERBABU
+   > [no term] Rekrekan (Presbytis comata fredericae) merupakan salah satu primata endemik Pulau Jawa yang kondisinya semakin terancam. Distribusi satwa ini kini terbatas pada fragmen hutan pegunungan di Jawa bagian tengah, dan salah
+07426|Hazardous waste management and one health approach
+   > introduce chemical and biological hazards, construction and demolition materials increase landfill pressures and environmental degradation, and agricultural and healthcare wastes pose risks of pathogen dissemination and chemical contamination. Hazardous … and animal health. Once released, heavy metals persist in the environment due to their non-biodegradable nature. (Hoek et al., 2018) Despite a 9
+07427|Disentangling the complexity of climate change and land‐management effects on wildlife communities
+   > from non-breeding water bird surveys to answer a topical question: Under climate change, do distribution shifts of hunted duck species differ from those of non-hunted (and other hunted) species?
+07428|The World Through Roman Eyes: Anthropological Approaches to Ancient Culture ed. by Maurizio Bettini and William Michael Short
+   > [no term] Reviewed by: The World Through Roman Eyes: Anthropological Approaches to Ancient Culture ed. by Maurizio Bettini and William Michael Short Lora L. Holland Goldthwaite Maurizio Bettini and William Michael Short
+07429|Game meat and high-resolution magic angle spinning nuclear magnetic resonance spectroscopy: a traditional foodstuff versus a novel analysis technology
+   > (Soriano and Sánchez-García, 2021). On one hand, “wild game” considers the animals that live in the wild, including mammals that live in enclosed areas in conditions of freedom similar
+07430|Range Shifts of Overwintering Birds Depend on Habitat Type, Snow Conditions and Habitat Specialization
+   > the globe. Yet, the influence of habitat types on within- and among-species variations of distribution shifts has rarely been studied, especially so for the non-breeding season. Here, we investigated … distances. Species with stronger habitat specializations shifted more strongly towards north as compared to generalist species, whereas the climatic niche of bird species only marginally correlated 
+07431|Lichens: Toward a Minimal Resistance
+   > Symbiosis means two beings are cohabiting one organism without parasitism, both sharing one life externally and internally. This idea was confirmed late in the nineteenth century with the realization
+07432|Research Progress and Prospects on Biomarkers for Endometrial Cancer and New Targets for Precision Diagnosis and Treatment
+   > [no term] Endometrial cancer is a common malignant tumor among women in China, with 77,000 new cases and 13,500 deaths reported in 2022. Its incidence continues to rise alongside increased lifespan and
+07433|Time-calibrated phylogenies reveal mediterranean and pre-mediterranean origin of the thermophilous vegetation of the Canary Islands
+   > thermophilous lineages was also heterogeneous, including ancestral areas from the Mediterranean Basin (nine) and other regions (six).· Conclusions Our findings reveal an unexpectedly heterogeneous origin of the Canarian thermophilous … plants of the Canaries and other Macaronesian archipelagos of the Atlantic Ocean form an independent floristic region (Engler 1879, Sunding 1979, Takhtajan 1986, Bo
+07434|ZeroWaste Dataset: Towards Deformable Object Segmentation in Extreme Clutter.
+   > [no term] Less than 35% of recyclable waste is being actually recycled in the US, which leads to increased soil and sea pollution and is one of the major concerns of environmental
+07435|Habitat management favouring duck hunting seems to prevent shifting distribution due to climate warming: Another avenue for hunting ‘greenwashing’?
+   > for hunting at such specific sites could have partially driven this absence of non-breeding distribution shifting in ducks, regional land-use changes that occur especially in the southern limit of … overall improved habitat conditions for duck populations, this could alternatively explain the lack of distribution shifting reported by Gaget et al. (2023) but would support their broader point: habit
+07436|Domestic Affairs
+   > [no term] “Take my advice and don’t sign up for the spin class—it’s not what you think it is.” TALKING ABOUT DOMESTICATED INSECTS IS CHALLENGING IN THAT THERE AREN’T THAT MANY OF
+07437|Sugar beet localization and damage detection during harvesting
+   > several challenges remain unexplored, such as the efficient and reliable detection of damage in real-world conditions. In this work, we propose a comprehensive framework for sugar beet localization and … step of the proposed framework achieves high performance ( mAP 50 of 74.60%) in cross-dataset sugar beet localization trained using the VerBeet dataset, outperforming when trained using the baseli
+07438|Containerized Edge Intelligence for Greenhouse Disease Monitoring: A Lightweight Classification System with Real-Time Alerting on Raspberry Pi 5
+   > [no abstract]
+07439|Beyond Algorithmic Accuracy: Field Readiness, Ecological Intelligence and Real-World Validation of Artificial Intelligence for Insect Pest Management
+   > sensing, population forecasting, uncertainty-aware AI, decision support, and precision intervention. We examine the laboratory-to-field generalization gap, small-object and long-tailed recognition, ecological incompleteness of pest-only datasets, sensor and trap bias, domain shift, calibration, human oversight, and operational constraints. We propose layered evaluation metrics spanning technical, 
+07440|Blake’s Critique of Erasmus Darwin’s Botanic Garden
+   > proclaims the inherent value of every being as their “blessing,” which ought to be independent of their function. In other words, joy ought to be the use.Darwin’s botanic poetry … exotic practice) as presented in the final vignette (607). For Connolly, Darwin also entertains cross-species connections, such as in the account of Nightingale and the Rose (4.305–16). Connolly sees
+07441|Smart Laser Repellent Technology for Sustainable Farming
+   > [no term] Agriculture plays a major role in the Indian economy, but crop damage caused by birds and wild animals is a serious problem for farmers. Traditional methods such as scarecrows, fencing,
+07442|OMIP ‐028: Activation panel for R hesus macaque NK cell subsets
+   > phenotype of up to 12 NK cell populations. The performance of the staining was tested on cryopreserved lymph node samples, and on fresh and cryopreserved peripheral blood mononuclear cells … contain larger proportions of CD56 positive subsets than the circulating population 5. Whether this distribution shifts during acute or chronic infection remains to be determined. We tested three clones
+07443|Playback-aided surveys and acoustic monitoring in the detection of the Endangered Forest Owlet Athene blewitti
+   > [no term] ABSTRACT Long-term monitoring of populations of rare, endangered species is often challenging. Both the availability of baseline historical datasets and appropriate methods for long-term monitoring are often limited. Anthropogenic climate
+07444|Emerging worldwide trends in substances diverted for personal non-medical use by anaesthetists
+   > [no abstract]
+07445|Assessment, Characterisation and Mapping of Gaba Forest in Buno Bedele Zones, South West Ethiopia
+   > [no abstract]
+07446|A YOLOv5-Based Framework For Real-Time Wildlife Detection And Intrusion Alert Systems
+   > [no term] An advanced wild animal detection and alert system is developed using the YOLOv5 (You Only Look Once version 5) model. The system uses an object detection algorithm to identify wild
+07447|Reconnection with nature through empathy: rewiring people and animals by assessing zoo visitors' connection to species and the need for their conserva
+   > et al., 2007;Howell et al., 2019), and have increased desire to visit the animals in the wild (76% of visitors expressing a desire to see animals in their habitat … a sampled population of elderly Japanese. Similarly, Sakagami and Ohta (2010) also found a decrease in blood pressure, increased physical exercise, and improved life sub-scale scores (i.e., generic health-related
+07448|Operationalizing Remote Sensing Methods for Smallholder Irrigation Detection in Subsaharan Africa
+   > [no abstract]
+07449|Determining the changes in flood potential caused by drought periods in the Dehak watershed of South Khorasan province
+   > periods. The high weighted average of the curve number in the whole area in different years indicates the high risk of flooding in the Dehak watershed. ConclusionBy prioritizing flood
+07450|A cinnamon-derived procyanidin type-A compound: A potential candidate molecule against coronaviruses including COVID-19
+   > although sometimes “repurposing” of clinically developed drugs for one virus is using to combat another viral disease. COVID-19 is a unique example where many clinical scientists are trialing “repurposing” … capture and entry to the human body. This standardized unique Cinnamon extract has been tested on several virus models and is currently under investigation against COVID-19 (pre-clinical) as a
+07451|REMOVED DUE TO POLICY VIOLATIONS
+   > [no term] Kurik District is a rice production center in Merauke Regency.The use of rice field agricultural land in Kurik District needs to be optimized for improving community welfare and the road
+07452|HisMap: A Multi-Temporal Historical Topographic Map Dataset
+   > area is available across many map editions and cartographic styles, HisMap supports research on cross-domain / domain-generalizing segmentation, few-shot and zero-shot learning, retrieval-augmented segmentation, and long-term land-cover change analysis. At a … class-balanced sample selections Intended uses Semantic segmentation of land cover in scanned historical maps Cross-domain and domain-gener
+07453|Effects of Enzyme Replacement Therapy and Antidrug Antibodies in Patients with Fabry Disease
+   > translate to FD, providing an approach to prevent ADA formation in ERT-naïve patients and decrease or supersaturate existing antibody titers in affected patients, leading to an improved disease course. … of 20 Retrospective FOS analysis, patients treated for up to 2 yr, reported to decrease of 42 Retrospective FOS analysis, patients treated for up to 5 yr, changed by
+07454|Determination of germination of M
+   > [no term] The population growth in recent years also leads to an increase in demand for medicinal, essential oil, food and honey plants. At this stage, ethnobotanical studies are carried out on
+07455|Selected Abstracts from the 2019 NCRI Cancer Conference of National Cancer Research Institute
+   > component analysis of gene expression found that micro-regions picked from the two follicles clustered independently from each other, and from the T-cell zone micro-regions. Fragments per kilobase million analysis … cell that can be in Conclusion: Our allows the of cancer genes in patients independently of This is for cancers with alterations are Our study a of patients and
+07456|Senior Lecture, Annual Short Course on Medical and Experimental Mammalian Genetics, Bar Harbor, Maine, 1968
+   > [no term] I tried to find out what my qualifications for this assignment were and then going back over my curriculum vitae, I discovered that I published three papers in human genetics.
+07457|Induced pluripotent stem cells for defining Parkinsonian patient subtypes: a further step toward precision medicine
+   > were mostly co-localized at the plasma membrane of both soma and neurites, an evident decrease in cell surface fluorescence signal was observed in LRRK2-PD DA neurons, with a significant
+07458|UAV Optical Imagery-Based Unsupervised Tree Species Classification
+   > [no abstract]
+07459|A Greener Venice: The Inventory and Reutilization of Green Spaces on the Giudecca Island
+   > [no term] Our study identified and classified green spaces on the island of Giudecca in Venice, Italy. We developed a methodology to classify each of the green spaces as Urban Wild, Park,
+07460|IS IT POSSIBLE TO DETECT WATER ADULTERATION IN RAW MILK THROUGH HIDDEN PATTERNS IN ITS CENTESIMAL COMPOSITION?
+   > by economic motives. Although the freezing point can detect this adulteration, Brazil and many other regions only mandate this analysis for bulk-tank samples, which can mask the fraud when
+07461|The Holy Trinity of spatial climate change ecology: high-resolution climate data, long-term biodiversity monitoring and physiological experiments. A c
+   > accuracy and hampered our ability to evaluate the impacts of climate change on species distribution shifts and biodiversity loss (Lembrechts et al., 2019). Long-term biodiversity monitoring is now finally
+07462|Wildlife in Pixels: Digital Technologies Mediating Diverse Potentialities in Biodiversity Conservation
+   > et al. In press), abstracting the animals from the complex realities of their lives in the wild. They link this with broader scholarship that indicates that game-playing does not
+07463|Beyond Tail Co-Movement: How Temperature Extremes Shift Financial Return Distributions
+   > temperature extremes and 26 financial instruments. The central finding is structural: temperatureextremes produce financial distribution shifts, not tail co-movement. When regional temperatures exceedtheir 90th percentile, related instruments exceed their
+07464|Evaluation of Some Cumin Ecotypes Based on Selection Index of Ideal Genotype
+   > important and economic medicinal plants from the Apiaceae family with a considerable distribution in different regions of Iran. The cumin plant is one of the most important medicinal plants … yield trait was selected as the dependent variable, and the other studied traits as independent variables. The result of stepwise regression showed that four traits, including the number of
+07465|Rearing ofAnopheles beklemishevi(Diptera: Culicidae) and the possibility of its hybridization withAn. atroparvusunder laboratory conditions
+   > half days, were placed in Petri dishes for two to three days, and then transferred to 210×135×30 mm flat plastic containers (for 75–100 specimens) and 335×275×40 mm containers (for … or three 3rd or 4th instar larvae as cleaners were tucked there, and then transferred into 250×250×400 mm cages covered with gauze. For interspecific hybridization, the males and females
+07466|AI Based System For Animal Detection and Classification
+   > [no term] This paper presents an AI-based animal detection and classification system designed for real-time monitoring applications.The proposed system utilizes Raspberry Pi 5 integrated with a camera module, microphone sensor, PIR motion
+07467|Using Soft-Nms and Mask-Scoring R-Cnn to Improve the Detection of Overlapping Insects
+   > [no abstract]
+07468|Quantifying bristle cell organization in Drosophila melanogaster
+   > [no abstract]
+07469|Automated annotation with gradient-reversal-based domain adaptive feature learning for animal trespass detection under day-night surveillance
+   > [no abstract]
+07470|Foraging Behavior, Taxonomy, and Morphology of Bees (Hymenoptera: Apoidea), with an Emphasis on Perdita (Hymenoptera: Andrenidae)
+   > [no term] Bees are the most important pollinators of flowering plants and are necessary for pollinating both wild plants and many of the crops that produce the food we eat. There are
+07471|Controlled multi-view imaging for heritage apple cultivar recognition: Comparing expert descriptors and image encoders
+   > encoders under leakage-safe apple-level splitting, tree-holdout evaluation, class imbalance, increasing label-space size, and targeted cross-year/cross-location transfer. In the 38-class Baseline Subset, the strongest image encoder reached 94.9% Top-1 accuracy … support, the best image models reached approximately 82–83% Top-1 accuracy, whereas the expert-feature model dropped below 40%. In transf
+07472|Ανάπτυξη νέων τεχνικών για ανακατασκευή πολυφασματικών εικόνων με χρήση rgb σημάτων
+   > need for special hardware equipment. Considering these practical drawbacks, we develop two shallow learning domain adaptation methods based on the coupled dictionary and coupled autoencoders learning in order to
+07473|NON-DESTRUCTIVE ASSESSMENT OF SOIL ORGANIC CARBON USING NEAR INFRARED TECHNOLOGY
+   > C-organics and classify soils based on geographical characteristics. Soil samples were collected from four different site locations, and spectra data were collected in the range of 4000-10 000 cm-1.
+07474|Análisis de la confluencia de percepción social y habitabilidad ambiental para espacios públicos de comunidades indígenas de la Costa Sur de Jalisco, 
+   > [no term] It is reflected that the worldview of the inhabitants of an indigenous community is a safeguard of their heritage and values ​​as a civilization. They are aware of the ecological
+07475|On the Prediction of non-CG DNA Methylation
+   > the methylation levels of neighboring cytosines. In this framework, we also study (1) the cross-species prediction problem, i.e., the classification performance when training on one species and testing on another species, and the (2) the cross-context prediction problem, i.e., the classification performance when training on one context and testing on another context (within the same species). Fina
+07476|Deployment-oriented benchmark for automated UAV-based facade defect detection
+   > [no term] Integrating computer vision with UAVs can automate parts of building facade inspection while reducing labor and access risks. Applying UAV-based defect detection to regional multi-building screening, however, requires planning of
+07477|Beyond Idling: A Critical Review of Sensor–and AI-Based Measurement of Boredom-Like States in Dairy Cattle
+   > [no abstract]
+07478|Identifying Human-Earth Interaction Types and Nonlinear Thresholds: A Case Study of Mountainous Areas in Southern Shaanxi, China
+   > [no abstract]
+07479|R.A. Fisher and the development of statistics
+   > a keen interest in biology and mathematics. He studied mathematics at Cambridge, followed by another year of postgraduate study of physics, including the theory of errors. After his university … analytique de Probabiliés) and many others. In statistics, the method of Least Squares was independently developed by Legendre (1805, Nouvelles Méthodes pour la Détermination des Orbites des Comètes) and
+07480|Agromorphological Characterization of Ginger (Zingiber officinale Rosc., Zingiberaceae) Accessions Grown in Côte d’Ivoire
+   > income diversification. In order to assess the agromorphological diversity of a ginger collection from different regions of C?te d’Ivoire, a survey collection of accessions was carried out in the … accessions into three groups based on fourteen quantitative characters. These three groups were formed independently of collection areas and are characterized by moderate morphological variability. This
+07481|A new system for distinguishing native from exotic species in China
+   > specific geographic areas, but they could be alien species when they are introduced to other regions. Therefore, the origin status of species cannot be determined by the information such … corresponding distributed areas, and the phenomenon of gradient change sometimes occurs in populations of different regions. Examples. Amaranthus palmeri has three chromosome geographical races, and the numbers 
+07482|Where a measured local-adaptation gain did not transfer: negative results from a preregistered small-model adaptation programme on constrained hardwar
+   > [no term] We report the negative and bounded results of a preregistered research programme on small-model local adaptation under a constrained compute and memory envelope, executed on a fast environment and replicated
+07483|EKSPLORASI JAMUR YANG DIKONSUMSI DI HUTAN DESA HUNITETU KECAMATAN INAMOSOL KABUPATEN SERAM BAGIAN BARAT
+   > [no term] Tropical forest ecosystems in Indonesia are known for their high biodiversity, including fungi that play important ecological roles and have potential as food resources. However, wild edible mushrooms remain underexplored
+07484|A harmonized framework for studying exceptional cognitive aging in Latin America
+   > existing cohorts, ensuring regional adaptation and international comparability. Centralized training and shared procedures ensure cross-site consistency. RESULTS: We define eligibility criteria and standardized assessments to classify successful cognitive agers
+07485|Cross-Dataset Insights for Fine-Grained Vehicle Orientation Prediction
+   > Fine-grained vehicle orientation estimation is widely reported with strong in-domain accuracy, yet performance degrades substantially when models are applied across datasets; the relative contributions of visual domain shift and annotation label incompatibility to this degradation remain poorly understood. A controlled cross-dataset benchmark was conducted using two publicly available datasets—Car
+07486|Causal Attention with Information Bottleneck Synergy
+   > [no abstract]
+07487|Comparison between some genera of Grammosciadium and Torilis belonging to the (Apiaceae) family using nucleotide sequence of Matk gene into a protein
+   > is commonly referred to as the celery or carrot family. These plants are found in the wild in temperate regions and the northern regions of Iraq.Methods: The research was
+07488|Performance of onion varieties under different organic manure combinations
+   > higher nitrogen availability and faster mineralisation in the warm Perth winter [1]. Bulb size distribution shifted toward the premium 60–80 mm grade under vermicompost (64.3% of harvest vs 48.1%
+07489|Hierarchical domain-Invariant Alignment Networks for zero-shot cross-mode fault prognosis in chemical processes
+   > [no abstract]
+07490|Attention-guided local dynamic alignment: Boosting zero-shot classification of vision-language models
+   > [no abstract]
+07491|A preliminary survey of the flora and vegetation of an ex-situ conservation area (Hyde Park Zoo Sanctuary and Tropical Gardens Inc., Guyana)
+   > [no term] Hyde Park Zoo Sanctuary and Tropical Gardens Inc. is a local ex-situ conservation area located at Land of Canaan, East Bank Demerara, Guyana. It serves to manage and conserve species
+07492|Iklan Aesthetics in Niger: Identity and Adornment from Servility to Self-agency
+   > forge new ones far removed from the history of enslavement.This article draws from both independent research and collaborative work on both sides of the Niger-Burkina Faso border, where iklan … for iklan have new in of and as they are no by of two different regions of Niger two different to and considers both the historical and contemporary and
+07493|Application of the K-Nearest Neighbor (K-NN) Algorithm for Detecting Banana Harvest Feasibility
+   > in Kwala Bekala Village, Medan Johor District, with 200 banana images taken from five different locations. The K-NN algorithm, with a value of K = 3, was chosen to
+07494|PROJECT OMNI; INTEGRATED EBOLA SURVEILLANCE & WILDLIFE SCREENING FRAMEWORK 2026-BUNDIBUGYO EBOLAVIRUS
+   > (CV) Posture & Gait to analyze behavioral anomalies; 3. Pathological Hemorrhage Segmentation to identify external bleeding and excretions (epistaxis, melena); and 4. Multi-spectral Fluid Dynamics to detect active viral
+07495|A novel few-shot self-supervised contrastive framework for UAV-based rare pest detection
+   > due to pest rarity, visual similarity, and heterogeneity, causing extreme class imbalance and low generalization in classical supervised models. Current CNN-based and transformer-based approaches are not very accurate but … more label-efficient, but continue to suffer from high intra-class variations, long-tailed distributions and weak domain generalization in agricultural applications. To overcom
+07496|Trying to Make It Real: An Exchange between Haun Saussy and David Damrosch
+   > [no term] Historian Takashi Shogimen, bioethicist Jing-Bao Nie, and I established this research group several years earlier to promote dialogue about theories and methodologies of comparison across diverse fields from psychology to
+07497|EntoScan and BEEomass: a standardized imaging system and a physically motivated model for high-throughput dry biomass estimation of arthropods
+   > a physically motivated, scale-invariant representation of body size and mass that allows it to generalize across taxa differing widely in morphology. We show that this image-based approach provides accurate
+07498|Cohort Profile: The OsteoLaus study
+   > drugs Any disease known to affect bone metabolism Disorders affecting the skeletal site (e.g. external/internal masses, and any other disorder that might impair the integrity of the measurement) Written … drugs Any disease known to affect bone metabolism Disorders affecting the skeletal site (e.g. external/internal masses, and any other disorder that might impair the integrity of the measurement) 
+07499|Taxonomical and Ethnomedicinal Studies of Ficus krishnae L. (Dicotyledonae: Moraceae)
+   > [no term] Ficus krishnae commonly called as ‘Makhan Katori’ is belonging to family Moraceae of class Dicotyledonae known for its cup-shaped leaves. Present study aimed to carried out diversity, distribution and ethnomedicinal
+07500|Deep Reinforcement Learning for Robot Manipulation of Deformable Linear Objects: A Dual Online Learning Based on Vision
+   > [no abstract]
+07501|A Porcine-Isolated Mycobacterium bovis Strain Exhibits Hypervirulence in a Murine Pulmonary Tuberculosis Model
+   > [no term] Mycobacterium bovis is the causative agent of tuberculosis (TB) infecting a wide range of animal hosts, including humans. Domestic pigs (Sus scrofa domestica) are susceptible to different mycobacteria, particularly species
+07502|From dynamic shifts to spatial conservation gaps: Assessing the protection status of the Hooded Crane’s wintering distribution in China (2000–2025)
+   > [no term] Accurate quantification of spatiotemporal dynamics in species distributions is essential for effective conservation planning in rapidly changing environments. This study employed an integrated analytical framework combining species distribution modeling and
+07503|Black Ecologies (Humanity, Animality, Property)
+   > rhetorical strategy—her condemnation of white Southerners’ failure to live up to Christian values being another—meant to bring Black humanity into sharp relief. If Jacobs maintains the human's primacy and … of a given body or system to generate new form, whether internally or through external intervention” (Schuller and Gill-Peterson 2020: 1). Scholars in trans, queer, Black, and race and
+07504|Analogs of Ridge Skin and Papillary Patterns in the Nature and the Significance of Their Study for Forensic Science and Forensic Examination
+   > [no term] Patterns similar to the papillary patterns of human fingers, palms, and soles can be found in living and inanimate nature. Studying such patterns and the structure of the ridged skin
+07505|A Comparative Morphological Study of the Genus Juniperus L. ( Cupressaceae) in North of Iraq
+   > [no term] A new species of juniper is Juniperus macrocarpa, permissions not previously registered in Flora of Iraq that were composed ( Guest researchers and Ali al-Rawi,1966) so only two species of
+07506|Incorporating a precipitation factor into the soil vulnerability index
+   > and did not incorporate rainfall characteristics such as intensity or seasonal timing, limiting its transferability to other regions. This study evaluated SVI performance in diverse precipitation regimes across 79 watersheds in
+07507|RESEARCH PERTAINING TO THE DIGITAL DESIGN OF ELECTRICAL WIRING SYSTEMS WITHIN POWER GENERATION FACILITIES
+   > [no term] In view of the problem that the design efficiency cannot meet the design cycle in the traditional power plant design of the electrical major of power generation engineering, a wiring
+07508|Problems and Influencing Factors of Rural Information Dissemination under Different Themes
+   > elderly and other vulnerable groups, as well as western rural areas, ethnic minorities and other regions; both qualitative and quantitative methods were used. The characteristics and problems of each
+07509|Progress of cancer genomics
+   > Using an existing GWAS dataset including 1473 lung cancer cases and 1962 controls, a new region at 14q23.1 was identified to be consistently associated with lung cancer risk in … an objective and better measurement of inherited risk of prostate cancer than family history.35 Another aspect of cancer genomic studies has focused on somatic alternations (e.g. mutations, CNVs, chromosome
+07510|A Balanced Sampling and XGBoost Approach to Estimating the Electricity-to-Water Conversion Coefficient for Groundwater Wells
+   > [no abstract]
+07511|Development of a Technological Flowchart and the Main Components of the Composition of a Cosmetic Product for the Prevention of Inflammatory Skin Dise
+   > [no term] Introduction . Inflammatory diseases of the skin and subcutaneous adipose tissue are widespread among the population of different age groups. Failure to classify them as socially significant diseases reduces the
+07512|Population biology of the endemic species Pimpinella tragium Vill
+   > of the species to reproduce only by seed is of great importance, since in different years the germination and survival rate of seedlings can differ sharply.
+07513|Pilot-Scale Text Column Detection and Reading-Order Recovery for Traditional Mongolian Historical Archives
+   > [no abstract]
+07514|Letter Regarding “Chronic Oral Exposure to Synthetic Amorphous Silica (NM-200) Results in Renal and Liver Lesions in Mice”
+   > 1995; 23: 570-582Crossref PubMed Scopus (146) Google Scholar The most common non-neoplastic findings in another study included glomerulonephritis.S3 Furthermore, the genetic background of C57BL/6 mice was used to establish … the age-related glomerular changes. Briefly, the percentage of glomeruli with a cuboidal parietal layer decreased, and the cuboidal layer of the renal capsule in males display
+07515|Proteomic Responses to Salinity Stress: Exploring Protein Fraction Variations in Salt-Sensitive and Salt- Tolerant Genotypes of Chickpea
+   > as compared to sensitive one. Variations in proportions of different fractions reflected responsive protein distribution shifts under salinity stress. These findings showcase plant protein composition's adaptability to adversity, urging
+07516|The RNF213 rs112735431 polymorphism might influence predisposition to moyamoya disease and exhibit different clinical features in Asian population
+   > [no term] Abstract Many studies suggested that the RNF213 rs112735431 polymorphism plays an important role in the pathogenesis of moyamoya disease. We performed a statistical meta-analysis based on the collected information of
+07517|Eye-aperture differences in autism replicate across child and adult facial-image datasets
+   > [no abstract]
+07518|Assessment of land use change by quantifying landscape pattern in Welioya, Sri Lanka
+   > Land use changes occur everywhere. Land use changes, such as forest degradation, effect on a global level. They have an influence for example to climate change, … visual interpretation method. With the method, two land use maps are created for two different years, 2003 and 2015. After satellite image classification, the land use changes are quantified
+07519|Assessing indicators of the risk of poor pasture persistence using ground- based and airborne cameras
+   > [no abstract]
+07520|New breeding evidence of Zitting Cisticola Cisticola juncidis in South Tyrol after 1970/1980s
+   > and highlight the effectiveness of combining citizenscience data with standardized monitoring for tracking species distribution shifts anddetecting new occurrences or for tracking restricted populations.
+07521|Monitoring Runtime Input Data Distribution for the Safety of the Intended Functionality in Perception Systems
+   > of its training data. However, verifying the model’s performance becomes challenging when it encounters unseen, out-of-distribution input data. This article proposes an image quality safety model (IQSM) that estimates the … functionality for a runtime input image within a perception system, even when faced with unseen out-of-distribution runtime input images. If the confidence level falls below th
+07522|From Challenge to Opportunity: How Shwachman–Diamond Syndrome Became a Promising Target for Therapy Development
+   > [no term] Rare diseases affect over 30 million people in the United States and 300 million globally, yet 95% lack FDA-approved treatments. Rare disease therapy development poses unique challenges and opportunities. Shwachman–Diamond
+07523|Genetic Drivers of Atypical Alzheimer’s Disease Neuropathologic Change
+   > [no term] Abstract Background Quantitative differences in neurofibrillary tangle density are not well captured by more global measures such as Braak staging. Indeed, amongst cases with high Alzheimer’s disease neuropathologic change (ADNC),
+07524|Physics-Guided Cross-Attention for Spatial Generalization in Satellite-Based Date Palm Stress Detection
+   > [no abstract]
+07525|Differential Roles of Pioneer Proteins in Initiation and Stabilization of Early Clathrin Coat Unveiled by a Novel Disassembly Bias Score
+   > [no abstract]
+07526|Extending Anthophila research through image and trait digitization (Big-Bee) proposal.
+   > [no term] Overview: The Big-Bee project will advance research on bee ecology and taxonomy through the creation and standardization of open datasets for taxonomic and computational analysis. It will overcome challenges in
+07527|Fat Replacers in Modern Diets: Classification, Functional Roles, and Health Implications
+   > to assisting in the loss and maintenance of weight, it also promotes health by decreasing LDL cholesterol. It is likely that the use of fat replacers will make it
+07528|Containing Risk when Maximizing Supply-Chain Performance
+   > [no term] The objective of this dissertation is to develop and test an approach that will quantify the level of risk in the supply chain, evaluate the cost and impact of risk
+07529|Whole-Genome Characterization of Rosa Chinensis AP2/ERF Transcription Factors and Analysis of Negative Regulator RcDREB2B in Arabidopsis
+   > [no term] Abstract Background: Rose (Rosa chinensis) is a traditional famous flower with valuable ornamental characteristics. However, drought stress restricts its growth and development, leading to abnormal phenotype. APETALA2/ethylene-responsive factor (AP2/ERF) proteins
+07530|Information, Incentives, and Goal-Setting: A Field Experiment in Water Usage
+   > [no abstract]
+07531|Log-Domain Adaptive Control with Lyapunov Stability Guarantees: A Model-Free Approach for UAV Attitude Control
+   > exploits the unused gain margin of a stabilizing baseline controller to suppress transient performance degradation. Unlike general-purpose adaptive controllers that attempt system identification or disturbance estimation, LAC operates as … event-driven gain modulation layer with three structural guarantees: (i) bounded, chatter-free gain evolution via log-domain adaptation with hysteresis switchin
+07532|Symmetry’s generative side
+   > same profession or interrelated trades. Prints offered artists an opportunity to speak to one another. Sheets dedicated to ornament pronounced most clearly the imperative to make, and did so … ornament print. The engraved design acts as a proposal. Whether it stimulates transference to another medium or an improvisation in the form of another engraved design, the ornament engraving instigates anot
+07533|A Cross-Domain Multi-Objective Optimization Framework for Wastewater Aeration Systems Coupling Transfer Learning and Physics-Informed Constraints
+   > it difficult to construct high-precision surrogate models. Conventional cross-plant model deployments face severe data distribution shifts, and standard multi-objective optimization algorithms are prone to generating non-physical extrapolation errors, such … through inter-plant data barriers, this study proposes an intelligent aeration decision-making framework that integrates cross-domain transfe
+07534|ExoPrompt: Transformer-based greenhouse climate forecasting with structured conditioning and physics-based simulation
+   > often rely on simplified assumptions and fixed configurations, while data-driven models struggle with limited generalization due to scarce and localized sensing data. These limitations pose an obstacle to realizing … crop-level attributes into prompt representations, enabling adaptation across diverse scenarios. The model is first pretrained on synthetic data generated using the GreenLight simulat
+07535|Real-Time Distracted Driver Detection on Embedded Edge Devices Using Multi-Region CNN Embeddings
+   > including texting, drinking, phone use, and interacting with passengers.To achieve low latency and robust generalization, the system employs a multi-region visual representation consisting of full-frame, face, and hand-region crops, … via exponential moving average stabilizes predictions across frames.To prevent data leakage and ensure proper generalization, we introduce a face-based driver cluste
+07536|Heart failure: evolving management and new therapeutic targets
+   > [no term] For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts. This Focus Issue on heart failure and cardiomyopathies contains a Clinical Research article entitled ‘Near-universal prevalence of central adiposity in
+07537|Process-differentiated temporal representation for chiller power prediction under high entering condenser water temperature extrapolation using a Phys
+   > [no abstract]
+07538|Evolution of antibiotic resistance in Pseudomonas aeruginosa using sequential regimen of antibiotic pair
+   > [no term] The WHO classifies MDR P . aeruginosa as a critical pathogen, underscoring the need for new treatments. In this study, diverse mutant lineages of P. aeruginosa AR06 were developed by
+07539|Shift-Aware Hierarchical Attention Network for Ammonia Price Prediction
+   > Attention for Robust Prediction), which decomposes multivariate time series into variable-specific streams through a channel-independent mechanism and captures inter-variable and temporal dependencies through hierarchical attention. The model incorporates the
+07540|In silico comparative analysis of OXA-918 and OXA-244 sequences suggests altered beta-lactam interaction profiles in Acinetobacter baumannii and Klebs
+   > interaction profiles were characterized via molecular docking with the Schrödinger GLIDE program and Molecular Mechanics/Generalized Born Surface Area (MM-GBSA) calculations across twelve beta-lactam antibiotics (amoxicillin, cefixime, cefepime, ceftaroline, cefiderocol,
+07541|Distribuição espacial da mortalidade por câncer infanto-juvenil e do uso de agrotóxicos no Mato Grosso, Brasil
+   > of mortality from cancer and agroecological practices and pesticide use reduction may help in decreasing for câncer population matogrossense.
+07542|Medicine Wheel for the Planet: A Journey Towards Personal and Ecological Healing
+   > bypassed and, through new scientific ecological premises, invoke the knowledge of local communities in independent and harmonious ways. Jennifer Grenz writes an activist autoethnography, almost an occupational memoir. She
+07543|Compulsory education, life trajectories, and intergenerational mobility: evidence from Mexico’s 1993 schooling reform
+   > points. Together, the results show that a single compulsory schooling reform generated a sustained, multi-domain shift in life trajectories that extended across generations.
+07544|Hierarchically supervised computational pathology stratifies HER2 categories and ERBB2 amplification risk from routine H&E slides in breast cancer
+   > [no abstract]
+07545|Scenario envelopes for robust fusion plasma control: the PROJ-RFH2 ALFA–OMEGA framework from ITER to DEMO
+   > explicit inequality constraints. ALFA propagates authorised physical models; OMEGA estimates, predicts and proposes; an independent PROTECTION layer may be formalised through a control-barrier-function quadratic programme, subject to actuator, rate … bootstrap-current fraction and recirculating power treated as coupled constraints rather than late accounting terms. Out-of-distribution handling com
+07546|The Jurisprudence of Compassion
+   > with a concrete regulatory vision: the Transnational Guardianship Convention on Non-Human Entities, proposing an independent international body — the Non-Human Guardianship Trust — empowered to litigate on behalf of
+07547|Utilizing Multi-Scale Hyperspectral Imaging to Investigate Spectral and Hydrological Influences on Modelling Sphagnum Mosses
+   > [no abstract]
+07548|The future role of molecular staging in gynecologic cancer
+   > DNA replication and repair. POLE mutations predicted favorable prognosis, particularly in high-grade tumors. In another endometrial cancer cohort of 535 EECs, POLE mutations were found in 5.6% (70% were … index are seen in advanced stage and metastatic disease but they are not proven independent predictors of survival since almost all these patients will succumb to their disease. However,
+07549|Translating Electronic Health Record Foundation Models into Clinical Decision Support
+   > the data characteristics and real-world barriers that shape EHR modeling, including coding variation and distribution shift. We then review the three dominant model families, including structured-sequence, clinical language, and … we delineate the engineering and governance conditions necessary for clinical translation, including evaluation under distribution shift, workflow-integrated monitoring,
+07550|The Genetics of Type 2 Diabetes in Youth: Where We Are and the Road Ahead
+   > [no term] The incidence of type 2 diabetes (T2D) is on the rise in youth in the US1Dabelea D. Mayer-Davis E.J. Saydah S. Imperatore G. Linder B. Divers J. et al.Prevalence of
+07551|A Transfer-Learning Framework for Low-Data Viral Mutation Prioritization in Ebola Glycoprotein
+   > [no abstract]
+07552|Victims of Nazi Persecution in the Channel Islands: A Legitimate Heritage?, by Gilly Carr
+   > [no term] The experience of Charles Machon and the Guernsey Underground News Service (GUNS) serves as the classic example of resistance during the German Occupation of the Channel Islands. During five long
+07553|STRATEGIC ENVIRONMENTAL ASSESSMENT FOR DEVELOPMENT OF ISMAILIA GOVERNORATE USING REMOTE SENSING AND GIS TECHNIQUES
+   > [no term] The Idea of Development Of Ismailia Governorate considered being one of the most important developmental initiations of the Country seeking to the re-formant structure of the Egyptian inhabited areas to
+07554|Domain-Specialized Multi-Agent Collaboration with Consensus-Aware Fusion for Remote Sensing Image Captioning
+   > single-agent encoder-decoder frameworks, which perform well to some extent but generally have trouble with domain generalization, semantic richness, and robustness in the varied and heterogeneous environments shown in remote … certain land-use domain (e.g., urban, forest, agricultural, water bodies, barren land ). These agents independently gives us candidate captions and confidence scores, which 
+07555|Structural and functional evolution of flaxseed protein during probiotic fermentation: Insights into proteolytic degradation, conformational rearrange
+   > [no abstract]
+07556|From Micrographs to Particle Taxonomy: Automated Discovery in STEM Using SAM and Semi-Supervised Learning
+   > rules. Third, the generative nature of the SSVAE enables uncertainty quantification and detection of out-of-distribution particle instances, supporting identification of rare or previously unseen particle types [8,9]. Together, these approaches provide a generalizable route toward automated, label-efficient STEM characterization of heterogeneous nanoparticle libraries and establish a foundation
+07557|Long-Horizon System Identification for Industrial Manipulators: Measured-Input Rollouts on KUKA
+   > ridge regression. Beyond standard next–step metrics, we evaluate models with measured–input long-horizon rollouts, trajectory-level in/out-of-distribution (ID/OOD) splits, and 95% confidence intervals across seeds. On KUKA, ARX consistently achieves the
+07558|Assessing Management Structure and Influencing Settlement of the Soft-Shell Clam (Mya arenaria) in Maine
+   > [no term] Soft-shell clams are economically and culturally important to coastal communities throughout Maine, but are experiencing a number of threats including ocean and coastal acidification (OCA). This fishery is regulated through
+07559|ERGODICITY AND STOCHASTIC STABILITY OF A CENTURY-LONG STREAMFLOW RECORD: EVIDENCE FROM THE KASHKADARYA RIVER AT CHIROQCHI
+   > [no abstract]
+07560|New reconstruction of China's spatio-temporal forest since 1700
+   > [no abstract]
+07561|NAZI OCCUPATION REGIME 1941 – 1944 IN THE TERRITORY OF DNIEPER UKRAINE IN MODERN NATIONAL HISTORIOGRAPHY
+   > and its subsequent influence on the stratification of the population’s opinion are analyzed. Priorities, external factors and circumstances which created the situation of choice for a person as an … and epistolary heritage, managed to show the living and labour conditions of workers from different regions of Ukraine in Germany, revealed the psycho-physical state of Ostarbeiters, etc. Modern nation
+07562|Hierarchical patch-based forecasting and transfer learning enable a long-horizon, scalable model for reverse osmosis in a wastewater reuse facility
+   > [no abstract]
+07563|Projected Non-Monotonic Changes in the Potential Suitable Range of Phyllanthus emblica in China Under Future Climate Scenarios
+   > [no term] The economically important species Phyllanthus emblica L. has received increasing attention, yet its climate-driven distributional shifts across China remain unexplored. Using 446 occurrence records and a parameter-optimized MaxEnt model (RM
+07564|Identifying economic central industries and structural change in Mexican input-output production networks
+   > [no abstract]
+07565|CACPR 2021 Annual Meeting Abstracts
+   > and March 2021 were included. Frequencies of self-reported blood pressure, body mass, waist circumference, Generalized Anxiety Disorder-7 (GAD-7), Patient Health Questionnaire-2 (PHQ-2) and Duke Activity Status Index (DASI) questionnaires, … 160 patients approached, 54 consented to participate. Two (4%) of the 54 recruited participants dropped out prior to randomization. The remaining 52 (age=60±1
+07566|The Many Tongues of Meaning: Types of NLP Tasks and When to Use Them -Classification, Extraction, Translation, Summarization
+   > [no abstract]
+07567|A Frozen Foundation Model Is No Better Calibrated Than Six Spectral Indices: Auditing Urban Heat Maps Across Cities
+   > and falls to 0.105 when a model calibrated in one city is applied to another. More surprisingly, a frozen 1024-dimensional Clay v1.5 embedding is no better calibrated under that … coverage 0.513 against 0.480. A recent benchmark found foundation models are no more accurate out-of-distribution than simple baselines; we find the same is true of their uncertainty, which is
+07568|Dispatches
+   > power becomes carbon negative, taking more from the air than it ends up emitting. Another surprise was that while biomass supplied just 10% of electricity demand in Sanchez's projection, … 1850 CE – along the Virginia and Maryland coastlines. By identifying up to 15 independent characteristics for more than 600 ancient claw fragments obtained from those sites, the team
+07569|THE IMPACT OF RARE GENETIC VARIANTS ON BRAIN STRUCTURE AND RISK FOR NEUROPSYCHIATRIC DISORDERS
+   > [no abstract]
+07570|Sansevieria embere Mollel, M. Burkart, Yinger & Sikawa 2025, sp. nov.
+   > and bands in zig zag patterns, strongly glossy in cultivation but much less so in the wild (Fig. 11); abaxial surface with punctiform elevations in a rather loose pattern, … are not uncommon in and around Arusha, but there does not seem to be another one of this species. At least, we could not find any during numerous excursions.
+07571|THE TYRANT'S VICE: PLEONEXIA AND LAWLESSNESS IN PLATO'S REPUBLIC
+   > corruption – which culminates in tyranny – has internal psychological causes, as well as external social enabling conditions, in the form of household and state dysfunction. The tyrant's vice is the ultimate expression of human nature unchecked by law, whether in its external manifestation in the constitution, or its internal manifestations in the soul.8 These psychological tendencies exist indepe
+07572|Breeding in European sea bass (Dicentrarchus labrax L.): genetic aspects of resistance to VNN and sex determination, and development of genomic predic
+   > reasons (lower growth rates of males compared to females, reduced flesh quality and general decrease of the commercial values of the product). Because polygenic sex determination is considered evolutionarily
+07573|When Does Attention Help in Genomic Trait Prediction?
+   > [no abstract]
+07574|Nibbling 405 kb off the X: Viable deletion alleles eliminating 50 protein coding genes, including a chromatin factor involved in neuronal development
+   > [no term] We are interested in isolating mutants that affect lineage specification in the nervous system of the nematode C. elegans.The harsh touch sensory neuron PVD, generated by the postdeirid lineage, can
+07575|Global Invasion Potential and Niche Dynamics of Phoracantha recurva Newman, 1840 (Coleoptera: Cerambycidae) Under Climate Change
+   > all three future scenarios, total suitable area displayed a gradual decline while the potential distribution shifted toward higher latitudes, particularly across Europe and China. Niche analysis confirmed substantial niche
+07576|Livestock immunogenomics based on omics integration: from infection and stress to xenotransplantation
+   > coordinated responses across multiple tissues and molecular layers. Consequently, single-omics approaches often fail to generalize across breeds, environments, and management systems, limiting their translational value in improving livestock health. … integration strategies that are aligned with field-relevant phenotypes and designed to remain interpretable under distribution shifts driven by co-i
+07577|Setting a gold standard for integrative evolutionary biology
+   > Chicago Press, Chicago, Illinois. 416 pp. ISBN 9780226330808; $60 CB. Longitudinal studies of organisms in the wild are the gold standard for understanding the complexity and dynamics of the … of behavior, including timing of reproduction and migration. Juncos are fairly easy to track in the wild and much of the research documented in the book leverages the ability
+07578|Collaborative Laboratory Edge Networks
+   > that scores a task–node pair by expected chemistry gain, expected latency, and an explicit out-of-distribution risk of emitting unparsable or unreliable chemistry, using a dual-channel tokenizer and a scaffold-coverage
+07579|An explainable stress prediction framework via reduced-order and knowledge discovery to online stress monitoring of solar steam turbine rotors
+   > [no abstract]
+07580|Characterizing saddle point approximations for tail probability estimation with applications to Teesta valley hydroelectric feasibility
+   > [no term] Between 2010 and 2022, the Teesta Valley in northeastern India recorded average annual discharge fluctuations exceeding 37.4%, making hydroelectric feasibility assessment dependent on reliable tail probability estimates. This paper develops
+07581|Medical Imaging‑Pathology‑Genomic Fusion and Its Applications in Clinical Diagnosis and Treatment
+   > and molecular mechanisms. Single-modal approaches are constrained by scale discrepancies， sampling biases， and cross-center domain shifts， limiting their support for clinical decision-making. For precision oncology， imaging-pathology-genomics integration aims at
+07582|Biodiversity - 2015: Water and forage assessment for livestock grazing
+   > analysis. Influential factors affecting extensive grazing are determined and converted into a model. 6 different regions with different climate and features in Iran were examined for common types of … uses, lack of sufficient environmental policies for sustainable use of rangelands as well as degradation of these areas have caused increasing concern among managers and revealed the importance of
+07583|Evaluation of Soil Fertility Status in Soils of Phagwara Block in Kapurthala District of Punjab, India
+   > [no abstract]
+07584|Technical Specifications, Operational Workflows, and Methodological Frameworks of Gemini-LifeScientist
+   > manage scientific uncertainty. Utilizes a standardized 5-stage pipeline for consistent, replicable biomedical analysis. Integrates cross-domain databases to triangulate evidence from molecular to clinical levels. Standardizes quantitative modeling using recognized
+07585|Shared CI-linked bioenergetic dysfunction and muscle-specific lipid/redox stress in skeletal muscle of male cardiometabolic HFpEF mice
+   > [no term] Exercise intolerance is a hallmark of heart failure with preserved ejection fraction (HFpEF), particularly in its cardiometabolic form, where obesity, metabolic dysfunction, and impaired peripheral oxygen utilization contribute to functional
+07586|Study on the tensile properties of SLS PA12 under different forming directions and sizes in-situ CT
+   > tensile loading. The results show that for vertically built and side-oriented built specimens, porosity decreases with increasing thickness, and the pore size distribution shifts toward smaller diameters as thickness increases. Under tensile loading, pores coalesce, leading to
+07587|Antebellum Posthuman: Race and Materiality in the Mid-Nineteenth Century by Cristin Ellis
+   > [no term]  Reviews proves to be a liberating, democratic experience; for all of Jude’s frustrated sense of exclusion from the hallowed walls of Christminster, Hardy’s curious, motivated autodidacts can think with
+07588|The Complete Writings of Henry James on Art and Drama, I: Art; II: Drama by Peter Collister
+   > [no term] MLR, .,   Black body’s humanity to science is to presume [. . .] that human being is ultimately deﬁned by corporeal (material or empirically demonstrable) as opposed to
+07589|The Entangled Gaze: Indigenous and European Views of Each Other
+   > one thing for an Indigenous artist to transform a European image, it is quite another thing for someone from a powerful European culture to take images or forms from
+07590|Mixed Adenoneuroendocrine carcinoma of uterine cervix: a case series and review of literature
+   > mass within endometrial canal which extends from superior endometrium to the level of the external os of the cervix (Fig. 12). Colposcopy revealed firm cervix without gross lesion. Patient … canal (arrowheads). The lesion extends from the superior endometrium to the level of the external os of the cervix with likely cervical stromal invasion (arrow). H&E microscopic picture, A-40x,
+07591|Goeppertia siqueirana Saka 2025, sp. nov.
+   > classify it as Endangered (EN) (Bachman, 2011). Goeppertia siqueirana has been recorded in eight different locations (Criteria B, a ≤ 10), the majority of which are private properties not … km de estrada de terra após a fábrica de laticínios Resende, fragmento de mata degradada, com entrada de gado, 18°10’59.4”S, 40°27’15.6”W, 247 m, 17 December 2013 (fl., fr.), M.
+07592|Ethical, Liability, and Regulatory Governance in AI-Embedded Healthcare Systems
+   > systems-level infrastructure and clinical analytics.Ethically, AI systems introduce risks of bias amplification, where algorithms trained on non-representative datasets perpetuate disparities in health outcomes, as seen in racial biases in
+07593|Sub-Millisecond Neural Equilibrium Reconstruction Robust to Sensor Dropout: A Virtual-Sensor Mesh for Radiation-Degraded Diagnostics in a Compact Sphe
+   > than the plant, verified against the governing physics, and kept trustworthy when a diagnostic degrades or drops out under a neutron field. We formalise and demonstrate a real-time reconstruction … pair reaches 0.992 and a true-positive rate of 0.852 at a 1% false-positive rate, independently reproduced under a separate implementation to five significant figures; the same fusion converts that
+07594|Four Coupled Digital Twins for a Compact Spherical-Tokamak Breeder: Multi-Rate Co-Simulation, Propagated Uncertainty, and a Real-Time Self-Consistency
+   > forecast. A real-time self-consistency monitor audits the reconciled state each tick — with an out-of-distribution regime term that hands authority back to a conservative floor when the plasma leaves … 3D model · Learn more about Kronos Part of the 2026 Kronos publication series; independently re-run and stamped in the Kronos de-risking register (DOI 10.5281/zenodo.22645689). All numerical values 
+07595|Growth dynamics of Mediterranean woodlands under climate change: a dendroecological approach in southwest Iberia [Póster]
+   > Recently, vegetation in the Iberian Peninsula has exhibited global-change- type processes including species distribution shifts, altered plant phenology and enhanced forest decline and tree mortality. Studies based on
+07596|Highlights from Recent Cancer Literature
+   > pattern recognition receptor cGAS to nuclear blebs (cytosolic chromatin fragments) in senescent cells with decreased expression of the nuclear envelope protein lamin B1. Canonical activation of the innate DNA-sensing … polyadenylated RNA containing a nonspliced intron, a detained intron, while exhibiting little effect on generalized RNA splicing. Incompletely spliced pre-mRNA were retained in the 
+07597|A New Variant of the PTEN Gene in Relation to Cowden Syndrome Type 1
+   > knowledge, has not been previously reported, and whose affected position was the same as another mutation reported in a patient diagnosed with Bannayan Riley Ruvalcaba syndrome. Both syndromes share
+07598|Prognostic value of integrative genomic approaches for IDH-mutant gliomas
+   > a signature that could stratify patients. The DNA methylation signature was validated across 2 independent patient cohorts: One collected by The Cancer Genome Atlas5 and one by the DKFZ
+07599|Nipah virus outbreak: Public health threats and response priorities
+   > hosts[6]. In previous outbreaks, One Health consequences from deforestation pushed virus harboring bats into new regions and highlights the required vigilance in regions without previous outbreaks[7]. Furthermore, recurrent spillover
+07600|The Babushkas of Chernobyl
+   > an unintended instance of “the forbidden experiment”, affording environmental gerontologists the opportunity to explore unseen person-place dynamics—e.g., place belonging, personal agency, and environmental adaptation—in extremis (Wahl & Oswald, 2013). … Stigmatized as a “radiation carrier” by residents on a trip outside of the zone, another returnee comments “when I came back, I kneeled down, gra
+07601|Aging miRNA Reference Catalog: 84 Candidates with Integrated Hallmark, Centenarian-Signature, Target-Footprint, Tissue-Exposure, SASP Overlay, and 504
+   > aging-dysregulated human miRNAs with integrated dossiers covering Lopez-Otin hallmark mapping, centenarian-signature classification across six independent cohort studies, predicted target footprint, GTEx v8 tissue exposure across ten aging-relevant tissues, mouse … hero candidate is miR-130a-3p, the only candidate in the catalog that hits all three independent evidence axes simultaneously: SASP-ax
+07602|From association to attribution: translational challenges in carcinogen-informed radiogenomics for pancreatic cancer
+   > stability within a fixed acquisition and annotation ecosystem, whereas real-world deployment is dominated by cross-domain variation arising from heterogeneous scanners, reconstruction pipelines, and contrast timing, each capable of systematically reshaping texture distributions. External validation alone may be insufficient when validation cohorts remain partially aligned with the training domain,
+07603|Rapport Stratégique : Dispositif BSCC-V1 pour la Préservation de l'Intégrité Épigénétique
+   > G01R 33/0059. Greenhouse fluorescence mode — IPC A01G 9/24 ; CPC A01G 9/2460. Denoising domain adaptation — IPC G06N 20/00 ; CPC G06N 20/00 Keywordsphotorefractive528Hz, 528nm, A/B trial, adaptive … clinical mode, closed-loop, coherence index, conductive fiber, consent management, dataset standard, denoising, digital twin, domain adaptation, drift control, EM cancellation, EMF mapping, EMI shieldi
+07604|Antifungal susceptibility of candida species in diabetic patients
+   > patient isolates compared to 38.9% among non-diabetic controls, a statistically significant difference suggesting species distribution shifts in the diabetic population. Fluconazole susceptibility rates among C. albicans isolates from diabetic … exposure within 90 days, recurrent candidiasis, and prolonged diabetes duration exceeding 10 years as independent predictors of fluconazole non-susceptibi
+07605|Community, Morality, and Diegetic Music in Little House on the Prairie
+   > family to Walnut Grove a in Laura the with her family and the by in the Wilder also a in of a that she as an with which at
+07606|Deep Time and Settler Literary Regionalism in Olive Schreiner's The Story of an African Farm and Willa Cather's O Pioneers!
+   > not as “primitives.” In stadial theories of human development, these peoples were understood as “degraded.” Under the impulse of geological and evolutionary theories, however, this conceptual framework was reconfigured … Up until the mid-nineteenth century, the San were regarded by settlers as the most “degraded” of the African peoples, an evaluation that should be traced to the internecine confli
+07607|Highlights from the Literature
+   > prognostic marker in IDHmt astrocytomas. A hurdle incorporating these findings into a practical and generalizable grading system at present is that immunohistochemistry does not reliably detect CDKN2A/B deletion; FISH,
+07608|Introduction
+   > highly influential, in significant part because Ritvo’s motivation was never merely to add yet another group (non-human creatures) to the expanding range of historical subjects deemed appropriate for academic … bloodline itself. Yet by the mid-twentieth century, social and political historians were busy defining new fields of study predicated precisely on the notion that such hierarchies were not 
+07609|The 2025 Spychala and Women in Science Awards
+   > [no term] Each year, the Pennsylvania Academy of Science recognizes outstanding graduate and undergraduate presentations at its annual meeting. Through the Spychala Awards, funded by the Anne Spychala Family Charitable Foundation Endowment,
+07610|The North American Journals of Prince Maximilian of Wied, Volume 1The North American Journals of Prince Maximilian of Wied, Volume 2The North American
+   > beaver, and other furs were stored, ready to be exported to Europe. There they transferred to the AFC steamer Assiniboine.This second journal ends when Prince Max starts his return … honored guest on AFC business:Along the Missouri itself, the game and fur-bearing animals have decreased to an extraordinary degree in a few years, and in ten years this business
+07611|East, Central, and Southern Europe
+   > terms of the environmental license will be monitored by licensed natural or legal persons—the ‘Independent Environmental Inspectors’—and not by public authorities that are generally tasked with the implementation and … Council of State this year deal with issues relating to renewable energy projects. For another year, the environmental licensing of wind farms within Natura 2000 sites has been at
+07612|2022 Index to Volume 84 of The American Biology Teacher
+   > 8.472-IIdiograms ............... 7.396-FImmunology ............... 3.152-IInclusive pedagogies (see Diversity, equity, and inclusiveness [DEI] in the classroom)Independent assortment, law of ............... 1.22-I, 3.157-IIndigenous knowledge ............... 8.488-IInquiry-based learning ............... 1.33-I, 2.94-I, 3.137-OL,
+07613|Misfolded amyloid-beta conformational variants (strains) as drivers of Alzheimer’s disease neuropathology
+   > this is analogous to the strain-specific recruitment of PrPC glycoforms by different prion strains. Another important aspect that supports the concept of Aβ strains lies in their differential affinity … post-mortem brain samples (Gomez-Gutierrez et al., 2023). Biological and clinical significance of Aβ strains: Another aspect that might be linked to Aβ strains comes from the different phenotypes t
+07614|Collected Pleasures of a Collector
+   > other dislocated children in dormitories, all semi-orphaned at the age of six, when parents dropped them off, not to be reclaimed until the next holiday.Among the boys, even the … bought my own collector's guide as well, excited each time I could mark off another bottle that I owned. Most were worth only five or ten dollars. But for
+07615|E. Greece
+   > EIA and, by logical implication, the validity of the AET. This decision is yet another unsuccessful attempt of ENGOs to block the continuation of projects on environmental grounds. Apart … Similarly, a reporting obligation to submit emission reduction reports annually is placed from 2026. Another positive development introduced by the Greek Climate Law concerns the targets for electric mobility.
+07616|Helen Hunt Jackson, Indigeneity, and the Borders of Regionalism in Western American Literature
+   > pass is named, no indigenous peoples are mentioned.The next month, as she reported in another essay, Greenwood ascended Pikes Peak in a group promised a relatively lavish celebration atop … is for a but it the the and all the which into the would another Colorado Greenwood the to in Colorado of indigenous peoples in the of the Pikes
+07617|Thomas H. Kunz
+   > on the physiological plasticity of bats (Richardson et al. 2009, 2018). Chris observed that external factors (e.g., microhabitat differences such as roost type) had a large influence on intraspecific
+07618|Feuille de Route IA pour la Prévention, le Traitement et l'Éradication des Maladies Prioritaires
+   > G10L 25/5437) DP synthetic rare cohorts — G16H 50/70 ; G06N 20/0038) Safe clinical domain adaptation — G06F 18/24 ; G06T 5/6039) Medical model compression — G06F 11/36 ; … A61L 2/02 ; C08J 5/22101) Antimicrobial HEPA filter — A61L 9/16 ; B01D 46/10102) Biodegradable temp patch — A61B 5/01 ; G01K 7/00103) Optimized health drones — G06Q 10/08
+07619|Announcement of the 2022 winners of the Spychala and Women in Science Awards
+   > integrator BIN1, or cyclin D. Interestingly, it was found that the SAM68 target SRSF1 (another splicing factor) showed increased levels of only the specific SRSF1-208 isoform in the transformed … dividing cells. This damages the patient’s healthy cells, leading to unwanted side effects and decreasing the efficiency of the treatment. An increase in the specificity of chemotherapeutic drugs would
+07620|One fish, two fish, 3,000 fish ...
+   > Congo rivers more than 120,000 years ago. The parent populations had diverged from one another more than 1 million years ago, accumulating genetic differences — for example, the Nile … graphic shows the hybridization of Nile and Congo lineages some 120,000 years ago, and another much more recent reunification following a period during which Lake Victoria had dried up.Repeatedly,
+07621|Contemporary trends and outcomes in European ICD recipients: a 15-year analysis
+   > had modestly higher LVEF and better functional status, with higher GDMT uptake, and device-type distribution shifted (Figure 1A). At 60 months, appropriate ICD therapy occurred in 26.4% overall and … did not differ significantly across eras, but the proportion of deaths classified as arrhythmic decreased (Figure 1A). In adjusted analysis, QRS duration independently predicted ICD therapy, whereas L
+07622|Technologies Révolutionnaires pour Étendre l'Espérance de Vie et Personnaliser la Médecine
+   > CPC B82Y 5/00 Anti-senescent AuNP vaccine — IPC A61K 39/00 ; CPC A61P 43/00 Cross-site imaging domain adapt — IPC G06T 7/70 ; CPC G16H 50/20 Patient-adaptive k-space MRI … clock, metabolomics, HRV, digital phenotyping, on-device AI, renal-clearable gold, RBC membrane coating, senescence vaccine, domain adaptation, harmonization, adaptive k-space, compressed sensing MRI,
+07623|The 2023 Spychala and Women in Science Awards
+   > a higher temperature under chain-smoking conditions compared to regular smoking conditions. V. parvula exhibited decreased viability under both regular and chain-smoking conditions, but the viability of the opportunist S.
+07624|Robotique souple neuromorphique et essaims
+   > G01D 18/003. HASEL sensing skin laminate — IPC G01L 5/00 ; CPC G01L 5/164. Biodegradable electrohydraulic actuator — IPC C08L 67/00 ; CPC C08L 67/025. Printable EAP electrode ink … 7/0281. Event-based collision reflex control — IPC B25J 9/16 ; CPC B25J 9/1682. Event-vision domain adaptation MLOps — IPC G06V 10/40 ; CPC G06V 10/4083. Humidity-grade HV reliability test
+07625|IN THE NEWS/NEW PRODUCTS
+   > ACADEMY NEWS Another Academy Giant FallsDr Alden “Norman” Haffner, OD, MPH, PhD, FAAO.We recently learned that long-time … studies funded by the National Eye Institute, part of the National Institutes of Health. Another 16.4 million Americans are expected to have difficulty seeing due to correctable refractive errors
+07626|Authors’ reply to the Discussion of ‘Inference for extreme spatial temperature events in a changing climate with application to Ireland’
+   > this changed over time. We achieved this by working ostensibly with parametric models for independent spatial random fields and accounting for the effects of short-term, weather-driven temporal dependence using … that of individual extreme events is critical for applications. Even within the context of independent and identically distributed replicates of a spatial process, Sochaniwsky et al. rais
+07627|A Pedological Tale IV: Conversations with Turtle, Bear, and Eagle
+   > to be quite useful. We have discussed the imprecise nature of delineating polygons. Cartographic generalization is inherent with the map unit polygon model. There is also the issue of … specific soil properties. As for the slope classes, soil scientists were often asked to generalize slope classes, thereby compromising the task of mapping a natural landform segment. Given the
+07628|Mutant calreticulin—Cancer driver and Achilles' heel for ET?
+   > remaining 30% of JAK2/MPL mutation-negative cases remained enigmatic. In 2013, two studies published by independent teams in the same issue of the New England Journal of Medicine identified mutations … with the TPO-R, and migration of the mutCALR-TPO-R complex to the cell membrane, triggering cytokine-independent receptor activation and downstream signaling (Figure 1). Fortuitously, from a therape
+07629|The Idiot as Artist:The Fantasy Boats of James Henry Pullen
+   > overlapped almost exactly with the development of the asylum movement itself. His case was transferred to Earlswood the same year that institution opened, though the date ‘1850’ in the

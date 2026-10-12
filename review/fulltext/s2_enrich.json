@@ -1,0 +1,4334 @@
+{
+ "R00001": {
+  "s2id": "5b1fa8135d6a27bb512019f5e279475b1b04b72b",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00004": {
+  "s2id": "4abb3db338fb5ced964f92059ddebfeb2d21a532",
+  "arxiv": "1806.03412",
+  "s2_pdf": "https://arxiv.org/pdf/1806.03412",
+  "s2_oa": true
+ },
+ "R00005": {
+  "s2id": "6239f93d8b04417550798d3c1e8279772748a990",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00008": {
+  "s2id": "d39b37f983290e84b32f7525f1203ec2b486cc52",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00009": {
+  "s2id": "0dc2bb7ce5867bf03c9e6eeaf8248a09ea1b7380",
+  "arxiv": null,
+  "s2_pdf": "https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-018-0273-z",
+  "s2_oa": true
+ },
+ "R00010": {
+  "s2id": "954579f0cbd4b98d0b24db28939edd02002a3b22",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00011": {
+  "s2id": "972bd288493631bd464c2efab2452b7f66a745e6",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00013": {
+  "s2id": "7d8479a3e15f5e03e6c96fd099e13078ee2a59d3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.34133/plantphenomics.0038",
+  "s2_oa": true
+ },
+ "R00014": {
+  "s2id": "c727ca7b19a55384ebe2b51bb737f4e386152c04",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.inpa.2024.03.002",
+  "s2_oa": true
+ },
+ "R00015": {
+  "s2id": "2a565189a6960c110dc0d95ff389f6e833b680b9",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2019.00272/pdf",
+  "s2_oa": true
+ },
+ "R00017": {
+  "s2id": "06886969b8a5a68808ee0955b90e503f6f68b923",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2023.1128388",
+  "s2_oa": true
+ },
+ "R00019": {
+  "s2id": "f57fac8810ae67cb0df9b42ff52d34b82799f4dc",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/10/3/395/pdf?version=1520320790",
+  "s2_oa": true
+ },
+ "R00020": {
+  "s2id": "80be19c3dcb0d261f9bf8742fe84ef2bb7647004",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00022": {
+  "s2id": "eda3134a6069289b68a816c6450c5f6001995cfb",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/6/1493/pdf?version=1648113820",
+  "s2_oa": true
+ },
+ "R00026": {
+  "s2id": "8a04eeb127d33e69f669d59df96d2a430adc3b25",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S0034425721005514/pdf",
+  "s2_oa": true
+ },
+ "R00035": {
+  "s2id": "e13d6796201a06b420534025067507b44fc29363",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2022.12.005",
+  "s2_oa": true
+ },
+ "R00037": {
+  "s2id": "20c711a665154b3caaa73524f5f1e39a58a12fbb",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.21901",
+  "s2_oa": true
+ },
+ "R00038": {
+  "s2id": "6dcde6ee8d31aebe0525b64f8d547824a1c9effa",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/am/pii/S004896972032386X?via%3Dihub",
+  "s2_oa": true
+ },
+ "R00044": {
+  "s2id": "58903a38a763bcbb95f2d83e68561b0a140e4128",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00047": {
+  "s2id": "33ef644ef5085237b4f529251d6c895d32d6052f",
+  "arxiv": "1707.02290",
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1186/s13007-017-0224-0.pdf",
+  "s2_oa": true
+ },
+ "R00049": {
+  "s2id": "7ba4b9ed8123dd4aa077b33db35eb867065b07f6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.ophoto.2024.100064",
+  "s2_oa": true
+ },
+ "R00052": {
+  "s2id": "f15a5ed03c1e438dd8cc2ab9862127e774ebcc17",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.2139/ssrn.4122021",
+  "s2_oa": true
+ },
+ "R00056": {
+  "s2id": "bd40d44a67d648ef8b754c718fb0e2b000f771f2",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2021.106314",
+  "s2_oa": true
+ },
+ "R00057": {
+  "s2id": "8c9458402cf11e8ea6f89947b8f341b99c9972ff",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2023.1234616/pdf",
+  "s2_oa": true
+ },
+ "R00061": {
+  "s2id": "8322d16c8e89994195200afa517c5621a00847cb",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/4/683/pdf?version=1707923904",
+  "s2_oa": true
+ },
+ "R00063": {
+  "s2id": "5cc533fc0252aa5432e313a56a49b88c20b8ea20",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/13/3414/pdf?version=1688602393",
+  "s2_oa": true
+ },
+ "R00065": {
+  "s2id": "a748a2b25a00a2413b5c5b565ee1b8e1b659051b",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1522985/pdf",
+  "s2_oa": true
+ },
+ "R00073": {
+  "s2id": "0c09b992dcf988e230ad461690973ed34cb7e3cc",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2023.03.007",
+  "s2_oa": true
+ },
+ "R00076": {
+  "s2id": "7883acee6a6f0c347c33ea4960235acb5495ddb7",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/18/4562/pdf?version=1694856673",
+  "s2_oa": true
+ },
+ "R00080": {
+  "s2id": "54b8f50010ba7f2bae09f745c1ac88e08ff77852",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2024.104084",
+  "s2_oa": true
+ },
+ "R00082": {
+  "s2id": "d92e07a01f42c655a230fd9d8c5a63eb4702a53d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/10106049.2024.2387786",
+  "s2_oa": true
+ },
+ "R00086": {
+  "s2id": "7f58c885a05d3aca85d9f034748b629be706dc4a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2024.103867",
+  "s2_oa": true
+ },
+ "R00088": {
+  "s2id": "1918bb550a45a99f6007501b54a675393a8e6a4f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2024.05.020",
+  "s2_oa": true
+ },
+ "R00094": {
+  "s2id": "c51691dbe540994ce33b8fd788b1daa02c3707ad",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/15481603.2022.2156123",
+  "s2_oa": true
+ },
+ "R00095": {
+  "s2id": "f30c571a45a2cc5a3d85673d88f319916f82d7da",
+  "arxiv": "2109.01246",
+  "s2_pdf": "https://arxiv.org/pdf/2109.01246",
+  "s2_oa": true
+ },
+ "R00097": {
+  "s2id": "950f8e7a173b3aa982450b341e96310ad14be967",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.eswa.2023.122980",
+  "s2_oa": true
+ },
+ "R00098": {
+  "s2id": "35f2cb8e704a8b46f3541a3a15ea52dcace76c13",
+  "arxiv": null,
+  "s2_pdf": "https://ej-eng.org/index.php/ejeng/article/download/2773/1379",
+  "s2_oa": true
+ },
+ "R00102": {
+  "s2id": "33ae04644bd2f3422c610c6b7d8fad2c71c143e5",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1038/s41438-021-00553-8",
+  "s2_oa": true
+ },
+ "R00103": {
+  "s2id": "b45956093203f9dc32569160109dfe49ca99ac99",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00104": {
+  "s2id": "5265b2875df75d18a3805fb0d590866ca2214a63",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2021.102451",
+  "s2_oa": true
+ },
+ "R00106": {
+  "s2id": "ac83d65560c38021dd8f8709cd843c6ab0a10cbe",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.fcr.2023.108824",
+  "s2_oa": true
+ },
+ "R00114": {
+  "s2id": "d86474d4710a3e7b96f1a66495ee19663a66c624",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/13/9/1672/pdf?version=1692869370",
+  "s2_oa": true
+ },
+ "R00119": {
+  "s2id": "01bb3fff5608d4e2f416bdfc1d42c674665b0f49",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1434222/pdf",
+  "s2_oa": true
+ },
+ "R00121": {
+  "s2id": "de1f150435dcd2da03abb8268e17f406f87c4417",
+  "arxiv": "2002.10100",
+  "s2_pdf": "https://arxiv.org/pdf/2002.10100",
+  "s2_oa": true
+ },
+ "R00122": {
+  "s2id": "66784f79128f6a5c18d2962e626c33c6378bf03f",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/12/17/2732/pdf?version=1598256212",
+  "s2_oa": true
+ },
+ "R00123": {
+  "s2id": "9dcef6327e5ebd6e322b66fb8658ea934e652225",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2021.758027/pdf",
+  "s2_oa": true
+ },
+ "R00126": {
+  "s2id": "5d947ae3e7cf9119e94755b7845ff914947516e7",
+  "arxiv": "2012.15827",
+  "s2_pdf": "https://repositorio.udesc.br/handle/UDESC/3823",
+  "s2_oa": true
+ },
+ "R00127": {
+  "s2id": "110203cf0f2c211fd863a477596d141a6094a4ba",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2571-8800/8/1/4/pdf?version=1736928977",
+  "s2_oa": true
+ },
+ "R00128": {
+  "s2id": "c799da55033bd8d9eeee3de7c46c840557c86ce1",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S0168169915000575/pdf",
+  "s2_oa": true
+ },
+ "R00129": {
+  "s2id": "d14ada6ca50140e8cac0366d13f0de302aa32b68",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00131": {
+  "s2id": "07897cf16fac3a4fb3064d6c8b26bbcee1dcd38d",
+  "arxiv": "2204.00951",
+  "s2_pdf": "https://ieeexplore.ieee.org/ielx7/4609443/9656571/09749916.pdf",
+  "s2_oa": true
+ },
+ "R00132": {
+  "s2id": "9c8ded3eb25dd97fc2698a89013d25a965c752a9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2025.3547416",
+  "s2_oa": true
+ },
+ "R00142": {
+  "s2id": "dcf05ff790199ac519d545dc02b63dea1cb34ec7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00148": {
+  "s2id": "b91692c3103cba7706345159a69ba0026cbc9d8a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.109574",
+  "s2_oa": true
+ },
+ "R00149": {
+  "s2id": "623e6e976e7beb856796fdf13458388cbc045e92",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/18/4639/pdf?version=1663657835",
+  "s2_oa": true
+ },
+ "R00150": {
+  "s2id": "fcb46a3f70ee09b5284d8524aeba0c2e89dc52b6",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/srep36240.pdf",
+  "s2_oa": true
+ },
+ "R00157": {
+  "s2id": "fd9e25faa77e7f3b16dba275013b84c4d4d45dcf",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00159": {
+  "s2id": "6191e96d5acdc346bdb2e67ba00db456a79e36f1",
+  "arxiv": null,
+  "s2_pdf": "https://ieeexplore.ieee.org/ielx7/4609443/9973430/10018297.pdf",
+  "s2_oa": true
+ },
+ "R00160": {
+  "s2id": "376628a26b141bc2c7bbad6dc793ca6dfedeb4e9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.ecoinf.2024.102546",
+  "s2_oa": true
+ },
+ "R00166": {
+  "s2id": "edbd0a574e7bcb60d939daa8f1dad8b2c13efda6",
+  "arxiv": "2108.05789",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00167": {
+  "s2id": "58bc69e7c6ee306dfbc71764ad36cadfb9f83ce0",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/4/997/pdf?version=1645175798",
+  "s2_oa": true
+ },
+ "R00168": {
+  "s2id": "9b251e921e9060de55905d5cafd67148f1581622",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00172": {
+  "s2id": "a16f095190cc8e85f78fc352437f96c6ac2b35a6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.agrformet.2020.108317",
+  "s2_oa": true
+ },
+ "R00177": {
+  "s2id": "b4040ba174325eff7338de95807befa8ce202b76",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/6/1700/pdf?version=1679457586",
+  "s2_oa": true
+ },
+ "R00186": {
+  "s2id": "318e44d44436696c0d92c2b5eb0b8396836ec2d2",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/13/9/1740/pdf?version=1620281462",
+  "s2_oa": true
+ },
+ "R00192": {
+  "s2id": "78a8b0ec86711b7b0b5d32a60b5ae9d7f26be2f3",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ppj2.20094",
+  "s2_oa": true
+ },
+ "R00200": {
+  "s2id": "6451bc9b88f160d1791393abcf8a7b89a1ca0c56",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/11/14/1665/pdf?version=1562935403",
+  "s2_oa": true
+ },
+ "R00201": {
+  "s2id": "052643d62670c10b5a963687b079ac407fce61ba",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/16/4071/pdf?version=1692336548",
+  "s2_oa": true
+ },
+ "R00202": {
+  "s2id": "3e2d099d6013e398c350aab66bc7262b7b0190b7",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/am/pii/S0378429019321604?via%3Dihub",
+  "s2_oa": true
+ },
+ "R00206": {
+  "s2id": "138a117d9d22285c5eb992d5f00e8cba910221eb",
+  "arxiv": null,
+  "s2_pdf": "https://vtechworks.lib.vt.edu/bitstreams/007fd8dc-1aca-4a8c-8fd1-79cc5a55e47f/download",
+  "s2_oa": true
+ },
+ "R00211": {
+  "s2id": "172bdbbd7da3a5bb4428f23ce19a0dcd69a30332",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00213": {
+  "s2id": "a96881d667998266b57b2dddd4992c9aec176576",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/s21196540",
+  "s2_oa": true
+ },
+ "R00216": {
+  "s2id": "4ce5b13c7ad3369d413daab06b3f61bcd8f94b35",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.biosystemseng.2022.10.016",
+  "s2_oa": true
+ },
+ "R00219": {
+  "s2id": "33064d9e1284139d87dd9c92bf7552abcdcabfd8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00223": {
+  "s2id": "5261bb5b1e8ae0d25201bc17297d50b805329ebe",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2022.837726/pdf",
+  "s2_oa": true
+ },
+ "R00224": {
+  "s2id": "01ec0567056f6c456505e0037e44ca3e4653b491",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2073-4395/12/10/2359/pdf?version=1664533755",
+  "s2_oa": true
+ },
+ "R00227": {
+  "s2id": "8b885eaa3d07c6cfaa9b37ccda3252da8abd462c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2073-4395/12/11/2832/pdf?version=1668474924",
+  "s2_oa": true
+ },
+ "R00229": {
+  "s2id": "b182597611f26d80e9e1800998d95d520f086b12",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2023.107927",
+  "s2_oa": true
+ },
+ "R00235": {
+  "s2id": "61b16e2c7b6df48aa66f9d4229f48d58e265e6a9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00238": {
+  "s2id": "955b599c57d65c412677922406505fe714072e13",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00242": {
+  "s2id": "42e32f03540bd246fc29b3e8a54a8fc9edea0d43",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00244": {
+  "s2id": "dcc78a1d3d35f6d2ac50005a18eb79617caacd48",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/13/4/775/pdf?version=1614215015",
+  "s2_oa": true
+ },
+ "R00247": {
+  "s2id": "a717adc9fba936173f76d3ec31618995d7e4e1e3",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/3/674/pdf?version=1674467420",
+  "s2_oa": true
+ },
+ "R00251": {
+  "s2id": "b455eac7d266a3962572fc401da78bd9ea84c145",
+  "arxiv": null,
+  "s2_pdf": "https://ieeexplore.ieee.org/ielx7/4609443/9314330/09408357.pdf",
+  "s2_oa": true
+ },
+ "R00252": {
+  "s2id": "9b2d254289d4cd717a1a929a04807e39c5e91236",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2023.100188",
+  "s2_oa": true
+ },
+ "R00253": {
+  "s2id": "b0b4607a7bbe1567da53d795ef6b9d3d3d7d87c4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2025.3595390",
+  "s2_oa": true
+ },
+ "R00254": {
+  "s2id": "739442305a2ee9b7e361d95df6cc0f54c5eb7a08",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2022.100059",
+  "s2_oa": true
+ },
+ "R00259": {
+  "s2id": "39cb2252100108e136301d18ebce7af4e181a207",
+  "arxiv": "2111.02682",
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S0924271622001216/pdf",
+  "s2_oa": true
+ },
+ "R00261": {
+  "s2id": "925d1f830ba8a3fb96d61bdd709c36fafc91f7e6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.110673",
+  "s2_oa": true
+ },
+ "R00272": {
+  "s2id": "6c2103fb808d27b1fc875fcf29390588807a776b",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2673-4117/6/10/270/pdf?version=1760007027",
+  "s2_oa": true
+ },
+ "R00273": {
+  "s2id": "f00725da5b19b6373cfe583dc71d5198d649b0d5",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00274": {
+  "s2id": "4d3615daf2c49e02f19f56f316a9f5dd6e90d29b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/15481603.2024.2395700",
+  "s2_oa": true
+ },
+ "R00275": {
+  "s2id": "d1c2bf0dde9d74989b6921189cb17bb1810b15e6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17030474",
+  "s2_oa": true
+ },
+ "R00277": {
+  "s2id": "b0301f2532ebb092ac7b5e8c64ce0d59daafbdbf",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/24/6298/pdf?version=1671325883",
+  "s2_oa": true
+ },
+ "R00291": {
+  "s2id": "b0360892af4f2ad8171979397de4a6a3a6b6ea63",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00293": {
+  "s2id": "4741998f029bfa44c408fb1e4084f0fa62e1e1c0",
+  "arxiv": "2401.07398",
+  "s2_pdf": "https://doi.org/10.1109/access.2024.3436620",
+  "s2_oa": true
+ },
+ "R00301": {
+  "s2id": "aa04920be1d189cebdb47b8382e815af292793bb",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/9/1493/pdf?version=1713885592",
+  "s2_oa": true
+ },
+ "R00310": {
+  "s2id": "c860eb53457b9b36b102c17c78f34ba46f6c331f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.109022",
+  "s2_oa": true
+ },
+ "R00312": {
+  "s2id": "c272a2c6a2e8ac5e978102061a239957de742ceb",
+  "arxiv": "2305.12011",
+  "s2_pdf": "http://arxiv.org/pdf/2305.12011",
+  "s2_oa": true
+ },
+ "R00313": {
+  "s2id": "a37a2744a495f0bb52ecd72c8b5fc64b501a713c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.eswa.2025.127324",
+  "s2_oa": true
+ },
+ "R00315": {
+  "s2id": "659a3b53a1141a9f5c222a31073ad1adfd837de0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.110058",
+  "s2_oa": true
+ },
+ "R00321": {
+  "s2id": "89c0e82bc0c8f3a7e72b3ee10cf36565c1904100",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/23/4548/pdf?version=1733315115",
+  "s2_oa": true
+ },
+ "R00327": {
+  "s2id": "1014010a2a70e273a5953e76359f050cfbaeb2d2",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.52756/ijerr.2024.v42.007",
+  "s2_oa": true
+ },
+ "R00328": {
+  "s2id": "46faad7042d9d797888cff1221f6f7eb69c3f578",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2024.100538",
+  "s2_oa": true
+ },
+ "R00336": {
+  "s2id": "fc29b74fad84ab33a5ac881bbe0ffe74fc33038b",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2227-7080/12/7/94/pdf?version=1721115886",
+  "s2_oa": true
+ },
+ "R00346": {
+  "s2id": "981895462157d111378475038309ec871eda9256",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2023.11.016",
+  "s2_oa": true
+ },
+ "R00353": {
+  "s2id": "35456334db4ed3cced3933cc0450478b9d904d96",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/24/4804/pdf?version=1734953252",
+  "s2_oa": true
+ },
+ "R00374": {
+  "s2id": "a9449adbedc8d14cce63acd9f3771aab7a3481d4",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00376": {
+  "s2id": "580f50c3eb0e6c88015e340c3815296beac9232c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2223-7747/14/21/3265/pdf?version=1761492713",
+  "s2_oa": true
+ },
+ "R00378": {
+  "s2id": "e9293b612c30266f47cc6b0195fa8b8f475fee0c",
+  "arxiv": "2405.07157",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00379": {
+  "s2id": "b96a5d6ff0e0c0ad9a1b29029894b2e2342eacb7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00380": {
+  "s2id": "af50d12fdbb07e06f21bb0aeb8aa394ca0ecaabd",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/17538947.2025.2563211",
+  "s2_oa": true
+ },
+ "R00382": {
+  "s2id": "6dea2efd370141f5049933f9799f3dddfb4c80bc",
+  "arxiv": null,
+  "s2_pdf": "https://anapub.co.ke/journals/jmc/jmc_pdf/2025/jmc_volume_5-issue_3/JMC202505126.pdf",
+  "s2_oa": true
+ },
+ "R00394": {
+  "s2id": "4b433e1c00e4d7cbedba7ec5a6595be9f85a8ca0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2023.108356",
+  "s2_oa": true
+ },
+ "R00396": {
+  "s2id": "1e1d44475afe4138e5f96ce83262c82b25ad783a",
+  "arxiv": "2409.00020",
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2025.100227",
+  "s2_oa": true
+ },
+ "R00401": {
+  "s2id": "14ccab6cdd24ea1eb62f1091a076a7307db1fd3d",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/15/23/2494/pdf?version=1764665268",
+  "s2_oa": true
+ },
+ "R00406": {
+  "s2id": "37133c3bca66ba39d9d6e4422373ebf39358df4f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.agrformet.2022.109186",
+  "s2_oa": true
+ },
+ "R00415": {
+  "s2id": "aa566beb131a9eef90b667e3b176877555b4fd35",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00419": {
+  "s2id": "5cd2ec41ffed6a06aed2a4eea71818b985095dc6",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S092427161730271X/pdf",
+  "s2_oa": true
+ },
+ "R00422": {
+  "s2id": "5b13e327ac38ee389f9a84e9a00ed25b77c3017a",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2311-7524/11/11/1397/pdf?version=1763556624",
+  "s2_oa": true
+ },
+ "R00427": {
+  "s2id": "f0eaac3791b004190076640bb1cca7f0b35cc47c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/17/4156/pdf?version=1692871986",
+  "s2_oa": true
+ },
+ "R00429": {
+  "s2id": "659fa3ed212ef2b94f5e3ce746ebf098ae1c5a31",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00437": {
+  "s2id": "ae1e2d5159e27dadb79ad431d93b4ff7cbe64f61",
+  "arxiv": null,
+  "s2_pdf": "https://ieeexplore.ieee.org/ielx7/4609443/4609444/10254255.pdf",
+  "s2_oa": true
+ },
+ "R00439": {
+  "s2id": "c0b5cbdb27a76fbaeeaee94f9d05c7299d255466",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2024.103718",
+  "s2_oa": true
+ },
+ "R00442": {
+  "s2id": "f4e6c2f350f1ccaa628311f5e22068c121a892a7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jafr.2024.101096",
+  "s2_oa": true
+ },
+ "R00445": {
+  "s2id": "3bd09a6af0bf25ddd18464657acf14f0b8671102",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00451": {
+  "s2id": "bcb4527cffcd5804375b9bbd53f5979dc6226716",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00454": {
+  "s2id": "de93de6470f0db948d4062d5a3fa5d4322c0b545",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/12/2980/pdf?version=1686299525",
+  "s2_oa": true
+ },
+ "R00458": {
+  "s2id": "69c7b5c59773920cadb046bec826e0caf17767ec",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00471": {
+  "s2id": "efacecefe6848fcc713512a477b6e37d0c4c970f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1371/journal.pone.0307643",
+  "s2_oa": true
+ },
+ "R00475": {
+  "s2id": "af5f496da5bb965072ff4a6c15aced23cdd2a264",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00476": {
+  "s2id": "4bdc92995d0ec1f45e35816508e950619d5c9430",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture14122240",
+  "s2_oa": true
+ },
+ "R00483": {
+  "s2id": "532a5fc5f3ed16de6c99b991264629067bcafe20",
+  "arxiv": null,
+  "s2_pdf": "https://www.biorxiv.org/content/biorxiv/early/2023/09/21/2023.09.20.558703.full.pdf",
+  "s2_oa": true
+ },
+ "R00484": {
+  "s2id": "0e00b746b2fa812443d6abc6c443caedd51db7b5",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/18/4573/pdf?version=1663412123",
+  "s2_oa": true
+ },
+ "R00487": {
+  "s2id": "dd0e7671e04c7ab44a9a5e19a7319a846c7ccbcb",
+  "arxiv": null,
+  "s2_pdf": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3-W6/585/2019/isprs-archives-XLII-3-W6-585-2019.pdf",
+  "s2_oa": true
+ },
+ "R00491": {
+  "s2id": "9bea0bc6aadb3be924645d35b7534c2caf2ccd50",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2022.731816/pdf",
+  "s2_oa": true
+ },
+ "R00492": {
+  "s2id": "50adcd9ba71f73b2a89c49d895b0a168426a6bfd",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17132190",
+  "s2_oa": true
+ },
+ "R00502": {
+  "s2id": "eb7db8ab6e9983ef0faa7254963ebbdb12c53cdd",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00504": {
+  "s2id": "cbf3738f5068f097555f241d0311e4632238aae4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2022.1037774",
+  "s2_oa": true
+ },
+ "R00508": {
+  "s2id": "ff0adf690f780e7e07fa31dc24579316f6d59b22",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agronomy14081729",
+  "s2_oa": true
+ },
+ "R00514": {
+  "s2id": "333ea0c69d259679ddba17dd1e15a9b18ab5c317",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.eja.2024.127498",
+  "s2_oa": true
+ },
+ "R00521": {
+  "s2id": "4b8e4a628e5b8ccb6cfd9cc1bf2a616750291dbd",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/9/9/951/pdf?version=1505380362",
+  "s2_oa": true
+ },
+ "R00529": {
+  "s2id": "0a5b571a4bb0a6ffb1fbc7cccf519186db64e9ea",
+  "arxiv": null,
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1007/s11119-022-09986-0.pdf",
+  "s2_oa": true
+ },
+ "R00534": {
+  "s2id": "5e4bc6d5baf38d22ec71d3baf5bcc84c102d2ca5",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2025.3604524",
+  "s2_oa": true
+ },
+ "R00548": {
+  "s2id": "ed2370a1ea411ac47f227574be22063ba6d77d40",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.agwat.2026.110254",
+  "s2_oa": true
+ },
+ "R00558": {
+  "s2id": "0862691c99d9790a402272390e3d3d31614dbf35",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S0168169922007888/pdf",
+  "s2_oa": true
+ },
+ "R00570": {
+  "s2id": "e5feb4654f1f586b92acb7aea2c1549c261dae4e",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/9/2443/pdf?version=1683364760",
+  "s2_oa": true
+ },
+ "R00574": {
+  "s2id": "1e7ccd597bf73b443628cb00aba163c68ecdd45c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/13/9/1769/pdf?version=1620359322",
+  "s2_oa": true
+ },
+ "R00581": {
+  "s2id": "8befb158edd800d5e4aaf4708f9656e844865c71",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jia.2023.05.032",
+  "s2_oa": true
+ },
+ "R00582": {
+  "s2id": "c31f3ebbc84d962b958d935388a5d1e630781603",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2024.103826",
+  "s2_oa": true
+ },
+ "R00588": {
+  "s2id": "7b372254e539d64a3f5b5b05295362c074a26a0b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.ecoinf.2025.103579",
+  "s2_oa": true
+ },
+ "R00590": {
+  "s2id": "f8b357cb50a72024037685f21a6620cbaec036bd",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.34133/2022/9761674",
+  "s2_oa": true
+ },
+ "R00595": {
+  "s2id": "8bfca13591d705cc6c72534b5b2208ffddd90e11",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/17538947.2022.2036832",
+  "s2_oa": true
+ },
+ "R00604": {
+  "s2id": "c3b3d6c21e9fa8fd1b871b8a78cbbcf42b895deb",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-026-45464-7.pdf",
+  "s2_oa": true
+ },
+ "R00605": {
+  "s2id": "1124616802db3d31ab736178cf702657361de753",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1038/s41598-026-44550-0",
+  "s2_oa": true
+ },
+ "R00606": {
+  "s2id": "78b921ded25a1ef834042da7180e87784fd5cbc9",
+  "arxiv": null,
+  "s2_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/17538947.2023.2275657?needAccess=true",
+  "s2_oa": true
+ },
+ "R00609": {
+  "s2id": "05a476d2901a055bb94285d6f6570926cc3366ac",
+  "arxiv": "2407.18000",
+  "s2_pdf": "https://arxiv.org/pdf/2407.18000",
+  "s2_oa": true
+ },
+ "R00613": {
+  "s2id": "96f84f01139757d66745623449f96848aedc2ba4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rse.2026.115287",
+  "s2_oa": true
+ },
+ "R00620": {
+  "s2id": "50a8858150b21f564a7ff9c66af4ba3e54c8b4ed",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00623": {
+  "s2id": "a488ceab5df5c404dba1c5e76116dd4997e06c8b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1101/2024.10.07.617111",
+  "s2_oa": true
+ },
+ "R00635": {
+  "s2id": "b0e1561eb521478aefef2925ad81522fa0270197",
+  "arxiv": null,
+  "s2_pdf": "https://ars.els-cdn.com/content/image/1-s2.0-S0924271623001181-ga1_lrg.jpg",
+  "s2_oa": true
+ },
+ "R00636": {
+  "s2id": "9f09ad7f1035e88e6579f413a2c4cbdd3ac19e92",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/app14093727",
+  "s2_oa": true
+ },
+ "R00638": {
+  "s2id": "8f1cfc99e97c28ec36712045ec7ea80e551fe3f3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2024.10.015",
+  "s2_oa": true
+ },
+ "R00643": {
+  "s2id": "6479e2ae87f09dfa8668f9127d988cd0189e0e4e",
+  "arxiv": null,
+  "s2_pdf": "https://www.biorxiv.org/content/biorxiv/early/2025/07/06/2025.07.03.661070.full.pdf",
+  "s2_oa": true
+ },
+ "R00647": {
+  "s2id": "f063f19cbe91bfc0ebd2e6d741f37b49130cfc5a",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-022-08969-5.pdf",
+  "s2_oa": true
+ },
+ "R00654": {
+  "s2id": "d5a25b76672600e3853b46b040728bb6be95e6f7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00657": {
+  "s2id": "83dcf0c1912cde9838c22adecb5470e7854cba1a",
+  "arxiv": null,
+  "s2_pdf": "https://www.ygxb.ac.cn/rc-pub/front/front-article/download/30515399/lowqualitypdf/\u00e6\u00b7\u00b1\u00e5\u00ba\u00a6\u00e5\u00ad\u00a6\u00e4\u00b9\u00a0\u00e4\u00bd\u009c\u00e7\u0089\u00a9\u00e5\u0088\u0086\u00e7\u00b1\u00bb\u00e6\u00a8\u00a1\u00e5\u009e\u008b\u00e7\u00a9\u00ba\u00e9\u0097\u00b4\u00e6\u00b3\u009b\u00e5\u008c\u0096\u00e8\u0083\u00bd\u00e5\u008a\u009b\u00e5\u0088\u0086\u00e6\u009e\u0090.pdf",
+  "s2_oa": true
+ },
+ "R00661": {
+  "s2id": "045a23c4fafde2c146827c7b39f9ddede8eb5021",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00663": {
+  "s2id": "dbc628532addbd6e18cef2e207c661895f1f0c77",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2025.3532283",
+  "s2_oa": true
+ },
+ "R00665": {
+  "s2id": "0588e247ba127e4c0c5110257ba6e9ea7ffa76b2",
+  "arxiv": null,
+  "s2_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0342854&type=printable",
+  "s2_oa": true
+ },
+ "R00666": {
+  "s2id": "4146c4913b288f82fa3548ca956a030d5119f5e9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs16214071",
+  "s2_oa": true
+ },
+ "R00671": {
+  "s2id": "7b583800f6b6288ce70bbf6496c7a7a9876b762b",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00675": {
+  "s2id": "4a0501f0814c9ee10ba9ce96f7c0199541d0505e",
+  "arxiv": null,
+  "s2_pdf": "http://www.agraria.pro.br/ojs32/index.php/RBCA/article/download/v17i2a1353/1448",
+  "s2_oa": true
+ },
+ "R00692": {
+  "s2id": "e93afd6943ec8e8d1ac5ac5bafbe865509505760",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/4/875/pdf?version=1675500222",
+  "s2_oa": true
+ },
+ "R00697": {
+  "s2id": "33f6b5a96a7ea65f6d1125b87c286f2654ba74e8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00709": {
+  "s2id": "43a90285acf5bc37c9d7fe4efd6a5af974a5c562",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/4/1112/pdf?version=1676881405",
+  "s2_oa": true
+ },
+ "R00712": {
+  "s2id": "68cd6501b6391d977eb8b7739c267021e2bae551",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.109341",
+  "s2_oa": true
+ },
+ "R00717": {
+  "s2id": "199bed8cbae8fb5902f7434e052122f54af5aa16",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.109726",
+  "s2_oa": true
+ },
+ "R00725": {
+  "s2id": "343ee33283afebc08aa4da8a51365b6fa970d4c6",
+  "arxiv": "2509.20857",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00745": {
+  "s2id": "f3227a5c32fd5423988ad9666d71cfbaa79fb2b6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2025.100344",
+  "s2_oa": true
+ },
+ "R00747": {
+  "s2id": "03f41c57b4cabad66f4b98d6826af6705b80bd26",
+  "arxiv": null,
+  "s2_pdf": "https://ieeexplore.ieee.org/ielx7/4609443/4609444/10506557.pdf",
+  "s2_oa": true
+ },
+ "R00749": {
+  "s2id": "7563432ff9610d163e709f0f836237676628397b",
+  "arxiv": null,
+  "s2_pdf": "https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-32/issue-3/033014/Assessment-of-deep-learning-methods-for-classification-of-cereal-crop/10.1117/1.JEI.32.3.033014.pdf",
+  "s2_oa": true
+ },
+ "R00755": {
+  "s2id": "24785d7f52b6dc3dd4779c657665750dbc1539b5",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/15481603.2026.2626004",
+  "s2_oa": true
+ },
+ "R00764": {
+  "s2id": "ca4932df84973c7c8c26e088d22e1edae09c5d71",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2025.100256",
+  "s2_oa": true
+ },
+ "R00768": {
+  "s2id": "9d643ee0111ec27766904a065cd4e7918b14b3bb",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/24/4620/pdf?version=1733823330",
+  "s2_oa": true
+ },
+ "R00777": {
+  "s2id": "95d6d73b7a7c277acfeda3a173231c5275ea37fb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/frobt.2025.1548143",
+  "s2_oa": true
+ },
+ "R00781": {
+  "s2id": "a05f82e5f81152ae251e17ec93cb35994ccaee18",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/3/549/pdf?version=1706701780",
+  "s2_oa": true
+ },
+ "R00792": {
+  "s2id": "c9ff97a8e07448af9a6e318486c8bdbf44143740",
+  "arxiv": "2009.10189",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00805": {
+  "s2id": "462968790b5f4e44fd082b5562fdab4217f8c8e2",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2079-9292/14/17/3410/pdf?version=1756291429",
+  "s2_oa": true
+ },
+ "R00807": {
+  "s2id": "23de2d28704c03b44bdecd2e4da4e566b5a31624",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/17/24/4054/pdf?version=1765985127",
+  "s2_oa": true
+ },
+ "R00813": {
+  "s2id": "f71c758b4f055aa463781a2da7c0a7b56c57389c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/16/7/716/pdf?version=1774344426",
+  "s2_oa": true
+ },
+ "R00815": {
+  "s2id": "0475fa137a45d384a530f1cbb51ed0bab0ff6665",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.108748",
+  "s2_oa": true
+ },
+ "R00823": {
+  "s2id": "529290e0d7f63be64697d115d602d0cca3daf8b7",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2079-9292/15/8/1553/pdf?version=1775642309",
+  "s2_oa": true
+ },
+ "R00826": {
+  "s2id": "975490b739c1d8640e6566ea7683d4507f45a22c",
+  "arxiv": "2204.07030",
+  "s2_pdf": "http://arxiv.org/pdf/2204.07030",
+  "s2_oa": true
+ },
+ "R00827": {
+  "s2id": "02cbcc9fa2c66b768766a051c02aecf5b0443427",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.5194/isprs-annals-x-1-2024-241-2024",
+  "s2_oa": true
+ },
+ "R00835": {
+  "s2id": "a151a3fba2e23a0788febdde9f8839550106a27f",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/1424-8220/23/15/7008/pdf?version=1691411884",
+  "s2_oa": true
+ },
+ "R00844": {
+  "s2id": "36a0420a1746599f9df3964d1639d5ff15b26935",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.34133/plantphenomics.0197",
+  "s2_oa": true
+ },
+ "R00866": {
+  "s2id": "465dfce0184ec9094fb82a236fbdc800651af6e7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00868": {
+  "s2id": "a59da4c1dc32771018c67f057c9057a5b1ddfd92",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1007/s11119-024-10208-y",
+  "s2_oa": true
+ },
+ "R00871": {
+  "s2id": "b63b47dee300793cd8522cc77b3286bd6e358c37",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/1424-8220/21/20/6705/pdf?version=1634261245",
+  "s2_oa": true
+ },
+ "R00874": {
+  "s2id": "090d80747d8a06f1ba524f6f49e2f687a74dca62",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2071-1050/18/5/2466/pdf?version=1772547983",
+  "s2_oa": true
+ },
+ "R00875": {
+  "s2id": "f7b60f469117707cffa1c1dd3167024e373548e4",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/16/3968/pdf?version=1660709713",
+  "s2_oa": true
+ },
+ "R00885": {
+  "s2id": "6511d073d392f3b054cdb859e964aa25b4f9418c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/11/2731/pdf?version=1685424762",
+  "s2_oa": true
+ },
+ "R00902": {
+  "s2id": "e1e66a3e286ce8c410927c760916c9bdd7943565",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.ecolind.2024.112295",
+  "s2_oa": true
+ },
+ "R00905": {
+  "s2id": "0cf5e9c71488ffd021ccf99fd1e421401e700418",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2024.109211",
+  "s2_oa": true
+ },
+ "R00906": {
+  "s2id": "0658bdce19470435827738b163797d366792b778",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00916": {
+  "s2id": "cbca8c9cc2229512c5ee6128d7a87b964563639f",
+  "arxiv": null,
+  "s2_pdf": "http://dspace.lib.cranfield.ac.uk/handle/1826/15908",
+  "s2_oa": true
+ },
+ "R00918": {
+  "s2id": "e2f4fb2a6b97f8847132dc0327757bbb641c6a57",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00952": {
+  "s2id": "95e7076c25b3e6ef4cb02609788b37ee106c65ca",
+  "arxiv": "2203.14673",
+  "s2_pdf": "http://arxiv.org/pdf/2203.14673",
+  "s2_oa": true
+ },
+ "R00956": {
+  "s2id": "9cd6bfe3247dc9a49146f9f6bc7f140be326d837",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00958": {
+  "s2id": "6995bd9a3d81b409cfcfe7c4787df2db1971e7fa",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00961": {
+  "s2id": "d18271aef12a91a64d34b968b93b65005d3f94ce",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2025.100001",
+  "s2_oa": true
+ },
+ "R00966": {
+  "s2id": "8b05befee046d32ab9fc2178b3693d4e04874f02",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17233924",
+  "s2_oa": true
+ },
+ "R00981": {
+  "s2id": "ab3ca4e002a5e7896893a312b8012c8160e46237",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R00988": {
+  "s2id": "6da6faf76b5969e0d86c943982e8861fc6f57fe4",
+  "arxiv": null,
+  "s2_pdf": "https://spj.science.org/doi/pdf/10.34133/plantphenomics.0017?download=true",
+  "s2_oa": true
+ },
+ "R00992": {
+  "s2id": "82eb96ae32f4267ebeaf567290fc3ee0867aa728",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.iswa.2024.200468",
+  "s2_oa": true
+ },
+ "R00993": {
+  "s2id": "88b92c09084da04b4573d1152b59c3fbc41e4a2b",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2504-446X/6/12/423/pdf?version=1671607446",
+  "s2_oa": true
+ },
+ "R00994": {
+  "s2id": "607b653e50af471cb470c1eedf10ecc2b4efcd84",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agronomy15040789",
+  "s2_oa": true
+ },
+ "R01000": {
+  "s2id": "4aa8b2628819a38d21936da236a7ac60389c272e",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/21/5605/pdf?version=1667793004",
+  "s2_oa": true
+ },
+ "R01007": {
+  "s2id": "99707ff430ab870bedfa231446b29b8c61604664",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01014": {
+  "s2id": "843ea0adc821420d99149fdcd9b5aa1fd8b79332",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.54097/fcis.v3i2.7187",
+  "s2_oa": true
+ },
+ "R01019": {
+  "s2id": "2bbcf72441206c817dbe6c0a9fa323db91fd5cca",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jafr.2026.102662",
+  "s2_oa": true
+ },
+ "R01040": {
+  "s2id": "9eae82a73a68159e672f27bfbc790b5f4460a294",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01048": {
+  "s2id": "3a5b4d66459617f8872e79ab6e64729e73f47b6d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.ecoenv.2025.118176",
+  "s2_oa": true
+ },
+ "R01052": {
+  "s2id": "74eed6bf176deabad4944a3ab59ac1616c377866",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/11/5/431/pdf?version=1620717453",
+  "s2_oa": true
+ },
+ "R01060": {
+  "s2id": "858f871b5a7f3cf49b6b0a832bde8dd2302ba886",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18101575",
+  "s2_oa": true
+ },
+ "R01062": {
+  "s2id": "9d5af246bcf90493dbc6ec93a7ee1ee86b87d0d0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/horticulturae11111380",
+  "s2_oa": true
+ },
+ "R01066": {
+  "s2id": "9408aaeb02eef44b66efacb49e5419c8e21d938a",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01081": {
+  "s2id": "ff0561aa455c689ba2837e92723593e6e6399abc",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01082": {
+  "s2id": "d284e5cea0372494a80b9fcc261620bfb8f32340",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rse.2025.115051",
+  "s2_oa": true
+ },
+ "R01087": {
+  "s2id": "330c058e557caf9c8e4016c20b1ecc116956152b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1038/s41598-026-45684-x",
+  "s2_oa": true
+ },
+ "R01093": {
+  "s2id": "a655e95395776a2816a0195626190cf1583fe628",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2025.101349",
+  "s2_oa": true
+ },
+ "R01108": {
+  "s2id": "066af5e4671accbcd7ea57b0d5e29d3f6b074100",
+  "arxiv": "2211.04755",
+  "s2_pdf": "https://arxiv.org/pdf/2211.04755",
+  "s2_oa": true
+ },
+ "R01112": {
+  "s2id": "e9c8893e0502fa743362692824954ae498e1f026",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2025.3615739",
+  "s2_oa": true
+ },
+ "R01113": {
+  "s2id": "423862b83653a662a250ad76846b08b53920fb47",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2025.104673",
+  "s2_oa": true
+ },
+ "R01116": {
+  "s2id": "3608b29c9017f0bf6e2b6a325bbadb6e46f28b23",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2223-7747/15/8/1206/pdf?version=1776246373",
+  "s2_oa": true
+ },
+ "R01133": {
+  "s2id": "23e15b4efc31a66bb2317eff9b1856e6e5eae7ac",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17101717",
+  "s2_oa": true
+ },
+ "R01136": {
+  "s2id": "8280369ac945fb264c15bd4c87d219015549fcac",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2504-446X/5/2/34/pdf",
+  "s2_oa": true
+ },
+ "R01141": {
+  "s2id": "e76cea7c4efbd6672fa5edc7bfc1c8c8fc1ae687",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.5194/essd-18-3997-2026",
+  "s2_oa": true
+ },
+ "R01151": {
+  "s2id": "99200ab459c1317db41fd617e89d82439f48b3c0",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01153": {
+  "s2id": "644e133693d938d7b082e0cd890fca93211a7b27",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.fcr.2025.110237",
+  "s2_oa": true
+ },
+ "R01166": {
+  "s2id": "eb1ffce569c6db4337cbb7a7dfba43209d2d1c47",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2025.101011",
+  "s2_oa": true
+ },
+ "R01170": {
+  "s2id": "855398571840d58db225696b66637cb8120dbe0a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2025.03.024",
+  "s2_oa": true
+ },
+ "R01177": {
+  "s2id": "72a9f2ccb6e267ab13e5d1b5d11e2e01ece12d00",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17061033",
+  "s2_oa": true
+ },
+ "R01182": {
+  "s2id": "618b975b37eb1d505ac6980c5547cd0353e09a70",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2025.3573750",
+  "s2_oa": true
+ },
+ "R01189": {
+  "s2id": "7f890146ff9f9a6c80b57a8c52888b177474de8c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1038/s41598-025-32568-9",
+  "s2_oa": true
+ },
+ "R01202": {
+  "s2id": "d525ed1d5eb6fa833cc6c40f9156db11ed906bae",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fpls.2022.1009835/pdf",
+  "s2_oa": true
+ },
+ "R01209": {
+  "s2id": "0eeec0e8da3b534e6b71e61d0ea03207e4eb7a8c",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1826962/pdf",
+  "s2_oa": true
+ },
+ "R01234": {
+  "s2id": "69642dd182e380103ba5f15cf298421b4b2cf291",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.5194/isprs-archives-xlviii-m-8-2025-7-2025",
+  "s2_oa": true
+ },
+ "R01235": {
+  "s2id": "7694b440cc504b772586f3171ac043bf659a352b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.34133/plantphenomics.0268",
+  "s2_oa": true
+ },
+ "R01247": {
+  "s2id": "4eca54b7b08eb81416eb0f26b5abd0a0071b0a44",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/18/2/365/pdf?version=1769003642",
+  "s2_oa": true
+ },
+ "R01249": {
+  "s2id": "b7bbd6455dff428fc324adce3026530ef012bd17",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01250": {
+  "s2id": "d7a49494d4c9e2647e27f0010923c236234e3eaf",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/su18136867",
+  "s2_oa": true
+ },
+ "R01258": {
+  "s2id": "9f4303b193329b43e4d691137ba57879430ed220",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/1424-8220/26/4/1313/pdf",
+  "s2_oa": true
+ },
+ "R01269": {
+  "s2id": "ed34204590216cc9e0f7a12cfb0bab792bde33fb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2024.100581",
+  "s2_oa": true
+ },
+ "R01284": {
+  "s2id": "c5ce24daddaf94fecef36eadfb2464d643184c58",
+  "arxiv": null,
+  "s2_pdf": "http://www.sciencedirect.com/science/article/pii/S0924271615001689",
+  "s2_oa": true
+ },
+ "R01298": {
+  "s2id": "4204748df59e0a18711bf1bad25f4ac03317991e",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18071065",
+  "s2_oa": true
+ },
+ "R01302": {
+  "s2id": "587dbb3ff20bcc30de08db6c29f1a3f3ff257a5f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1002/ppj2.70006",
+  "s2_oa": true
+ },
+ "R01303": {
+  "s2id": "02eb29a06b09a20fc6b4f91d69fbf3a3c5e48293",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2025.100877",
+  "s2_oa": true
+ },
+ "R01308": {
+  "s2id": "e755c697756256ba627e3da4d75af7891313acb9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2024.100188",
+  "s2_oa": true
+ },
+ "R01309": {
+  "s2id": "70556e868029f509fc0aeb84937f4fdf4dc405b2",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01316": {
+  "s2id": "5c5d7d117a21df2b7972c7d135fd7af483386f53",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.101936",
+  "s2_oa": true
+ },
+ "R01331": {
+  "s2id": "61d83064db203b8b1f3815262ce48b48593ef8e7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.64898/2026.06.03.729887",
+  "s2_oa": true
+ },
+ "R01337": {
+  "s2id": "b982dc5b005d1eb2f4c230bc5bff1293157f08f1",
+  "arxiv": "2411.05219",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01339": {
+  "s2id": "aa75b478baa1196a08be9b2a6db220b86bd5715a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2025.1682024",
+  "s2_oa": true
+ },
+ "R01343": {
+  "s2id": "a92c4e3360a22e1498fa8c5979a62471fb1a3672",
+  "arxiv": null,
+  "s2_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0277804&type=printable",
+  "s2_oa": true
+ },
+ "R01344": {
+  "s2id": "e7d14528233a5ea499e102d5e28b0e31036e3040",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.inpa.2025.11.005",
+  "s2_oa": true
+ },
+ "R01402": {
+  "s2id": "813b4492d8613ba0290a94dcd899efe4ea5b4bb3",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01403": {
+  "s2id": "ce1f07d412cdf7a273455c37f5f75e2ae30b3265",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2026.3672401",
+  "s2_oa": true
+ },
+ "R01413": {
+  "s2id": "8efa5852d243e5b082fea75c41e17f22d82bcfa1",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/17/19/3365/pdf?version=1759588578",
+  "s2_oa": true
+ },
+ "R01418": {
+  "s2id": "0c33d4fbc6f3bcb0e701a557c60de93c38dd0421",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01424": {
+  "s2id": "711321c2de12c0b6f258ed450e8ae0d857eb1615",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18111677",
+  "s2_oa": true
+ },
+ "R01432": {
+  "s2id": "f7de7252dd7f7566b7f40edd9b82b272e82454a1",
+  "arxiv": "2504.11022",
+  "s2_pdf": "https://doi.org/10.1016/j.ophoto.2026.100117",
+  "s2_oa": true
+ },
+ "R01453": {
+  "s2id": "f8359078099d9992ee0cb4e4bdd17f19df36f4e2",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18162694",
+  "s2_oa": true
+ },
+ "R01460": {
+  "s2id": "4c9539e1e245df175d83496bbe0a5b4a09610f47",
+  "arxiv": "2501.00734",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01462": {
+  "s2id": "6060f4c640fa7c7cba6e3c81da7ea6a54a361d19",
+  "arxiv": "2210.11226",
+  "s2_pdf": "http://arxiv.org/pdf/2210.11226",
+  "s2_oa": true
+ },
+ "R01480": {
+  "s2id": "fc30995b60747cfd895adf56e599522790ed0d7e",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102215",
+  "s2_oa": true
+ },
+ "R01481": {
+  "s2id": "ee3ef8b7ff045a25ee933c972d33264653671156",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/21/4081/pdf?version=1730448248",
+  "s2_oa": true
+ },
+ "R01483": {
+  "s2id": "47eabb47c18e1e35ee010f02f4ca49c92e36ffca",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.fraope.2026.100513",
+  "s2_oa": true
+ },
+ "R01498": {
+  "s2id": "3027347b1ed0da70c416f51c7ea8656197204017",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.110865",
+  "s2_oa": true
+ },
+ "R01504": {
+  "s2id": "0f13a2488b785e09c0f285827ec050477ece7c61",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.fraope.2025.100369",
+  "s2_oa": true
+ },
+ "R01524": {
+  "s2id": "6def8f070509d5b032364f04640e11892cdce1b4",
+  "arxiv": null,
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1007/s11540-026-10063-6.pdf",
+  "s2_oa": true
+ },
+ "R01526": {
+  "s2id": "2fba13604a76d357f4c37bb3af5a9affa2ce49eb",
+  "arxiv": "2603.01932",
+  "s2_pdf": "https://doi.org/10.3390/rs18060915",
+  "s2_oa": true
+ },
+ "R01544": {
+  "s2id": "e8ddf28e1493289a3ceccf8aabd5912ef52e9857",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/01431161.2025.2527988",
+  "s2_oa": true
+ },
+ "R01545": {
+  "s2id": "0019d16c4eb3d40800898f44f319956ef13bca3a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.110658",
+  "s2_oa": true
+ },
+ "R01563": {
+  "s2id": "470c612036711c01b8d7c0fd8cfc99eef7c0d016",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01567": {
+  "s2id": "1c9bf0b736e04024bb51ad9e4019f81a224ea474",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1007/s11119-026-10371-4",
+  "s2_oa": true
+ },
+ "R01571": {
+  "s2id": "c42e09391d5f6bbacfb32288a1901131e3c216a3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2025.101481",
+  "s2_oa": true
+ },
+ "R01603": {
+  "s2id": "99c6a2287f22269d04ac40bec7e88a8484914542",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2025.100086",
+  "s2_oa": true
+ },
+ "R01604": {
+  "s2id": "779907160b65cc843dac13d07e6beadd0c0845a5",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01611": {
+  "s2id": "df9cd3237c3c317171776a1ba1f60ad4096191bc",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2023.103636",
+  "s2_oa": true
+ },
+ "R01636": {
+  "s2id": "962fe11e60865b48e0366bc927b0378a7c74b24f",
+  "arxiv": "2507.05849",
+  "s2_pdf": "https://arxiv.org/pdf/2507.05849",
+  "s2_oa": true
+ },
+ "R01637": {
+  "s2id": "2551d009514940530aad4ba6bccb2c40452c7c2b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1002/ppj2.70050",
+  "s2_oa": true
+ },
+ "R01646": {
+  "s2id": "6e87652c59680fc9f5a6b129932394550ac77def",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture16101108",
+  "s2_oa": true
+ },
+ "R01663": {
+  "s2id": "859a82615a0e8ca0762ceb3d1e9bc774b579843a",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/15/15/1638/pdf?version=1754633429",
+  "s2_oa": true
+ },
+ "R01690": {
+  "s2id": "d9faf6c690309f68580a6b32c3bdcfea869bc36f",
+  "arxiv": "2103.09588",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01713": {
+  "s2id": "ffe7cc1222eeda5e9f1ce5ac67c4886f23265fe2",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/15/13/1373/pdf?version=1750948743",
+  "s2_oa": true
+ },
+ "R01718": {
+  "s2id": "b8acbf854ea084b50e35b8c225fe41a3057f873e",
+  "arxiv": "2310.05943",
+  "s2_pdf": "https://arxiv.org/pdf/2310.05943",
+  "s2_oa": true
+ },
+ "R01721": {
+  "s2id": "c3460d559b3c0a330d1e9010852fa8515fa52576",
+  "arxiv": "2312.10872",
+  "s2_pdf": "https://doi.org/10.1016/j.ophoto.2025.100091",
+  "s2_oa": true
+ },
+ "R01741": {
+  "s2id": "20a30825f3256849721e66a94106f2fc6af0b809",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/22797254.2022.2073916",
+  "s2_oa": true
+ },
+ "R01752": {
+  "s2id": "c66da2a371185dfad3b2b297e451d896e48fa0ff",
+  "arxiv": null,
+  "s2_pdf": "https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1720819/pdf",
+  "s2_oa": true
+ },
+ "R01756": {
+  "s2id": "096347b4fedb0daf12db15d87d1fa787417fdf50",
+  "arxiv": "2510.04864",
+  "s2_pdf": "https://arxiv.org/pdf/2510.04864",
+  "s2_oa": true
+ },
+ "R01771": {
+  "s2id": "84b440aa927f5978771130de465b81ebd87a9be9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01780": {
+  "s2id": "a7d82abe60b2090a125d2c2782b772e6f8fdea6c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rsase.2026.101885",
+  "s2_oa": true
+ },
+ "R01784": {
+  "s2id": "f9105d7d8b56e243228dd743002cf468d7f27be9",
+  "arxiv": "2507.12590",
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2026.111646",
+  "s2_oa": true
+ },
+ "R01791": {
+  "s2id": "66a6edcb3ab7e90f5ed6ca1344aca0834b312c04",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.101845",
+  "s2_oa": true
+ },
+ "R01793": {
+  "s2id": "a24e147a67b8c923aebf26f19a65c9c187c4e16f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2025.10.018",
+  "s2_oa": true
+ },
+ "R01826": {
+  "s2id": "1a55f3b331589bced5de8b446980e0fe4da4b401",
+  "arxiv": null,
+  "s2_pdf": "https://nhess.copernicus.org/articles/26/925/2026/nhess-26-925-2026.pdf",
+  "s2_oa": true
+ },
+ "R01829": {
+  "s2id": "1363819b9e9c65cbe9e19c979a2c1afc0d4c6cfb",
+  "arxiv": null,
+  "s2_pdf": "https://www.geodetski-vestnik.com/arhiv/70/2/268_Pandzic_at_al.pdf",
+  "s2_oa": true
+ },
+ "R01838": {
+  "s2id": "5c67b9411f8833d50c200b0a27519794f8627d91",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.101999",
+  "s2_oa": true
+ },
+ "R01843": {
+  "s2id": "6585a01f158e3551fc8594dd7ae50ace564341a7",
+  "arxiv": null,
+  "s2_pdf": "http://article.isciencegroup.com/pdf/10240054.pdf",
+  "s2_oa": true
+ },
+ "R01847": {
+  "s2id": "778265269e3fed81ee9c27b22b67a46b2c9998e6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.110632",
+  "s2_oa": true
+ },
+ "R01860": {
+  "s2id": "33ce74350b90b41e1a9ae01b0b1c70dfcb6f9d2f",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01867": {
+  "s2id": "9737114eaba5416bf8bbbf0e490ef3469ff7c8c6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2026.100364",
+  "s2_oa": true
+ },
+ "R01878": {
+  "s2id": "2ff8ad974bd9c46ef07df6c99fd8dbad5ebce233",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01880": {
+  "s2id": "a36d3680e3e50c4f283eba6d1bdee90b08c85900",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/16/8/875/pdf?version=1776246843",
+  "s2_oa": true
+ },
+ "R01881": {
+  "s2id": "12894225b0bd5d66a832c18effe178cd32e0d71d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.agwat.2026.110317",
+  "s2_oa": true
+ },
+ "R01882": {
+  "s2id": "8d2e1e70e41e1e0824dfae175bf716aba8a70353",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2026.105140",
+  "s2_oa": true
+ },
+ "R01884": {
+  "s2id": "b475b742e382d2c97c79fc8d8908dbd68b3e5049",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/15481603.2026.2671603",
+  "s2_oa": true
+ },
+ "R01899": {
+  "s2id": "199dae8a036eb376ad81c444bfcd20075b23f4d7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.22266/ijies2026.0731.06",
+  "s2_oa": true
+ },
+ "R01902": {
+  "s2id": "e40b8edc8189af08a8ba7c4a8aa445d54bee844a",
+  "arxiv": null,
+  "s2_pdf": "https://dergipark.org.tr/en/download/article-file/1199211",
+  "s2_oa": true
+ },
+ "R01903": {
+  "s2id": "4987727cc43f0aa146d36e43ffd9038399280dc6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/green1010005",
+  "s2_oa": true
+ },
+ "R01916": {
+  "s2id": "d2010793eb5e20e0dc2751785a7cdfdc3d2142fa",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.55041/ijsrem66380",
+  "s2_oa": true
+ },
+ "R01918": {
+  "s2id": "2cff25c617df0e633e75fe16673570672477ded6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture16171932",
+  "s2_oa": true
+ },
+ "R01927": {
+  "s2id": "920c5593b446e0dd30f39be9132d7cc573cfac5f",
+  "arxiv": "2202.12120",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01944": {
+  "s2id": "04cde75f65ce81ed000d8c8297a8153b87c3b4cb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1002/ppj2.70085",
+  "s2_oa": true
+ },
+ "R01970": {
+  "s2id": "34b9ff71091d9ff14115374d51932d5d859f4afd",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R01971": {
+  "s2id": "e4baa243b4cada1f95585abef78bab7869782db4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2024.100513",
+  "s2_oa": true
+ },
+ "R01975": {
+  "s2id": "6c18004d7b03465f2bd27f7ed5f2f8676ee5c982",
+  "arxiv": null,
+  "s2_pdf": "https://www.biorxiv.org/content/biorxiv/early/2026/09/10/2026.09.04.748299.full.pdf",
+  "s2_oa": true
+ },
+ "R01997": {
+  "s2id": "66017fe849bfbfbd00abc2111736824410c15d06",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1038/s41598-026-55107-6",
+  "s2_oa": true
+ },
+ "R02002": {
+  "s2id": "777974fe18af9c0cf7121ace024618afab15f5c2",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18020209",
+  "s2_oa": true
+ },
+ "R02004": {
+  "s2id": "784046e2eb12b7f00eb30981e7b47738925ac4df",
+  "arxiv": "2609.05334",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02007": {
+  "s2id": "6db3e93e86c51bd3ee70cb2f38a1d74c0bcfe7ff",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2026.03.011",
+  "s2_oa": true
+ },
+ "R02016": {
+  "s2id": "a86c42b558c89f646b427d29c0371360a87d7e21",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.22266/ijies2026.0731.17",
+  "s2_oa": true
+ },
+ "R02023": {
+  "s2id": "29312a0e2e5df676ceab78efc8e3971e3608d611",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture14010002",
+  "s2_oa": true
+ },
+ "R02026": {
+  "s2id": "a3f957716568fafce19791f6ff8c8080aabe180c",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/15/12/3114/pdf?version=1686736196",
+  "s2_oa": true
+ },
+ "R02043": {
+  "s2id": "80361498332ca5c4673edb248533716206bd4a00",
+  "arxiv": "2609.17138",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02057": {
+  "s2id": "6137cd7ab9584bf1b69c84bbe968d4276fd27c9e",
+  "arxiv": null,
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1007/s11119-026-10454-2.pdf",
+  "s2_oa": true
+ },
+ "R02061": {
+  "s2id": "03c1c92ed9a30ce57b44ae46d804fa8e6006d3fe",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102154",
+  "s2_oa": true
+ },
+ "R02099": {
+  "s2id": "c449dadc07c34169c56d05bf95c12abdca76588e",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2673-7655/6/3/59/pdf?version=1782113857",
+  "s2_oa": true
+ },
+ "R02113": {
+  "s2id": "59526450559dce9a9c5ba438ecff694fb4f8afe2",
+  "arxiv": null,
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1007/s12559-025-10488-0.pdf",
+  "s2_oa": true
+ },
+ "R02122": {
+  "s2id": "3cc6b7ab58f3c42cb7f7241aecf42a4c79c39042",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18183208",
+  "s2_oa": true
+ },
+ "R02134": {
+  "s2id": "401cb65161eb8aa22b448393c1adcdf0063e85c0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18142416",
+  "s2_oa": true
+ },
+ "R02138": {
+  "s2id": "d1779a13359112b32419a87a7cb1abee05d26561",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.37005/2071-9612-2020-2-59-69",
+  "s2_oa": true
+ },
+ "R02150": {
+  "s2id": "4dd259fc056469d48ffbe63b3ee2c06fe89c7133",
+  "arxiv": "2603.00160",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02151": {
+  "s2id": "3bd08135732824ea1c1a570115ab805a2e808de7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.2139/ssrn.6335058",
+  "s2_oa": true
+ },
+ "R02166": {
+  "s2id": "d69282af93b0f00613c018c834ac2d19d5c64f5b",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-026-59178-3_reference.pdf",
+  "s2_oa": true
+ },
+ "R02175": {
+  "s2id": "915b125336b648fa1ea0d6372f9b6b0e75261126",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.fcr.2026.110730",
+  "s2_oa": true
+ },
+ "R02182": {
+  "s2id": "0f29ba02ce66da87deb89d48b7b3470c848daf45",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3682277",
+  "s2_oa": true
+ },
+ "R02189": {
+  "s2id": "3ce5c2d1ea467352bbfe6c065e4faae332ad46e0",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02194": {
+  "s2id": "4175f7e6d4a0bf236b19573a52c9b5c3e86cfb76",
+  "arxiv": null,
+  "s2_pdf": "https://ijsrst.com/home/article/download/IJSRST26133200/IJSRST26133200",
+  "s2_oa": true
+ },
+ "R02205": {
+  "s2id": "194441df97f48e5279cb409d8ee2a526a88e29ef",
+  "arxiv": "2511.18989",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02213": {
+  "s2id": "be23d981cbd6e9756e23b687ff97f32e4512727c",
+  "arxiv": "2609.33991",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02215": {
+  "s2id": "0e004d4d33c0cfa492c6ea8f475472a5df54694c",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S2772375526007379/pdf",
+  "s2_oa": true
+ },
+ "R02222": {
+  "s2id": "2ef25efccc08e9b9ff4aad5808b02a3c34120153",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1186/s13007-025-01337-0",
+  "s2_oa": true
+ },
+ "R02224": {
+  "s2id": "aac8bed63dfe5c775aad87990e8fd28d94c2bb82",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2024.1483295/pdf",
+  "s2_oa": true
+ },
+ "R02229": {
+  "s2id": "51f6411178baa24ca25e1adae6cda613e81c0431",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102350",
+  "s2_oa": true
+ },
+ "R02230": {
+  "s2id": "b0ea6854eea65f95158a0636bca6190a774b2687",
+  "arxiv": null,
+  "s2_pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0271201&type=printable",
+  "s2_oa": true
+ },
+ "R02232": {
+  "s2id": "43e6f82401ea51a62035caf94de8dabb9e837c39",
+  "arxiv": "2606.05731",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02235": {
+  "s2id": "079c7714b346e0a9235897ed6db8b5a6881bd3d7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3702608",
+  "s2_oa": true
+ },
+ "R02240": {
+  "s2id": "0ac65b356c68f344ec11f2d5c8fd86eed8809734",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02250": {
+  "s2id": "8ff70943bf3acc6a4225cef49458dccb2068f56c",
+  "arxiv": "2609.20290",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02254": {
+  "s2id": "2f168b2a3e6d290562ef8658fd58fda0b7eedfad",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102510",
+  "s2_oa": true
+ },
+ "R02256": {
+  "s2id": "70b56bf670467948fbc61529e8635865eae88d91",
+  "arxiv": null,
+  "s2_pdf": "https://www.biorxiv.org/content/biorxiv/early/2025/05/03/2025.04.30.651476.full.pdf",
+  "s2_oa": true
+ },
+ "R02287": {
+  "s2id": "e982f07be37b0e3be43e3884a6d3cd3302e213c5",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3704500",
+  "s2_oa": true
+ },
+ "R02298": {
+  "s2id": "1163815aa3af467def16cd2e6aaa850218b2c765",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1617831/pdf",
+  "s2_oa": true
+ },
+ "R02305": {
+  "s2id": "3fefe6b405de0d7c95edd3b5a0b9b0fb1ab1c7d9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/computers15080528",
+  "s2_oa": true
+ },
+ "R02312": {
+  "s2id": "85276ab36c6b041d2f66da7c65d801651ef01dfd",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2026.1932872",
+  "s2_oa": true
+ },
+ "R02322": {
+  "s2id": "13b38e6a297b971d36c50a7ae90e0a1497b40edb",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-025-34713-w_reference.pdf",
+  "s2_oa": true
+ },
+ "R02335": {
+  "s2id": "35fecbe4df6ac5cb32d0e1b4e445541b7b7bca86",
+  "arxiv": "2412.18859",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02340": {
+  "s2id": "2fc70f117021b2b5bd61e38d7e06c52b6212b684",
+  "arxiv": null,
+  "s2_pdf": "https://jastt.org/index.php/jasttpath/article/download/614/146",
+  "s2_oa": true
+ },
+ "R02348": {
+  "s2id": "074d9ecafbdd9d55dc6f8da5e06a9dfdcd7e4363",
+  "arxiv": null,
+  "s2_pdf": "https://link.springer.com/content/pdf/10.1007/s11119-026-10428-4.pdf",
+  "s2_oa": true
+ },
+ "R02353": {
+  "s2id": "4254c3c921623490e57afbcee9f8dd3bad83f3ae",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.inpa.2026.08.002",
+  "s2_oa": true
+ },
+ "R02354": {
+  "s2id": "2cabfa22805d3352ae7346fb38fb69554dfaa8c7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02374": {
+  "s2id": "c5603f25997d80b65a4ec5ec2c2807add1be6f01",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/23311932.2026.2712685",
+  "s2_oa": true
+ },
+ "R02382": {
+  "s2id": "661a0abd9073c521190c77f5f846aafc66418f60",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1590/1983-40632026v5684508",
+  "s2_oa": true
+ },
+ "R02401": {
+  "s2id": "cefdbdead12dd50290874e145d9e97a433cf25f8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02411": {
+  "s2id": "22eee4a0a2004958eedc8cf23057f7a11b767a0f",
+  "arxiv": null,
+  "s2_pdf": "https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B2-2021/923/2021/isprs-archives-XLIII-B2-2021-923-2021.pdf",
+  "s2_oa": true
+ },
+ "R02434": {
+  "s2id": "eaaa14207e7c2e188e09fd44c7e1564cd29c4e38",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02442": {
+  "s2id": "8bf0ca75a29380522a06b23f71c6182663dab8bb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3704675",
+  "s2_oa": true
+ },
+ "R02472": {
+  "s2id": "59cfd97e5d82f295f2ed4c968441c4592219a529",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02479": {
+  "s2id": "13d72d99c4ebfb06294e240f510a17b535b57f31",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2025.101148",
+  "s2_oa": true
+ },
+ "R02483": {
+  "s2id": "0247effb0a142d820673ed39172ae9e42f847e67",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02488": {
+  "s2id": "23ddf76cebe8465ff9e8c9822da042126288f642",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-026-56162-9_reference.pdf",
+  "s2_oa": true
+ },
+ "R02492": {
+  "s2id": "80a8fad86790e9e27aec4f650ec9723890de2de0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agronomy16161544",
+  "s2_oa": true
+ },
+ "R02524": {
+  "s2id": "1a034e7c3c9bdf79951f55407c63b97a4c65fa7b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1007/s43621-026-03598-8",
+  "s2_oa": true
+ },
+ "R02534": {
+  "s2id": "1db20b82256db13117104aeecc873842ca84826e",
+  "arxiv": null,
+  "s2_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/17538947.2026.2634468?needAccess=true",
+  "s2_oa": true
+ },
+ "R02538": {
+  "s2id": "d4e65a91b93aea0f783a11f8f9e0e8f43f72f65d",
+  "arxiv": "2312.08384",
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2024.104149",
+  "s2_oa": true
+ },
+ "R02550": {
+  "s2id": "92c5d27a59dfe964b023fe6face44c52c73c3069",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/land15071289",
+  "s2_oa": true
+ },
+ "R02552": {
+  "s2id": "8e456a83abf29d9898c319272798fab2354f033d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/ai7080278",
+  "s2_oa": true
+ },
+ "R02554": {
+  "s2id": "6ef5b77a4e9c4708be4bb72f6eef9f46dc904832",
+  "arxiv": "2509.03497",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02564": {
+  "s2id": "cb37fe1c33ff1b389adafab5b1dee7c9d043b6b4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2026.100442",
+  "s2_oa": true
+ },
+ "R02587": {
+  "s2id": "e6580e101a4e072d317a49c94c7c06a8b50557dc",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02588": {
+  "s2id": "37baf4d636403141923b97c0aee4224759a6328d",
+  "arxiv": null,
+  "s2_pdf": "https://ijettjournal.org/Volume-74/Issue-8/IJETT-V74I8P113.pdf",
+  "s2_oa": true
+ },
+ "R02598": {
+  "s2id": "d60062c11fb82f37ac45f34b096dba42b587ea08",
+  "arxiv": "2609.31709",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02599": {
+  "s2id": "c4aa9d5d38503a797a47145056dc926b298f97cf",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1883297/pdf",
+  "s2_oa": true
+ },
+ "R02602": {
+  "s2id": "63ecd8d5ee9e43a5ca41599e7c04e5093919c6d6",
+  "arxiv": "2603.13354",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02611": {
+  "s2id": "5d64f26a86f6d732cab4a68a0374c7b63b659b22",
+  "arxiv": "2604.00940",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02612": {
+  "s2id": "6832628341cd2a9dce7fc961997ab60ca2d7c90d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1002/ppj2.70087",
+  "s2_oa": true
+ },
+ "R02616": {
+  "s2id": "51d92dfaed0be763704d56b881894c62d44b59cc",
+  "arxiv": "2608.09497",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02625": {
+  "s2id": "76d1b303b0b3464ec2a2b482ff66b05ff9fee301",
+  "arxiv": "2606.00676",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02665": {
+  "s2id": "b84e8546c7cd8f0daa7ffe59664a00287e7656b1",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/01431161.2026.2612904",
+  "s2_oa": true
+ },
+ "R02674": {
+  "s2id": "be63d07ec4befc3b0697e7a3c32efd94fed04112",
+  "arxiv": null,
+  "s2_pdf": "https://iiari.org/wp-content/uploads/ijstem.v5.2.2833.pdf",
+  "s2_oa": true
+ },
+ "R02687": {
+  "s2id": "15a7af6219a8994a6b98a4189dc863d3be03f7fa",
+  "arxiv": "2307.00837",
+  "s2_pdf": "https://hal.science/hal-05106181/document",
+  "s2_oa": true
+ },
+ "R02706": {
+  "s2id": "cde48e6907cdb0477c5c365d213b84209e5aedc3",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02707": {
+  "s2id": "f3a06b41fd409eb6fed98688366b19fbfe1bf263",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.32877/bt.v8i3.3753",
+  "s2_oa": true
+ },
+ "R02725": {
+  "s2id": "01b527ed3204214b51b8f7bc77c2cd4217e359d0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jia.2026.08.011",
+  "s2_oa": true
+ },
+ "R02790": {
+  "s2id": "4fa80f0713a1ffa6f54e2e565b6b292b7be85e9c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.101963",
+  "s2_oa": true
+ },
+ "R02791": {
+  "s2id": "1102a698e4ccd4081c8883a0849b89ad80567a62",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02799": {
+  "s2id": "3ef04c22e2086f41186c1df15953e80443d712fc",
+  "arxiv": "2510.07350",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02800": {
+  "s2id": "4ca427e8ab17174020f0392051ac3d989fcf0b6b",
+  "arxiv": "2501.07185",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02812": {
+  "s2id": "6d0f804691a273847118713692a706aaee51d6d6",
+  "arxiv": "2604.25316",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02818": {
+  "s2id": "18d76c98958dd09b992af3215d0ca6aad340bd55",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/app16073598",
+  "s2_oa": true
+ },
+ "R02830": {
+  "s2id": "e4d4742a0d6c5b8279fef24742c5bdc640e79d25",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2026.112268",
+  "s2_oa": true
+ },
+ "R02848": {
+  "s2id": "e899e08cf5847583bbe5b11d2cb9e809511dcb82",
+  "arxiv": null,
+  "s2_pdf": "https://jurnal.polgan.ac.id/index.php/sinkron/article/download/16200/4115",
+  "s2_oa": true
+ },
+ "R02889": {
+  "s2id": "188491ab365542db1ed649e20948a3ddecd94409",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/s26103206",
+  "s2_oa": true
+ },
+ "R02913": {
+  "s2id": "34b4cca9ca36c4380347bb867d58c1a8167f8208",
+  "arxiv": "2606.02045",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02923": {
+  "s2id": "df38c9a1d7370f6074580d2c4e6af67271f4d71f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2025.12.006",
+  "s2_oa": true
+ },
+ "R02941": {
+  "s2id": "f223fffce2492fab3254653594f270ecc7e9b3b3",
+  "arxiv": null,
+  "s2_pdf": "https://reference-global.com/download/article/10.2478/jee-2026-0043.pdf",
+  "s2_oa": true
+ },
+ "R02949": {
+  "s2id": "3fd867453ffe02dc84c1797792cc46746138e4f9",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.agwat.2025.109384",
+  "s2_oa": true
+ },
+ "R02950": {
+  "s2id": "b2bd6206210e94ecd629ea6e37607c7eb3d22d9c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18183137",
+  "s2_oa": true
+ },
+ "R02964": {
+  "s2id": "9e524ce77f4f17b34aa8aa84386cea4bd34e79e3",
+  "arxiv": null,
+  "s2_pdf": "https://jurnal.ubhinus.ac.id/index.php/J-INTECH/article/download/2277/1211",
+  "s2_oa": true
+ },
+ "R02987": {
+  "s2id": "8ae455fa146d41cc58d9a48e0b7c67e5fd05e9ae",
+  "arxiv": "2608.16661",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R02992": {
+  "s2id": "fbcd3029891bf583321ea37b5f65fa2b52daec55",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2076-3417/15/18/9947/pdf?version=1757647567",
+  "s2_oa": true
+ },
+ "R02997": {
+  "s2id": "7c0957376b129ec5c82fd35c5d7282e151ed1ccb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03005": {
+  "s2id": "20625fca077ada5879cf85612b04c56118f893f1",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/10095020.2026.2624280",
+  "s2_oa": true
+ },
+ "R03009": {
+  "s2id": "2ddd29d5a13b2b737da9f5ba0db621cbc1816d0b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.101908",
+  "s2_oa": true
+ },
+ "R03010": {
+  "s2id": "2c1936bf04a2fddefcb278f06f702aa2a584215e",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/18/7/980/pdf?version=1774434450",
+  "s2_oa": true
+ },
+ "R03017": {
+  "s2id": "22d6c6c219ec68fc67af62fcae1ddb6ddc86913f",
+  "arxiv": null,
+  "s2_pdf": "https://public-pages-files-2025.frontiersin.org/journals/remote-sensing/articles/10.3389/frsen.2026.1782148/pdf",
+  "s2_oa": true
+ },
+ "R03071": {
+  "s2id": "e4accf52daa12376cc28ee1e23df43f3191aff46",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rsase.2026.102264",
+  "s2_oa": true
+ },
+ "R03080": {
+  "s2id": "7f59bf01dc1c4325943f97edbf30a37de451abaf",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2026.105548",
+  "s2_oa": true
+ },
+ "R03083": {
+  "s2id": "00829c9ffac5fad9e973c50dde4804221eb8da8e",
+  "arxiv": null,
+  "s2_pdf": "https://journals.uran.ua/eejet/article/download/338000/326647",
+  "s2_oa": true
+ },
+ "R03084": {
+  "s2id": "e3c340d39bf37133ea94c088184f74478056f8e0",
+  "arxiv": null,
+  "s2_pdf": "https://ejournals.umn.ac.id/index.php/TI/article/download/4252/1916",
+  "s2_oa": true
+ },
+ "R03106": {
+  "s2id": "497bca7cc037521758fd0e7b73c159d40c95bead",
+  "arxiv": "2512.13428",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03119": {
+  "s2id": "b19515851003d340760a92be07cbbbe291c5aaa1",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2026.1808419",
+  "s2_oa": true
+ },
+ "R03123": {
+  "s2id": "2946bb7a8bc4db541836a1d047f56661d37edab3",
+  "arxiv": "2607.19975",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03133": {
+  "s2id": "584d108c64455cc2d8160aaa85850a4a052c65fa",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03134": {
+  "s2id": "e8fbb83604ffeb882ad7cb468c37351fef1ee94c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2026.06.005",
+  "s2_oa": true
+ },
+ "R03135": {
+  "s2id": "e079c67d4c614db39a6b95848951cfb58c5b3a08",
+  "arxiv": "2608.20608",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03136": {
+  "s2id": "f8b777dbe7002a9a06ae81abecee3647fd0a0271",
+  "arxiv": null,
+  "s2_pdf": "https://jidmis.org/index.php/jidmis/article/download/1444/543",
+  "s2_oa": true
+ },
+ "R03156": {
+  "s2id": "ed9d3af2cf7331dffaf9a54e6fba9a988329e15b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3720556",
+  "s2_oa": true
+ },
+ "R03177": {
+  "s2id": "12f22cbbb7f383da070a2f683cefc1c43731dc64",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03194": {
+  "s2id": "18738bb85d8b02fddd0e2737f0089f4d1d3ef08e",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2026.112105",
+  "s2_oa": true
+ },
+ "R03206": {
+  "s2id": "2b7b7eb96fc30089d53e92ad97ac2db0035dc3cb",
+  "arxiv": "2203.09175",
+  "s2_pdf": "https://hal.science/hal-03922196",
+  "s2_oa": true
+ },
+ "R03253": {
+  "s2id": "70a54bd46f7c7c4b0aadac0104cd610327a4ec3d",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2076-3417/16/7/3177/pdf?version=1774469830",
+  "s2_oa": true
+ },
+ "R03314": {
+  "s2id": "9fc2339eb9b9d74cfeac7ea0cf9f593f44ed6261",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1839652/pdf",
+  "s2_oa": true
+ },
+ "R03317": {
+  "s2id": "158b8cd03f9ace9a925713028b9e729841f4f99c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2025.111270",
+  "s2_oa": true
+ },
+ "R03345": {
+  "s2id": "657baf42e29b6c37a2a31a4327bc557bedd69487",
+  "arxiv": null,
+  "s2_pdf": "https://www.ajol.info/index.php/acsj/article/download/330892/311073",
+  "s2_oa": true
+ },
+ "R03364": {
+  "s2id": "7ab1b081b8a2af8493256e21c13dae9c4f0a67f4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2026.100184",
+  "s2_oa": true
+ },
+ "R03393": {
+  "s2id": "4c96a9c0a70e6dce9cf7dcfdf6b164e6361e07b6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18111828",
+  "s2_oa": true
+ },
+ "R03410": {
+  "s2id": "3d8a37a0075e9aabbd43ee6721c0412746cf4fb4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102205",
+  "s2_oa": true
+ },
+ "R03417": {
+  "s2id": "cb6521faa64d74c8f272e87258eb4352650a8404",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2026.105495",
+  "s2_oa": true
+ },
+ "R03455": {
+  "s2id": "285b979c8ad67dc066c16498a2a2c0860f0a43c0",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-026-62760-4_reference.pdf",
+  "s2_oa": true
+ },
+ "R03462": {
+  "s2id": "0e2f9ea3832c854ebc85b18d6cc97a5cbd7845c0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102339",
+  "s2_oa": true
+ },
+ "R03478": {
+  "s2id": "507eed2778b945cf1927a3d91be2b05ad54ce1c3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/f17091022",
+  "s2_oa": true
+ },
+ "R03496": {
+  "s2id": "f3bcd6b8d103b960b2cfd2fa8cfd113a93ffe826",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1915306/pdf",
+  "s2_oa": true
+ },
+ "R03499": {
+  "s2id": "f0950a22a4bd93db7eea5f796c93c58860d71b71",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2026.1923215",
+  "s2_oa": true
+ },
+ "R03534": {
+  "s2id": "25a0011c2cd5dfec4180055e5359c1bdbc12a051",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriengineering8090392",
+  "s2_oa": true
+ },
+ "R03569": {
+  "s2id": "935cc99a0071a5e7962afbe4b3f758b67767f2e7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102415",
+  "s2_oa": true
+ },
+ "R03609": {
+  "s2id": "98e54f55f4dfd0d0bb9aa9212028504501a49829",
+  "arxiv": null,
+  "s2_pdf": "https://jidmis.org/index.php/jidmis/article/download/1781/728",
+  "s2_oa": true
+ },
+ "R03620": {
+  "s2id": "eed65bfcf050347bffa8842686de7715aba22fa0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18172961",
+  "s2_oa": true
+ },
+ "R03661": {
+  "s2id": "b4b954f89c13c9340e7a71efc8b8cfb2f297568d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2026.04.012",
+  "s2_oa": true
+ },
+ "R03664": {
+  "s2id": "f16f59fb67ea63a68005fb8f2ceb134c4549cf64",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/plants15182811",
+  "s2_oa": true
+ },
+ "R03667": {
+  "s2id": "afe47173e6364b7c29c8772a363b97b2fbcee53c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.srs.2026.100478",
+  "s2_oa": true
+ },
+ "R03738": {
+  "s2id": "5dd5a62a04c14bbec4b9a307563bc47311ccfafe",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/16/6/664/pdf",
+  "s2_oa": true
+ },
+ "R03743": {
+  "s2id": "53d27f59af2853ce158031cac513b672f4ca0bd9",
+  "arxiv": null,
+  "s2_pdf": "https://ajse.aiub.edu/index.php/ajse/article/download/1771/243",
+  "s2_oa": true
+ },
+ "R03747": {
+  "s2id": "ba4993b3dd1508a04dc4aabe164c3a3789931031",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2073-4395/16/7/763/pdf?version=1775381491",
+  "s2_oa": true
+ },
+ "R03760": {
+  "s2id": "1cc53a2f966a0b784b1bdb9e099002fecaa1c04f",
+  "arxiv": null,
+  "s2_pdf": "https://agile-giss.copernicus.org/articles/7/13/2026/agile-giss-7-13-2026.pdf",
+  "s2_oa": true
+ },
+ "R03763": {
+  "s2id": "bd6a12e26978dc462f30dd9572ac99aaaf4dcdf7",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/lgrs.2026.3693043",
+  "s2_oa": true
+ },
+ "R03770": {
+  "s2id": "791b5eec91b5d10431c208615f61660cc5fe6040",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jsfa.71102",
+  "s2_oa": true
+ },
+ "R03779": {
+  "s2id": "3bb945e40b82e24ffc3c4bd52f6b2f0e93a8c43f",
+  "arxiv": null,
+  "s2_pdf": "https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/915/2026/isprs-archives-XLIX-B3-2026-915-2026.pdf",
+  "s2_oa": true
+ },
+ "R03810": {
+  "s2id": "99207e5b09a411b4ba04a3e6741b47d9f2463deb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2026.3734726",
+  "s2_oa": true
+ },
+ "R03828": {
+  "s2id": "e3bfc00e4068c6cf57c5b8d131970b8e6f7469b0",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03896": {
+  "s2id": "f262e32d7754cccf4775ca177e0dc661f077ee18",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture16020191",
+  "s2_oa": true
+ },
+ "R03898": {
+  "s2id": "fd8613ddb3d4bdc47b38f125c4df718a2ca6b74d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2026.07.022",
+  "s2_oa": true
+ },
+ "R03902": {
+  "s2id": "161d721a9bb5c346a47232ac40761c6ff80a2682",
+  "arxiv": "2608.27290",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03914": {
+  "s2id": "5dbb12be1a7fe815fb56fbd589be598e04e92ca1",
+  "arxiv": "2608.31097",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03926": {
+  "s2id": "593563fb48411707e8bd9a600910fc039e4dad49",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R03937": {
+  "s2id": "18abf5609c87c9a8aed96d0fd40f80cd782ffa00",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ppj2.70109",
+  "s2_oa": true
+ },
+ "R04016": {
+  "s2id": "d445417e9a3aaf4b52b572ad616ff6807943fe73",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1155/ioa/1411368",
+  "s2_oa": true
+ },
+ "R04035": {
+  "s2id": "d9e2b31b52c748a6b62597e1d1c762c812a45601",
+  "arxiv": "2507.13514",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04049": {
+  "s2id": "af6e136a4c061fd25a4543591920cb3b3656b5ed",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2025.1680299",
+  "s2_oa": true
+ },
+ "R04092": {
+  "s2id": "c2b0a52586708d092c11ede301451b6588d7b7f1",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04347": {
+  "s2id": "052defe7e8e076c0ad808f006702a51c4710d962",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04369": {
+  "s2id": "0776009b3f0c581ba684548b5a70018ea5e09ee5",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04377": {
+  "s2id": "07c6d27a8a4e5bcb4977b4d99237e049abab6c7d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04381": {
+  "s2id": "08263cbdd9c1f8940bd504882b3a03f46a20096a",
+  "arxiv": "2512.11360",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04398": {
+  "s2id": "0935c3ce1a9e16faa523dab63347dea75ffe1206",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04402": {
+  "s2id": "095e9a4d699bf48ed2d61127da2b7b3909dd9712",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04429": {
+  "s2id": "0b45b8f16fe4df8f368c0e8ed6e1ccc7102a1dc7",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1860665/pdf",
+  "s2_oa": true
+ },
+ "R04439": {
+  "s2id": "0c048234a9660dd0c6b3f63562c208c5218edad7",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04456": {
+  "s2id": "0dd2fbd90eac1b90f77cdb703531ef3f68604c17",
+  "arxiv": "2603.12905",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04464": {
+  "s2id": "0e4fd984c12a8ccdfbeb57faeef69ff8dfb995dc",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/18/13/2149/pdf?version=1782995469",
+  "s2_oa": true
+ },
+ "R04467": {
+  "s2id": "0e6c153227a9642a68087f3d47f42223603be9d8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04471": {
+  "s2id": "0e93c33ec5781714876851e8461c4804c3c3e4bd",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2073-4395/15/6/1438/pdf?version=1749740666",
+  "s2_oa": true
+ },
+ "R04476": {
+  "s2id": "0f1a18fdb7e117206a8c20cd3c98dabe4d639d3c",
+  "arxiv": "2502.13103",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04494": {
+  "s2id": "10e2a47b7f4a0b45e67752db0b908fd9dfb602dc",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04498": {
+  "s2id": "11133e2fcff833f9d8082c8b24ca67ae23d8b627",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2026.3703440",
+  "s2_oa": true
+ },
+ "R04502": {
+  "s2id": "114c49758bb2694c40423bfac429f60f6a1130f6",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04504": {
+  "s2id": "1169f17dd32ea66b34c1463d8d1d3e962dfb140d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04510": {
+  "s2id": "11d776e1e53b2bb1423296f010fb8e5cdaf03688",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04534": {
+  "s2id": "14611b8955881f3d41e0003d3b15d0a5eb43110f",
+  "arxiv": "2603.28670",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04536": {
+  "s2id": "149720bb953c385f950fae3c68ab5a11c0af952d",
+  "arxiv": "1911.10317",
+  "s2_pdf": "https://arxiv.org/pdf/1911.10317",
+  "s2_oa": true
+ },
+ "R04539": {
+  "s2id": "14d90bdb8e998a95b9fafe732ed549595ccad084",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18172857",
+  "s2_oa": true
+ },
+ "R04563": {
+  "s2id": "16ad02df8793f264129369661952e16848814e27",
+  "arxiv": "2607.23680",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04596": {
+  "s2id": "19470ce1b4fdd6730fcfdd9988aff3a06121f976",
+  "arxiv": "2606.25174",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04656": {
+  "s2id": "1f8cad9d766952c83ce56ef0b630dcedc6c2895a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/s26123632",
+  "s2_oa": true
+ },
+ "R04658": {
+  "s2id": "1fcdbe2551e1c4a1f329cef52889955cdfa45dcb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04662": {
+  "s2id": "328ab959c9f93bab3efb7ca8de447d2d317f7617",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04681": {
+  "s2id": "bbffd8ca101976ce698de4d7dd73940fcc08f2b0",
+  "arxiv": "2310.01825",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04683": {
+  "s2id": "21a183ea16152dd73541bea6ac7324aba08e1a69",
+  "arxiv": "2608.21254",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04698": {
+  "s2id": "23152eaed0a216c4d71be3cc96d540b4ecbceaac",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18152502",
+  "s2_oa": true
+ },
+ "R04706": {
+  "s2id": "23fe494e974ce43d67703c101334dfcc0f0c5d4d",
+  "arxiv": "2507.17869",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04716": {
+  "s2id": "24c783ec07a3d6f68b2c0e853368b3f815548dda",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04727": {
+  "s2id": "254ecfeb8ead81dc3c3cdccc615e9a63575e8338",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1145/3677525.3678696",
+  "s2_oa": true
+ },
+ "R04734": {
+  "s2id": "268de7904c8001fc26936eb3e54f17eda0fc3bbc",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.5281/zenodo.10130426",
+  "s2_oa": true
+ },
+ "R04738": {
+  "s2id": "26f2ee86e235a3931a0beb3c7eb4a0fbeeea4b24",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04791": {
+  "s2id": "2cd124e6821cace2209793b5397039cfd679c9b2",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102273",
+  "s2_oa": true
+ },
+ "R04793": {
+  "s2id": "2d28a798a2754626e75f1ca421bebae9059bcc39",
+  "arxiv": "2304.01029",
+  "s2_pdf": "http://arxiv.org/pdf/2304.01029",
+  "s2_oa": true
+ },
+ "R04804": {
+  "s2id": "2e698a17e4f40caa6558adb8d55c06f738acab95",
+  "arxiv": null,
+  "s2_pdf": "https://ojs.aaai.org/index.php/AAAI/article/download/26664/26436",
+  "s2_oa": true
+ },
+ "R04851": {
+  "s2id": "329d4a4526527100fb663ddc3899d74909f17b47",
+  "arxiv": "2408.03120",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04864": {
+  "s2id": "3428ba711315852acea8ffc785c397d5a9e5adc4",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04887": {
+  "s2id": "36978dcf249ed591f4e39ce4f984ec4a8f6960f8",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/16/7/782/pdf?version=1775046504",
+  "s2_oa": true
+ },
+ "R04910": {
+  "s2id": "386dd6539523c516a48ac35925503d111a1504ba",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2025.100024",
+  "s2_oa": true
+ },
+ "R04933": {
+  "s2id": "3a4b99a298ad8e3c63b00255c49497a6e225c98a",
+  "arxiv": null,
+  "s2_pdf": "https://cspub-ijcisim.org/index.php/ijcisim/article/download/5277/4359",
+  "s2_oa": true
+ },
+ "R04965": {
+  "s2id": "3d96b17c5640a4e6dd378b732a7ce4d15ed79571",
+  "arxiv": null,
+  "s2_pdf": "https://plantmethods.biomedcentral.com/counter/pdf/10.1186/s13007-025-01371-y",
+  "s2_oa": true
+ },
+ "R04979": {
+  "s2id": "3e7ed51fa4a877b438d73e80f0fba50554ac21c9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04984": {
+  "s2id": "3f0ed75efb8d408d4055503251285c6f80354593",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R04986": {
+  "s2id": "3f31335b7a39c9a43b145f356211c0822fac3089",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2024.3497653",
+  "s2_oa": true
+ },
+ "R04991": {
+  "s2id": "3f9039fdfad34de95ad97791787f3b61c1b279b1",
+  "arxiv": "2601.04672",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05023": {
+  "s2id": "422bc7a02dedb0a42136f31a72ad5b8c2d801510",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05027": {
+  "s2id": "42545039bd03d35f12fec00af5b1e87dea17b6eb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05032": {
+  "s2id": "42fffe59b9b8c5c318f700dc41589bc41fdb605f",
+  "arxiv": "2009.01081",
+  "s2_pdf": "https://arxiv.org/pdf/2009.01081",
+  "s2_oa": true
+ },
+ "R05055": {
+  "s2id": "44d4ab9a62f830a07eb5aa7377fd7790065449e5",
+  "arxiv": null,
+  "s2_pdf": "https://hal.science/hal-04316474v1/file/IGARSS_2023_XAI.pdf",
+  "s2_oa": true
+ },
+ "R05081": {
+  "s2id": "47b65bc4ac08625ced1b0852ebdcc3ba6137b294",
+  "arxiv": null,
+  "s2_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ppj2.70097",
+  "s2_oa": true
+ },
+ "R05083": {
+  "s2id": "47bf2a2ce345eb3181794524a4280e653eb85155",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05095": {
+  "s2id": "4853508dd0db016ffcff0e119f27e122ccba2e60",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05099": {
+  "s2id": "48b9257e47fd0f1097483e8446c01dd27a8e7c91",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1088/1742-6596/2711/1/012020",
+  "s2_oa": true
+ },
+ "R05129": {
+  "s2id": "4afc405eb5c1dc598b07808a60bd79132cdfa3a8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05137": {
+  "s2id": "4b86f30777c6a856aafa4525fed8eb2fef77708b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agronomy16121156",
+  "s2_oa": true
+ },
+ "R05155": {
+  "s2id": "4cb6bea56a3c348891d1c966c6687b3f3e51c102",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05162": {
+  "s2id": "4d692afdfe516022e0b979610a0f0cc908b0acaf",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05177": {
+  "s2id": "4ebad381bf784b4b73375340662a6e7d14e005a7",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S2214317326001277/pdf",
+  "s2_oa": true
+ },
+ "R05195": {
+  "s2id": "4ff6d7e88dc37f73cfed944a2de34199b2c1e4b1",
+  "arxiv": null,
+  "s2_pdf": "https://oda.uni-obuda.hu/bitstream/20.500.14044/36353/1/008.pdf",
+  "s2_oa": true
+ },
+ "R05222": {
+  "s2id": "5327bccd2698cf347bdb8ffd31a32d62d836cb17",
+  "arxiv": "2605.03784",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05235": {
+  "s2id": "556454d522701aae73c48686b759560853a88557",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05244": {
+  "s2id": "567c5dde938feabbd6999fc24ac2530c1d506d8c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05251": {
+  "s2id": "5770410be1919334bd0a9cee41f9edcba633faf9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05257": {
+  "s2id": "57e83333163f0e035afba42b638cff6525a4bada",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1145/3746027.3758192",
+  "s2_oa": true
+ },
+ "R05261": {
+  "s2id": "58bd0d3cd93f439a7ff211353a8481bc9ccea58c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05267": {
+  "s2id": "5952069113751f7416fb77501871124ce149b413",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05311": {
+  "s2id": "5e29bdb6ac6c29acf1986ba845c02c5160e2b244",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/jstars.2026.3671096",
+  "s2_oa": true
+ },
+ "R05329": {
+  "s2id": "60c30ad8dd079c270c64931a13376c2564efbb9e",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05332": {
+  "s2id": "610fbec3ed9c761621c69d1c2f1481fd4cb9d0a8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05341": {
+  "s2id": "6198daf732a5ee4550279fee4b4ec62f079ebf20",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05344": {
+  "s2id": "61b8f930ac3a5f03765fff8c7ddf6bbd8730519e",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/14/19/4915/pdf?version=1665485930",
+  "s2_oa": true
+ },
+ "R05384": {
+  "s2id": "658cd55c00c98995189d8bee86035d15a4449a36",
+  "arxiv": "2508.07514",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05388": {
+  "s2id": "65ef4615b3f061746e30ba01064f9df6719ee541",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05403": {
+  "s2id": "67b495b654cbeb41d8c7aa385cfd127f18c6b370",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2024.1471085",
+  "s2_oa": true
+ },
+ "R05430": {
+  "s2id": "6a091f1e1e80d937db481984ff91c96b31fd1be4",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05438": {
+  "s2id": "6a45ae14e8168ca37ac7ea4161786a8c8f2abd19",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2026.3651737",
+  "s2_oa": true
+ },
+ "R05439": {
+  "s2id": "6a550ba7d3084cc7bd74d7aeeb8520bbaa415613",
+  "arxiv": "2409.00903",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05449": {
+  "s2id": "6b46188b2c4a2f8f1849c2fa7abc1d332493d02f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2025.1706973",
+  "s2_oa": true
+ },
+ "R05455": {
+  "s2id": "6bfe055e540076e43725c0ae7f09afea76d6387d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3389/fpls.2025.1644271",
+  "s2_oa": true
+ },
+ "R05478": {
+  "s2id": "6e221c44e0e60f3963829bc03bcec3ea7abb8e1b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1109/access.2026.3723880",
+  "s2_oa": true
+ },
+ "R05496": {
+  "s2id": "6f7768682278f8e1e5ffc7ce2d81cc39da35193b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.20965/jrm.2026.p0658",
+  "s2_oa": true
+ },
+ "R05501": {
+  "s2id": "7050f4f1db8b66f96ad1671a334c6b13163c8ed7",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/articles/10.3389/fsufs.2020.00099/pdf",
+  "s2_oa": true
+ },
+ "R05512": {
+  "s2id": "71a707824f8238eebcd6e38edd58249a27a7d26d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05517": {
+  "s2id": "71e6b79c46a5ceaf168a7dea45e2178ad1648ce4",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05521": {
+  "s2id": "72316987bcfdf515a186725918e7414b280f1868",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05522": {
+  "s2id": "72373217c698f7d47d4c182dfb1509a7a9b7ee92",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.53941/aiet.2026.100009",
+  "s2_oa": true
+ },
+ "R05536": {
+  "s2id": "737111bb6e8ba8c62d24c914c9a8b1bce692db1d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05550": {
+  "s2id": "74cabcbd6f8db1b6dfd3ce5290b2d1c55f6ec4c8",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05553": {
+  "s2id": "7518454db87df8be72ca45c89b7e0e0604ec554c",
+  "arxiv": "2511.04288",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05570": {
+  "s2id": "772582dceaef9539eb622a23407983326bb96210",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05585": {
+  "s2id": "783c7ba24a9f7b401f13a6b61dd92c5d77dbc131",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/10095020.2024.2416897",
+  "s2_oa": true
+ },
+ "R05606": {
+  "s2id": "796a9188445ecbbd25ea1b65fa3cbfecacdf01fb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05641": {
+  "s2id": "7cc73a22f6ceb148913d21c5b8ac83917bf91501",
+  "arxiv": "1806.02400",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05650": {
+  "s2id": "7ea20fd25cac0c12c40e478a527e27ad75d790bc",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/16/9/918/pdf?version=1776862065",
+  "s2_oa": true
+ },
+ "R05652": {
+  "s2id": "7ec787b83a4138d6eb141b9c43e03d8181b84ca2",
+  "arxiv": "2606.29664",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05654": {
+  "s2id": "7f283bfa6cb3050ee9fc08a09353216ee12211a6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2025.100004",
+  "s2_oa": true
+ },
+ "R05669": {
+  "s2id": "80c1cb7c378a13918bab955659937a7afc67e901",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05675": {
+  "s2id": "8171ea682c6f07aaab32aa00924e304c115df4e2",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05680": {
+  "s2id": "81d18b4bb10523e75cee8fb99da93e7d7934a7f2",
+  "arxiv": "2507.14697",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05681": {
+  "s2id": "81dbf80a8a3b84cb15e4b3d6b4e211fd2f3ff0a6",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/16/8/1464/pdf?version=1713611554",
+  "s2_oa": true
+ },
+ "R05715": {
+  "s2id": "85e6a2af6680a9678a0d284a04d786345bd3ab71",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05717": {
+  "s2id": "862e67739d748539916d4aa10da788be62f5fc3a",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05718": {
+  "s2id": "8641c1be5da8ecf751d782335af2c30042ce17da",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05720": {
+  "s2id": "867c5244d63970e817dd8384e7abd96ea85fc693",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2072-4292/13/1/103/pdf?version=1609928231",
+  "s2_oa": true
+ },
+ "R05727": {
+  "s2id": "871e6d3ddda55739458c3b168aab94ee4ec427f5",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05740": {
+  "s2id": "888df59d9d89c1c6bc9195259eec30144729214c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05741": {
+  "s2id": "8894d7085f442a48cab9a9b3f3a89ec7904795ed",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05746": {
+  "s2id": "88e20200ebe15b9d699c52c5b4fe95e2ebc8df2d",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2077-0472/14/3/476/pdf?version=1710516667",
+  "s2_oa": true
+ },
+ "R05755": {
+  "s2id": "89addb1da833e1d7fa69eb1112ae4d253f4a6ae4",
+  "arxiv": null,
+  "s2_pdf": "https://jurnal.iaii.or.id/index.php/RESTI/article/download/6857/1168",
+  "s2_oa": true
+ },
+ "R05772": {
+  "s2id": "8bc172618931ba1c8653f278cf2cc6262b196988",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.dib.2026.113168",
+  "s2_oa": true
+ },
+ "R05785": {
+  "s2id": "8cc7477b9ef93d4491b3f279cdc4051d71191400",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05809": {
+  "s2id": "8e450d2a018be3265d926a88fea1d3a38f09eb86",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriengineering6020106",
+  "s2_oa": true
+ },
+ "R05815": {
+  "s2id": "8ec18fecdc610da4d693875f5c6fa29ad294c939",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs17223762",
+  "s2_oa": true
+ },
+ "R05825": {
+  "s2id": "8fa1a0768a587f87d686a5d8de951728f6ae9010",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05843": {
+  "s2id": "9116c2f8af1ee4fd375e93458018fe1e4a304998",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05844": {
+  "s2id": "91381bedaa6d880a393122be0064096e5d5e432d",
+  "arxiv": null,
+  "s2_pdf": "https://hdl.handle.net/11556/397",
+  "s2_oa": true
+ },
+ "R05853": {
+  "s2id": "91fffca930f4091e500e3ebcb1629c5b46fd9acb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05888": {
+  "s2id": "94baa5cc274f3490036d451b8e09a3a6c410a745",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102107",
+  "s2_oa": true
+ },
+ "R05906": {
+  "s2id": "96fd1e38f3469ad067501de20a59f930e2b08d52",
+  "arxiv": null,
+  "s2_pdf": "https://napier-surface.worktribe.com/2161006/1/Giuffrida%20Leaf%20Counting%20Without%20Annotations%20Using%20Adversarial%20Unsupervised%20Domain%20Adaptation",
+  "s2_oa": true
+ },
+ "R05910": {
+  "s2id": "97e411ecd3c5e465050fdcf66613f2e0febea654",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05922": {
+  "s2id": "98d93d2b63a72558d6ab86367de8e669deaadcf6",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05928": {
+  "s2id": "99128a7f3f1e8937406dfe107dcebf85263ee306",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05939": {
+  "s2id": "9a0ebcd7caf2196dd37cdc45c51da78d31525512",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2073-4395/16/14/1370/pdf?version=1784525556",
+  "s2_oa": true
+ },
+ "R05944": {
+  "s2id": "9aaa22bc022e8d5991060937869f16dbed987c46",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05957": {
+  "s2id": "9bbcf5dcdd55ccbe0a113315d93bd747355cd0e2",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05971": {
+  "s2id": "9ceb36fb41a5fc9613962d2d59035ceea54af614",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R05982": {
+  "s2id": "9e71cf437c92955c0e33a2e3d8e5016bcc40d386",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06008": {
+  "s2id": "a03b82e5bf6e13233eca87af8398e8fd4c1b2add",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06012": {
+  "s2id": "a07ba3a969248c9d26ff9d0ab999bd82c9417a8b",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06017": {
+  "s2id": "a0cfaada6f2291bb83df4e202c4d81ff1695e89b",
+  "arxiv": "1709.06764",
+  "s2_pdf": "https://arxiv.org/pdf/1709.06764",
+  "s2_oa": true
+ },
+ "R06033": {
+  "s2id": "a2c7ff74a32c00fdd54b410b71d86bc8afee6d5f",
+  "arxiv": "2607.28796",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06052": {
+  "s2id": "a3f57e766255e3d154839287a4986bf1de567c04",
+  "arxiv": "2410.23906",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06053": {
+  "s2id": "a3f66d4eea0085f3dc13a1c76d21f415703139be",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.plaphe.2026.100233",
+  "s2_oa": true
+ },
+ "R06057": {
+  "s2id": "a43986ab810ecd758a778911fa5ae2d667ec792f",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.patcog.2026.113086",
+  "s2_oa": true
+ },
+ "R06060": {
+  "s2id": "a4967d40eb94184d5a48649bd467c297151d45b0",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06068": {
+  "s2id": "a502caf3a1ec51e834827ba939e8e93f5a13da46",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06109": {
+  "s2id": "a83abbb67ef5cb17a350a5422f3478620592bf71",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06125": {
+  "s2id": "a963f8411dd9a167e683ab7b019ac434b7cc9040",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06128": {
+  "s2id": "a967705c45032dd128c451c49c5b63f4ff7eaa0d",
+  "arxiv": null,
+  "s2_pdf": "https://dl.acm.org/doi/pdf/10.1145/3677525.3678639?download=true",
+  "s2_oa": true
+ },
+ "R06132": {
+  "s2id": "aa0eb29053fa2376c97603b5a73fdbf2fdf6a6a5",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06140": {
+  "s2id": "aabc6f3e3dba0d76c37b296f2d307e2b6d18888a",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06158": {
+  "s2id": "adbed42eee6e36fda444505611321f2a1818003c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/land15060932",
+  "s2_oa": true
+ },
+ "R06188": {
+  "s2id": "b1120e27192443a24c7f5bc0b86c4eedbf1a1d2f",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06202": {
+  "s2id": "b2745d60afb893bca755e155375bf33e2bba8a9c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06210": {
+  "s2id": "b38a36a83a99ed90f4bcb670d6633ecd98908aa3",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06229": {
+  "s2id": "b4e26002b1f22e647a431b458ef67d2ea7ee5fec",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06235": {
+  "s2id": "b55d5bbf8d35e93c574e5d253cd1601765accca0",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06241": {
+  "s2id": "b5a24c3fe08c043b7115c44f354b1fd3ad27b4bb",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06253": {
+  "s2id": "b64b7da446cd4d7841e300420de92eab141b76b3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rse.2024.114385",
+  "s2_oa": true
+ },
+ "R06278": {
+  "s2id": "b85c7f9a8c1fa842bfd296141e9b831179558e0f",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06281": {
+  "s2id": "b887f498b80ebb07f8817695271bfb60050bd73d",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/s26010174",
+  "s2_oa": true
+ },
+ "R06289": {
+  "s2id": "b967c2dbe34d25588593240028299729a06e561c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06313": {
+  "s2id": "bb9ba6ec1b8f1f690da3ee11c68355fca12d40b2",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06319": {
+  "s2id": "bc46b9bd454031dc32442d26d235465dd4b23f5b",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2313-433X/7/10/198/pdf?version=1632913365",
+  "s2_oa": true
+ },
+ "R06342": {
+  "s2id": "be3c13125a8d301f3aa426a75e2b479546eb607b",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06351": {
+  "s2id": "bf0a245e1723a6a812bf3896abe3af38742ba63b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/agriculture14091511",
+  "s2_oa": true
+ },
+ "R06358": {
+  "s2id": "bf92c007df458146e5df3e36b1b138122182f99e",
+  "arxiv": "2505.24026",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06372": {
+  "s2id": "c0ceeeee94225cecb1b9b0927b3d0a702eb71f2a",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2025.104379",
+  "s2_oa": true
+ },
+ "R06374": {
+  "s2id": "c0f6d47b43f7a288129f07c74971539489945412",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2311-7524/12/4/486/pdf?version=1776342517",
+  "s2_oa": true
+ },
+ "R06392": {
+  "s2id": "c2ec6d1972a7afaf504aaa6e262f569a5f1ae368",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/15481603.2024.2319939",
+  "s2_oa": true
+ },
+ "R06443": {
+  "s2id": "c7ea393c90f60ffa1114b9c20edf29b1bdb394b1",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06448": {
+  "s2id": "c84618543b0ad0813c5f03f210c7d59f650478bd",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06451": {
+  "s2id": "c8bac617841c1ad11d01547bbdd6bf3a01b71bd4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2026.06.019",
+  "s2_oa": true
+ },
+ "R06477": {
+  "s2id": "cb0bfcd93bec96a04d296067b7cdfa8bd96b478b",
+  "arxiv": null,
+  "s2_pdf": "https://arxiv.org/pdf/2304.01029",
+  "s2_oa": true
+ },
+ "R06479": {
+  "s2id": "cb5edbac5b5ccd328bc81c79379d3f7eaf3d8421",
+  "arxiv": "2502.17673",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06488": {
+  "s2id": "cc78bdc58101642c5d6d3cbd07b9c86f7e4012ae",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06492": {
+  "s2id": "ccc6a4213537bc0052e697e33ecdfa29b65072ee",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06495": {
+  "s2id": "cd3dd413784fbcd657815f9ec42e39de334c628c",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06504": {
+  "s2id": "ce506857f4fd9f139429322ef4b1e6ddf7d15822",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06523": {
+  "s2id": "cff28d301aa6d1e2ae2e0aca8085506afb59c5cf",
+  "arxiv": "2608.01530",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06526": {
+  "s2id": "d019299012434961592869da27d1d4f9d332f585",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06533": {
+  "s2id": "d082c50a9547109afe0e9ae7c3b665d0a3389fac",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06540": {
+  "s2id": "d106da79e50627a7fcf919512623636f5ebce01d",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2223-7747/15/4/623/pdf?version=1771222011",
+  "s2_oa": true
+ },
+ "R06547": {
+  "s2id": "d1946ab957ee901a8386ace52cc9170fbe59d392",
+  "arxiv": "2506.18173",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06576": {
+  "s2id": "d38cb4fa2fa7f83a1c7f934a66fbd3d3c471fc05",
+  "arxiv": "2502.15286",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06586": {
+  "s2id": "d41b878b9b7cdb3c949747bca6f6bd55a8d6922a",
+  "arxiv": "2503.22019",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06595": {
+  "s2id": "d4e68cf76e6f2691db6a25c235343c8467c68557",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06604": {
+  "s2id": "d5e5376d2c0781143c1f4be7585271f5a8d478ae",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs16183538",
+  "s2_oa": true
+ },
+ "R06617": {
+  "s2id": "d701bb768a89e77d41d647df6d809171aaf89468",
+  "arxiv": "2601.12366",
+  "s2_pdf": "https://arxiv.org/pdf/2601.12366",
+  "s2_oa": true
+ },
+ "R06635": {
+  "s2id": "d880e05b7d5d54ee2b8ebb6ce1217f4f6daa3fe1",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06656": {
+  "s2id": "dab33a8c1eb2950e8340ab0275401d6cfd5e8572",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06667": {
+  "s2id": "db41d736658be8726fc0366ae28a210aa7296cbd",
+  "arxiv": null,
+  "s2_pdf": "https://isprs-annals.copernicus.org/articles/XI-2-2026/865/2026/isprs-annals-XI-2-2026-865-2026.pdf",
+  "s2_oa": true
+ },
+ "R06709": {
+  "s2id": "e0ee38204f6be3543f3fe33ce28b25c4e2596294",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2079-9292/15/8/1762/pdf?version=1776777942",
+  "s2_oa": true
+ },
+ "R06728": {
+  "s2id": "e2f51b900140b193d9fe96e1e4db70d4b6d12261",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rse.2020.112048",
+  "s2_oa": true
+ },
+ "R06739": {
+  "s2id": "e445e57fbf4cac5f19c1fffc6b04abc9707e14a9",
+  "arxiv": null,
+  "s2_pdf": "http://www.ygxb.ac.cn/rc-pub/front/front-article/download?siteId=91&id=19407284&attachType=lowqualitypdf&token=&language=zh",
+  "s2_oa": true
+ },
+ "R06748": {
+  "s2id": "e53f2d396f2fa66ea3552e1515c7a12b9e85e0ae",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2076-3417/15/13/7056/pdf?version=1750682457",
+  "s2_oa": true
+ },
+ "R06754": {
+  "s2id": "e5e396631c895c6534b951b2221e8556728e1adb",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1080/07038992.2024.2367479",
+  "s2_oa": true
+ },
+ "R06765": {
+  "s2id": "e73ee385d6cdb288f1ed9160f869922f5bdb0687",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.3390/rs18183210",
+  "s2_oa": true
+ },
+ "R06778": {
+  "s2id": "e8354f1fe49750da3724fd3d16c4a0101f1ce4bb",
+  "arxiv": null,
+  "s2_pdf": "https://www.nature.com/articles/s41598-025-26225-4.pdf",
+  "s2_oa": true
+ },
+ "R06790": {
+  "s2id": "e8f989ff7ff10527045d258619619b4acf314533",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06793": {
+  "s2id": "e94f7961e281043f0039092f64999aa99cebeac3",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2025.104795",
+  "s2_oa": true
+ },
+ "R06823": {
+  "s2id": "ebf0bbd831fc82821fabee39cf34634642569660",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06839": {
+  "s2id": "ed2b5d5b215c8fb7df2472a1e6e6e9330bcf7188",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06868": {
+  "s2id": "f07bf41a17950fe0827d2bd79f7d9cac4fdf6487",
+  "arxiv": null,
+  "s2_pdf": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1911934/pdf",
+  "s2_oa": true
+ },
+ "R06871": {
+  "s2id": "f0c4c8af87c3347f737f6eafb10992c0a50aad45",
+  "arxiv": null,
+  "s2_pdf": "https://annals-csis.org/Volume_39/drp/pdf/4108.pdf",
+  "s2_oa": true
+ },
+ "R06875": {
+  "s2id": "f104854bc499561f9d1eca3a489724e5e75b76cc",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06894": {
+  "s2id": "f2e607dbf0e10fd8d8efbfff3645da798d8c37ae",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06897": {
+  "s2id": "f355c1264749a4468de83bd588dab28456714c7f",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06898": {
+  "s2id": "f3689a1a8a71c1434e5ca26bfe8725edb5d3fba1",
+  "arxiv": null,
+  "s2_pdf": "https://www.mdpi.com/2076-3417/16/7/3520/pdf?version=1775221351",
+  "s2_oa": true
+ },
+ "R06899": {
+  "s2id": "f36911c135d02e25a717700257bf3b1124b7cc9d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06901": {
+  "s2id": "f3993c69e0982bc7cd234c0e6769da6fc96e57cf",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06920": {
+  "s2id": "f517a833c7a2f0e9190ebd16fe462d05398e93b9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06925": {
+  "s2id": "f57189beb02d05a1fe51d821f36a4e3582812d48",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06967": {
+  "s2id": "f9363ba6d65c52743c93d4effe5d0a56a8e7ad21",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06982": {
+  "s2id": "fa78013c1fa627951ac8a48c416bb49825e0d096",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R06991": {
+  "s2id": "fb1bfaefe6834659de235f49ed709410221a4f16",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07004": {
+  "s2id": "fc48cfb72dc0cc5744ca6d0aeb93e224ede2547f",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07006": {
+  "s2id": "fc9b7ffab8e248e0e8ff7cb2d543640fb1da9dfd",
+  "arxiv": null,
+  "s2_pdf": "https://spj.science.org/doi/pdf/10.34133/plantphenomics.0068?download=true",
+  "s2_oa": true
+ },
+ "R07008": {
+  "s2id": "fce0d793d21f98bbfd147c1a584b6ad059a38b30",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07014": {
+  "s2id": "fd7d2a382118714efba2ac3eaa27b19b9aa7c5b9",
+  "arxiv": "2607.11366",
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07032": {
+  "s2id": "ff7def9a401444f9022693afbfbf462a02ff7899",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07037": {
+  "s2id": "517f51f70585380fc89c377d7ff5bad42fb8ac0a",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07040": {
+  "s2id": "e31f0acf00efd36985b353654b969cace82f3561",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07062": {
+  "s2id": "4464e088a5467c48053797a24285a571d8563d06",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rineng.2025.108833",
+  "s2_oa": true
+ },
+ "R07069": {
+  "s2id": "d1c22fc43917192d447b6a9806cb55a8b39cd21c",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2026.111862",
+  "s2_oa": true
+ },
+ "R07070": {
+  "s2id": "0105060777e79b01915840fd2c1a2b103a615db8",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.34133/remotesensing.0439",
+  "s2_oa": true
+ },
+ "R07081": {
+  "s2id": "e8222ef052471bb4921388ebf2514e157a3aebc5",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102355",
+  "s2_oa": true
+ },
+ "R07116": {
+  "s2id": "85d7979a31bdffadb2954787e889e71df1f5f359",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07127": {
+  "s2id": "dc5459e3c384639abc4e6263b1a195024b81902e",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jia.2026.04.010",
+  "s2_oa": true
+ },
+ "R07128": {
+  "s2id": "74a1509c0901f01125d29f4f0bb1a2e5d4fc83c9",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07138": {
+  "s2id": "c6677695c6c772b1ff638de90a46ecaaf9d851c0",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.rineng.2025.108118",
+  "s2_oa": true
+ },
+ "R07166": {
+  "s2id": "2ade015f00d9e05d73d1dfd81dd9c87f796de690",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S2772375526007562/pdf",
+  "s2_oa": true
+ },
+ "R07172": {
+  "s2id": "a9a096a599be67782a5233dd4383ab7cfd5acc64",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.isprsjprs.2026.08.029",
+  "s2_oa": true
+ },
+ "R07197": {
+  "s2id": "bc3d0671191a8fb1e94143c4604db86b9b0bc647",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07201": {
+  "s2id": "d2459db0655d534d53c460bfd7acc436ed5ecdb4",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07213": {
+  "s2id": "258ca90eaeb204b8d6efa97a4e4b8b4137aeb7ae",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102513",
+  "s2_oa": true
+ },
+ "R07217": {
+  "s2id": "59d69f7b43a657a1051f03b6592dbdbee02a3bb1",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07223": {
+  "s2id": "7a3b66915c75c0ce7810a4f585a86928b3ace9c6",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2026.105357",
+  "s2_oa": true
+ },
+ "R07231": {
+  "s2id": "238c6fd7e69b4634254b3baaef16ca9cc6de1a6b",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.jag.2026.105579",
+  "s2_oa": true
+ },
+ "R07251": {
+  "s2id": "53319e504b62005b51596003a856fd5d907644fa",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.compag.2026.112429",
+  "s2_oa": true
+ },
+ "R07255": {
+  "s2id": "411f406a2921752a1a30370cc8a628e5c9d55ef0",
+  "arxiv": null,
+  "s2_pdf": "https://www.sciencedirect.com/science/article/pii/S2589721726000942/pdf",
+  "s2_oa": true
+ },
+ "R07321": {
+  "s2id": "5eef14107a787da7f02a99b918f0f4aae68d7f6d",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07372": {
+  "s2id": "f7963f3d7ec75a74bdc583866c5cc6e695f796c1",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102535",
+  "s2_oa": true
+ },
+ "R07395": {
+  "s2id": "dada903c8953f9506bd482ec533fbefabb5b0254",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.22266/ijies2026.0831.70",
+  "s2_oa": true
+ },
+ "R07405": {
+  "s2id": "f16f175089824d6063b2e660fba72b6254ea6609",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.aiia.2026.07.011",
+  "s2_oa": true
+ },
+ "R07411": {
+  "s2id": "2c477f1d20f1ec7048ebb0bf6a90fdf7640c36f2",
+  "arxiv": null,
+  "s2_pdf": "",
+  "s2_oa": false
+ },
+ "R07437": {
+  "s2id": "d47db33fa34a2eb9d882eaad0684fc270cef7dc4",
+  "arxiv": null,
+  "s2_pdf": "https://doi.org/10.1016/j.atech.2026.102560",
+  "s2_oa": true
+ }
+}

@@ -1,0 +1,8 @@
+analysis,studies,median,Q1,Q3,CI_lo,CI_hi
+all studies (primary),187,0.850,0.613,0.955,0.768,0.888
+excluding high concern on Q1 or Q2,182,0.849,0.617,0.955,0.767,0.888
+peer-reviewed only (excluding preprints),165,0.875,0.646,0.961,0.791,0.898
+excluding derived values,164,0.846,0.614,0.949,0.762,0.887
+full text only (excluding abstract-only),152,0.826,0.614,0.949,0.754,0.885
+OOD test >= 100 samples (Q3 low),90,0.860,0.682,0.953,0.756,0.894
+accuracy-type metrics only,90,0.890,0.678,0.970,0.836,0.934

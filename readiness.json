@@ -1,0 +1,83 @@
+{
+ "paper": "distribution-shift-agri-ml-review",
+ "venue": "technology-in-society",
+ "date": "2026-10-02",
+ "gates": {
+  "G-CITE": {
+   "status": "pass",
+   "note": "make cites on 2026-10-02 with live network: 286 bibliography entries, 280 VERIFIED and 6 RESOLVED (documented database quirks: short Crossref title, preprint vs proceedings year, swapped name order), 0 MISMATCH, 0 UNVERIFIED. All 284 cited keys resolve; no work is cited under two keys. Layer 3 (claim support) checked on 2026-10-02 for all 30 citing sentences in the prose: study-specific numbers against the extraction data and decisions, the three closest reviews against their full texts (third: abstract), and specific background claims against abstracts (Ploton 2020, Khraisha 2024, Ben-David 2010). Two overstatements fixed in the Introduction (primary studies 'report the gap' -> 'test models out of distribution', since some report no ID baseline; R06651 'recommends reporting the drop' -> 'asks for explicit OOD scores'). Five framing sources added 2026-10-02 (Galaz et al. 2021 in Technology in Society; Ryan 2022; Rose & Chilvers 2018; Mitchell et al. 2019; Gebru et al. 2021), each checked against its full text with page locations logged in LEDGER.md; make cites: 291 entries, 285 verified, 6 resolved, PASS."
+  },
+  "G-CLAIM": {
+   "status": "pass",
+   "note": "All result numbers are rendered from review/analysis/results.json. After the final re-run (254 studies, 1,268 comparisons) the interpretive sentences were re-checked: the shift ordering wording was corrected (sensor 0.77 now ranks above compound 0.73), 'about four-fifths' replaced by the templated median (0.85), and the location-vs-time sign test printed to three decimals so that p = 0.013 is not misread as passing the Bonferroni threshold 0.0125."
+  },
+  "G-VENUE": {
+   "status": "not_run",
+   "note": "Technology in Society format checks all pass (manuscript/build/tis_checks.json: double-anonymized file set, APA 7, abstract 248/250 words, 7/7 keywords, 5 highlights <= 85 characters, Elsevier AI-declaration heading, no identifying text or metadata). The technology-society framing that the scope requires was added on 2026-10-02 (Introduction paragraph; Discussion section 'Implications for adoption and governance'). Not passed until the authors re-read the live Guide for Authors, which returned HTTP 403 to automated access."
+  },
+  "G-ETHICS": {
+   "status": "pass",
+   "note": "Secondary analysis of published studies; no human subjects or restricted data."
+  },
+  "G-INTEGRITY": {
+   "status": "pass",
+   "note": "AI assistance disclosed. No fabricated values: every manuscript number is generated from results.json. Values read from figures are flagged 'derived' in the extraction, with the calibration method and checks against text-reported values recorded per row; a sensitivity analysis excludes derived values (median 0.846 vs 0.850). Login credentials supplied in chat were not used; paywalled papers were not accessed through them. The authors' own attestation is still pending (G-TOKEN)."
+  },
+  "G-TOKEN": {
+   "status": "fail",
+   "note": "6 [AUTHOR DECISION] tokens remain: affiliations/ORCID/corresponding author, AI-use attestation, archive DOI for the data, funding, competing interests, CRediT. No [TBD], [NEEDS SOURCE], [NEEDS EXPERIMENT] or [VERIFY] tokens."
+  }
+ },
+ "dimensions": {
+  "contribution": {
+   "score": 7,
+   "evidence": "Technical contribution (first quantitative synthesis of OOD loss across six crop tasks) now tied to a technology-society argument: who acts on the retention estimates (developers and vendors, advisers and extension services, funders, editors) and how this relates to systemic risk, trust and responsible innovation in agricultural AI.",
+   "fix": "The core remains an ML evidence synthesis; a Technology in Society reviewer may still ask for deeper engagement with adoption or governance evidence."
+  },
+  "claim_evidence": {
+   "score": 8,
+   "evidence": "LEDGER.md maps claims to tables and figures; subgroup n shown with every subgroup claim; post hoc tests labelled with unadjusted p and a Bonferroni caveat; claims re-checked after the final synthesis.",
+   "fix": "None blocking."
+  },
+  "methodological_soundness": {
+   "score": 5,
+   "evidence": "Citation chasing (backward and forward, 177 seeds, 11,459 new records, 30 studies added) and a fourth full-text retrieval pass were completed; figure-only studies were digitised with calibration checks. The main weakness is unchanged: one LLM-assisted screener and extractor with no completed human verification (human_check/ workbooks are prepared but not filled), and full text for 405 of 770 database studies (53%).",
+   "fix": "Both authors complete human_check/screening_check_*.xlsx and extraction_check_*.xlsx; run scripts/human_check_stats.py; report kappa and extraction agreement in Section 2.4 and resolve disagreements."
+  },
+  "experimental_completeness": {
+   "score": 6,
+   "evidence": "RQ1 and RQ3 answered; sensitivity analyses in Table 5; 20 figure-only studies digitised or transcribed this round and 4 reclassified as ineligible on inspection, leaving 34 FIG studies whose figures sit behind publisher access controls (mostly IEEE, Taylor & Francis) or are unreadable. RQ2 label-cost part remains unanswerable (2 studies).",
+   "fix": "Retrieve the remaining FIG papers through the authors' library (RETRIEVAL_LIST.csv) and digitise them with the same scripts."
+  },
+  "related_work": {
+   "score": 7,
+   "evidence": "Positions the review against ML and agricultural-AI reviews and now against technology-and-society work on agricultural AI (systemic risk, ethics and trust, responsible innovation) and AI documentation practice, including one Technology in Society article; all five sources read in full.",
+   "fix": "Read R07003 in full; consider one or two adoption studies of digital agriculture once full texts are available."
+  },
+  "writing_clarity": {
+   "score": 8,
+   "evidence": "Humanizer (research-pro S7) checks pass: 0 banned phrases, sentence-length SD 12.3, 13.8% of paragraphs without a short sentence (target <= 25%), 0% transition openers, 0 hedge stacks, 0 empty topic sentences; Introduction and Discussion reverse-outline cleanly; British spelling consistent; APA numeral rule applied. Passive voice 40/100 sentences, concentrated in Methods.",
+   "fix": "Authors read aloud once (check 9 of S7)."
+  },
+  "figures_tables": {
+   "score": 8,
+   "evidence": "Fig. 1-5 regenerated from data; PRISMA arithmetic verified box by box (405 = 199 + 31 + 175; 197 = 6 + 89 + 102; 254 = 175 + 49 + 30); Tables 1-5 and C1 generated by make_tables.py.",
+   "fix": "None blocking."
+  },
+  "citation_integrity": {
+   "score": 10,
+   "evidence": "286/286 entries verified or resolved; all cited keys resolve with no duplicates; every citing sentence in the prose checked for support and two overstatements corrected (readiness G-CITE note).",
+   "fix": "None blocking."
+  },
+  "reproducibility": {
+   "score": 8,
+   "evidence": "Search exports, screening and extraction decisions (with a reassessment log), appraisal, analysis and build scripts in the repository; fixed bootstrap seed; every number rendered from results.json; digitisation scripts and calibration notes recorded per value. 2026-10-12: data-and-code archive built (make archive; 160 files, no full texts) with .zenodo.json, CITATION.cff and requirements.txt; rebuilt from the archive in a clean directory, results.json, counts.json, every analysis and generated table and every PNG figure were byte-identical (LEDGER.md, Data archive).",
+   "fix": "Upload the archive and insert its DOI; remove tracked full texts (copyright) before making the repository public."
+  },
+  "venue_compliance": {
+   "score": 7,
+   "evidence": "Technology in Society format met (tis_checks.json all PASS) and scope framing added. Outstanding: 9 author items (8 on the title page plus AI-statement confirmation), live guide re-read, cover letter.",
+   "fix": "Complete the title page and declarations, re-read the live guide, write the cover letter."
+  }
+ }
+}

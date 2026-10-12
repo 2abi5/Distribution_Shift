@@ -1,0 +1,73 @@
+python3 /Users/abinashpant/Desktop/abinash_research/skills/research-pro/scripts/score_readiness.py readiness.json --venue technology-in-society --registry venue_registry.json
+# Readiness — distribution-shift-agri-ml-review → Technology in Society (Elsevier), Review article rolling · 2026-10-02
+
+## Verdict: NOT READY (gated)
+Score 73.0/100 (band: BORDERLINE — Likely major revision or weak reject. Fix the two lowest dimensions.)
+A hard gate has failed or has not been run. The score is reported, but it is not the verdict.
+
+## Gates
+
+  [PASS   ] G-CITE       Every reference verified; no unresolved MISMATCH
+  [PASS   ] G-CLAIM      Every abstract/introduction claim has supporting evidence
+  [NOT RUN] G-VENUE      No live desk-reject trigger (length, required sections, anonymity, template)
+              -> Technology in Society format checks all pass (manuscript/build/tis_checks.json: double-anonymized file set, APA 7, abstract 248/250 words, 7/7 keywords, 5 highlights <= 85 characters, Elsevier AI-declaration heading, no identifying text or metadata). The technology-society framing that the scope requires was added on 2026-10-02 (Introduction paragraph; Discussion section 'Implications for adoption and governance'). Not passed until the authors re-read the live Guide for Authors, which returned HTTP 403 to automated access.
+  [PASS   ] G-ETHICS     Ethics/IRB approval in place where human subjects or restricted data apply
+  [PASS   ] G-INTEGRITY  No fabricated result, no undisclosed AI use, no prompt injection, no undeclared dual submission
+  [FAIL   ] G-TOKEN      No [NEEDS SOURCE] / [TBD] / [NEEDS EXPERIMENT] / [VERIFY] tokens remain
+              -> 6 [AUTHOR DECISION] tokens remain: affiliations/ORCID/corresponding author, AI-use attestation, archive DOI for the data, funding, competing interests, CRediT. No [TBD], [NEEDS SOURCE], [NEEDS EXPERIMENT] or [VERIFY] tokens.
+
+## Dimensions (weakest first)
+
+  dimension                             score  weight    lost
+  Methodological soundness               5.0    10.4     5.2
+  Contribution clarity and weight        7.0    15.7     4.7
+  Experimental completeness              6.0    10.4     4.2
+  Related work and positioning           7.0    10.4     3.1
+  Claim-evidence integrity               8.0    13.9     2.8
+  Writing clarity and prose quality      8.0    13.0     2.6
+  Venue compliance, ethics, disclosure   7.0     5.2     1.6
+  Figures and tables                     8.0     7.0     1.4
+  Reproducibility                        8.0     7.0     1.4
+  Citation integrity                    10.0     7.0     0.0
+
+## Where the points went
+
+  - **Methodological soundness** 5.0/10 (-5.2)
+      evidence: Citation chasing (backward and forward, 177 seeds, 11,459 new records, 30 studies added) and a fourth full-text retrieval pass were completed; figure-only studi
+      fix:      Both authors complete human_check/screening_check_*.xlsx and extraction_check_*.xlsx; run scripts/human_check_stats.py; report kappa and extraction agreement in
+  - **Contribution clarity and weight** 7.0/10 (-4.7)
+      evidence: Technical contribution (first quantitative synthesis of OOD loss across six crop tasks) now tied to a technology-society argument: who acts on the retention est
+      fix:      The core remains an ML evidence synthesis; a Technology in Society reviewer may still ask for deeper engagement with adoption or governance evidence.
+  - **Experimental completeness** 6.0/10 (-4.2)
+      evidence: RQ1 and RQ3 answered; sensitivity analyses in Table 5; 20 figure-only studies digitised or transcribed this round and 4 reclassified as ineligible on inspection
+      fix:      Retrieve the remaining FIG papers through the authors' library (RETRIEVAL_LIST.csv) and digitise them with the same scripts.
+  - **Related work and positioning** 7.0/10 (-3.1)
+      evidence: Positions the review against ML and agricultural-AI reviews and now against technology-and-society work on agricultural AI (systemic risk, ethics and trust, res
+      fix:      Read R07003 in full; consider one or two adoption studies of digital agriculture once full texts are available.
+  - **Claim-evidence integrity** 8.0/10 (-2.8)
+      evidence: LEDGER.md maps claims to tables and figures; subgroup n shown with every subgroup claim; post hoc tests labelled with unadjusted p and a Bonferroni caveat; clai
+      fix:      None blocking.
+  - **Writing clarity and prose quality** 8.0/10 (-2.6)
+      evidence: Humanizer (research-pro S7) checks pass: 0 banned phrases, sentence-length SD 12.3, 13.8% of paragraphs without a short sentence (target <= 25%), 0% transition 
+      fix:      Authors read aloud once (check 9 of S7).
+  - **Venue compliance, ethics, disclosure** 7.0/10 (-1.6)
+      evidence: Technology in Society format met (tis_checks.json all PASS) and scope framing added. Outstanding: 9 author items (8 on the title page plus AI-statement confirma
+      fix:      Complete the title page and declarations, re-read the live guide, write the cover letter.
+  - **Figures and tables** 8.0/10 (-1.4)
+      evidence: Fig. 1-5 regenerated from data; PRISMA arithmetic verified box by box (405 = 199 + 31 + 175; 197 = 6 + 89 + 102; 254 = 175 + 49 + 30); Tables 1-5 and C1 generat
+      fix:      None blocking.
+  - **Reproducibility** 8.0/10 (-1.4)
+      evidence: Search exports, screening and extraction decisions (with a reassessment log), appraisal, analysis and build scripts in the repository; fixed bootstrap seed; eve
+      fix:      Archive a release with a DOI; remove tracked full texts (copyright) before making the repository public.
+
+## Weighting
+
+  Technology in Society (Elsevier), Review article rolling emphasises: contribution, related_work, writing_clarity
+  Those dimensions carry 1.5x their default weight here.
+
+## Before you submit
+
+  Blocking gates: G-TOKEN
+  Gates not yet run: G-VENUE
+  A gate that has not been run is not passed.
+make: *** [score] Error 1

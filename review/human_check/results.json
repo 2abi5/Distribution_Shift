@@ -1,0 +1,90 @@
+{
+ "screening": {
+  "abinash": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null
+  },
+  "binayak": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null
+  }
+ },
+ "full_text": {
+  "abinash": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null,
+   "kappa_exact_category": null
+  },
+  "binayak": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null,
+   "kappa_exact_category": null
+  }
+ },
+ "extraction": {
+  "abinash": {
+   "n": 0,
+   "of": 254,
+   "both_values_match": null,
+   "discrepancies": []
+  },
+  "binayak": {
+   "n": 0,
+   "of": 254,
+   "both_values_match": null,
+   "discrepancies": []
+  }
+ },
+ "between_reviewers": {
+  "title_abstract": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null
+  },
+  "full_text": {
+   "n": 0,
+   "agreement": null,
+   "kappa": null,
+   "kappa_ci": [
+    null,
+    null
+   ],
+   "human_positive": 0,
+   "llm_sensitivity": null
+  }
+ }
+}

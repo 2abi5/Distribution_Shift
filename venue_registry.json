@@ -1,0 +1,532 @@
+{
+ "schema_version": "1.0",
+ "verified_on": "2026-09-30",
+ "warning": "Venue rules change every cycle. These are dated snapshots. Re-read the live call for papers before signing off on compliance - see VERIFY.md.",
+ "venues": {
+  "neurips": {
+   "name": "NeurIPS",
+   "cycle": "2026",
+   "family": "ml-conference",
+   "urls": {
+    "cfp": "https://neurips.cc/Conferences/2026/CallForPapers",
+    "handbook": "https://neurips.cc/Conferences/2026/MainTrackHandbook"
+   },
+   "length": {
+    "main_pages": 9,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "acknowledgements",
+     "references",
+     "checklist",
+     "technical appendices"
+    ],
+    "enforcement": "hard",
+    "consequence": "not reviewed"
+   },
+   "anonymity": "double-blind",
+   "required_artifacts": [
+    {
+     "name": "NeurIPS Paper Checklist",
+     "placement": "after references and after any supplemental material",
+     "counts_toward_limit": false,
+     "enforcement": "hard",
+     "consequence": "desk reject"
+    }
+   ],
+   "required_sections": [],
+   "ai_policy": {
+    "llm_assistance": "allowed",
+    "authors_fully_responsible": true,
+    "llm_as_author": "prohibited",
+    "disclosure": "required for methodologically significant or non-standard use of LLMs/agents",
+    "notes": [
+     "The Position Paper Track has a different LLM policy from the main program."
+    ]
+   },
+   "desk_reject_triggers": [
+    "over page limit",
+    "missing paper checklist",
+    "deanonymized"
+   ],
+   "emphasis": [
+    "claim_evidence",
+    "experimental_completeness",
+    "reproducibility",
+    "venue_compliance"
+   ]
+  },
+  "icml": {
+   "name": "ICML",
+   "cycle": "2026",
+   "family": "ml-conference",
+   "urls": {
+    "author_instructions": "https://icml.cc/Conferences/2026/AuthorInstructions",
+    "cfp": "https://icml.cc/Conferences/2026/CallForPapers",
+    "llm_policy": "https://icml.cc/Conferences/2026/LLM-Policy"
+   },
+   "length": {
+    "main_pages": 8,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "references",
+     "impact statement",
+     "appendices"
+    ],
+    "enforcement": "hard",
+    "consequence": "automatic rejection"
+   },
+   "anonymity": "double-blind",
+   "required_artifacts": [],
+   "required_sections": [
+    {
+     "name": "Impact statement",
+     "placement": "separate section at end, with acknowledgements, before references",
+     "counts_toward_limit": false,
+     "enforcement": "required",
+     "content": "potential broader impact including ethical aspects and future societal consequences"
+    }
+   ],
+   "ai_policy": {
+    "llm_assistance": "allowed",
+    "authors_fully_responsible": true,
+    "llm_as_author": "prohibited",
+    "llm_credited": "prohibited",
+    "prompt_injection": "prohibited - submission rejected",
+    "disclosure": "expected; reviewers must declare their LLM-use policy stance",
+    "notes": [
+     "In the 2026 cycle ICML desk-rejected 497 submissions over LLM review-policy violations by reciprocal reviewers."
+    ]
+   },
+   "desk_reject_triggers": [
+    "main body over 8 pages",
+    "prompt injection in submission",
+    "deanonymized",
+    "non-anonymous code links"
+   ],
+   "artifact_policy": {
+    "code": "encouraged, must be anonymized or submitted directly; considered in decisions"
+   },
+   "emphasis": [
+    "claim_evidence",
+    "reproducibility",
+    "methodological_soundness",
+    "venue_compliance"
+   ]
+  },
+  "iclr": {
+   "name": "ICLR",
+   "cycle": "2026",
+   "family": "ml-conference",
+   "urls": {
+    "author_guide": "https://iclr.cc/Conferences/2026/AuthorGuide",
+    "reviewer_guide": "https://iclr.cc/Conferences/2026/ReviewerGuide",
+    "llm_policy": "https://iclr.cc/FAQ/LLM"
+   },
+   "length": {
+    "main_pages": 9,
+    "camera_ready_pages": 10,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "references",
+     "appendices"
+    ],
+    "enforcement": "hard",
+    "notes": "9 pages at submission; raised to 10 for the discussion/rebuttal phase and camera ready."
+   },
+   "anonymity": "double-blind",
+   "required_artifacts": [],
+   "required_sections": [],
+   "ai_policy": {
+    "llm_assistance": "allowed",
+    "authors_fully_responsible": true,
+    "disclosure": "required for any significant LLM use in research ideation or writing",
+    "enforcement": "reviewers who find undisclosed LLM use notify the area chair; LLM-generated papers have been desk rejected",
+    "reviewer_disclosure": "mandatory, with a field on the review form"
+   },
+   "desk_reject_triggers": [
+    "over page limit",
+    "undisclosed significant LLM use",
+    "LLM-generated submission",
+    "deanonymized"
+   ],
+   "emphasis": [
+    "claim_evidence",
+    "writing_clarity",
+    "reproducibility",
+    "disclosure"
+   ]
+  },
+  "cvpr": {
+   "name": "CVPR",
+   "cycle": "2026",
+   "family": "cv-conference",
+   "urls": {
+    "author_guidelines": "https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines",
+    "cfp": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+    "author_kit": "https://github.com/cvpr-org/author-kit"
+   },
+   "length": {
+    "main_pages": 8,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "references"
+    ],
+    "enforcement": "hard",
+    "consequence": "rejected without review"
+   },
+   "anonymity": "double-blind",
+   "required_artifacts": [],
+   "required_sections": [],
+   "dual_submission": {
+    "overlap_threshold_percent": 20,
+    "review_period": "2025-11-13 to 2026-02-20",
+    "consequence": "rejection, and reported to the other venue"
+   },
+   "ai_policy": {
+    "llm_assistance": "check the live policy page",
+    "authors_fully_responsible": true,
+    "notes": [
+     "CVPR's LLM policy has changed between cycles - re-verify before submitting."
+    ]
+   },
+   "desk_reject_triggers": [
+    "over 8 pages excluding references",
+    "not anonymized",
+    "not using the official template",
+    "dual submission"
+   ],
+   "emphasis": [
+    "experimental_completeness",
+    "figures_tables",
+    "claim_evidence",
+    "venue_compliance"
+   ]
+  },
+  "acl-arr": {
+   "name": "ACL Rolling Review (ACL / EMNLP / NAACL / EACL)",
+   "cycle": "2026",
+   "family": "nlp-conference",
+   "urls": {
+    "authors": "https://aclrollingreview.org/authors",
+    "cfp": "https://aclrollingreview.org/cfp",
+    "checklist": "https://aclrollingreview.org/responsibleNLPresearch/"
+   },
+   "length": {
+    "main_pages": 8,
+    "short_paper_pages": 4,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "limitations",
+     "ethics statement",
+     "references",
+     "appendices"
+    ],
+    "enforcement": "hard"
+   },
+   "anonymity": "double-blind",
+   "required_sections": [
+    {
+     "name": "Limitations",
+     "placement": "after conclusion, before references",
+     "counts_toward_limit": false,
+     "enforcement": "hard",
+     "consequence": "desk reject"
+    },
+    {
+     "name": "Ethics statement",
+     "placement": "after limitations",
+     "enforcement": "optional"
+    }
+   ],
+   "required_artifacts": [
+    {
+     "name": "Responsible NLP Research checklist",
+     "placement": "submitted with the paper",
+     "enforcement": "hard",
+     "consequence": "desk reject"
+    }
+   ],
+   "ai_policy": {
+    "llm_assistance": "allowed",
+    "authors_fully_responsible": true,
+    "disclosure": "required - AI tool use for writing or coding must be disclosed in the Responsible NLP checklist"
+   },
+   "desk_reject_triggers": [
+    "missing limitations section",
+    "missing responsible NLP checklist",
+    "over page limit",
+    "not anonymized"
+   ],
+   "emphasis": [
+    "claim_evidence",
+    "writing_clarity",
+    "reproducibility",
+    "disclosure",
+    "venue_compliance"
+   ]
+  },
+  "aaai": {
+   "name": "AAAI",
+   "cycle": "2026",
+   "family": "ai-conference",
+   "urls": {
+    "submission_instructions": "https://aaai.org/conference/aaai/aaai-26/submission-instructions/",
+    "policies": "https://aaai.org/conference/aaai/aaai-26/policies-for-aaai-26-authors/"
+   },
+   "length": {
+    "main_pages": 7,
+    "unit": "pages",
+    "figures_count_toward_limit": true,
+    "excluded_from_limit": [
+     "references",
+     "reproducibility checklist"
+    ],
+    "enforcement": "hard"
+   },
+   "anonymity": "double-blind",
+   "required_artifacts": [
+    {
+     "name": "AAAI Reproducibility Checklist",
+     "placement": "in the PDF after the references",
+     "counts_toward_limit": false,
+     "enforcement": "hard"
+    }
+   ],
+   "required_sections": [],
+   "submission_process": {
+    "two_stage": true,
+    "note": "A separate abstract submission precedes the full paper deadline by about a week. Missing the abstract deadline forfeits the submission.",
+    "per_author_submission_cap": 10
+   },
+   "ai_policy": {
+    "authors_fully_responsible": true,
+    "disclosure": "check the live policy page"
+   },
+   "desk_reject_triggers": [
+    "over 7 pages of technical content",
+    "missing reproducibility checklist",
+    "no abstract submitted by the abstract deadline",
+    "acknowledgements present during review"
+   ],
+   "emphasis": [
+    "reproducibility",
+    "claim_evidence",
+    "experimental_completeness"
+   ]
+  },
+  "tmlr": {
+   "name": "Transactions on Machine Learning Research",
+   "cycle": "rolling",
+   "family": "ml-journal",
+   "urls": {
+    "acceptance_criteria": "https://jmlr.org/tmlr/acceptance-criteria.html",
+    "editorial_policies": "https://jmlr.org/tmlr/editorial-policies.html"
+   },
+   "length": {
+    "main_pages": null,
+    "unit": "pages",
+    "enforcement": "none",
+    "notes": "No page limit. Length must still be justified by content."
+   },
+   "anonymity": "single-blind-ish (authors may be revealed; check current policy)",
+   "required_sections": [],
+   "required_artifacts": [],
+   "acceptance_criteria": [
+    "Are the claims supported by accurate and convincing evidence? (the primary criterion)",
+    "Would some individuals in TMLR's audience be interested in the findings?"
+   ],
+   "notes": [
+    "TMLR explicitly does NOT require novelty or broad significance - a well-evidenced negative or incremental result is acceptable.",
+    "Clear writing is an explicit part of the acceptance criteria.",
+    "Any gap between claims and evidence must be closed by adding evidence or by weakening the claim, even if that reduces the work's apparent impact."
+   ],
+   "emphasis": [
+    "claim_evidence",
+    "writing_clarity",
+    "reproducibility"
+   ]
+  },
+  "tpami": {
+   "name": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+   "cycle": "rolling",
+   "family": "ieee-journal",
+   "urls": {
+    "author_info": "https://www.computer.org/csdl/journal/tp"
+   },
+   "length": {
+    "main_pages": 14,
+    "unit": "double-column pages",
+    "includes": [
+     "references",
+     "author biographies"
+    ],
+    "chargeable_limit": 12,
+    "overlength_charge_usd_per_page": 220,
+    "enforcement": "soft-with-charges",
+    "notes": "Roughly 14 double-column pages for a Regular Paper including references and biographies; mandatory overlength charges apply beyond the chargeable limit, assessed after final layout. Verify current figures with the journal."
+   },
+   "anonymity": "single-blind",
+   "required_sections": [],
+   "required_artifacts": [],
+   "notes": [
+    "Journal review expects substantially more depth than a conference paper - fuller related work, more thorough experiments, and often a theoretical treatment.",
+    "Extensions of a prior conference paper must state the delta explicitly and typically need ~30% new material. Verify the current threshold."
+   ],
+   "emphasis": [
+    "methodological_soundness",
+    "experimental_completeness",
+    "related_work",
+    "writing_clarity"
+   ]
+  },
+  "nature": {
+   "name": "Nature (Article)",
+   "cycle": "rolling",
+   "family": "general-science-journal",
+   "urls": {
+    "formatting_guide": "https://www.nature.com/nature/for-authors/formatting-guide",
+    "initial_submission": "https://www.nature.com/nature/for-authors/initial-submission"
+   },
+   "length": {
+    "main_words": 2500,
+    "unit": "words",
+    "notes": "~2500 words total (summary paragraph plus body) for a 6-page Article with 4 modest display items; ~4300 words for an 8-page Article with 5-6 display items."
+   },
+   "abstract": {
+    "name": "summary paragraph",
+    "max_words": 200,
+    "constraints": [
+     "fully referenced",
+     "separate from the main text",
+     "avoid numbers, abbreviations, acronyms and measurements unless essential"
+    ]
+   },
+   "references": {
+    "guideline_max": 50
+   },
+   "anonymity": "single-blind (double-blind available on request)",
+   "required_artifacts": [
+    {
+     "name": "Reporting summary",
+     "applies_to": "life sciences and behavioural & social sciences research",
+     "enforcement": "required"
+    }
+   ],
+   "required_sections": [
+    {
+     "name": "Data availability",
+     "enforcement": "required"
+    },
+    {
+     "name": "Code availability",
+     "enforcement": "required where code is central"
+    }
+   ],
+   "notes": [
+    "Initial submissions are format-flexible - style and length will not, within reason, influence consideration. Format strictly at revision.",
+    "Each Nature-family journal differs; check the specific journal's guide."
+   ],
+   "emphasis": [
+    "writing_clarity",
+    "claim_evidence",
+    "figures_tables",
+    "reproducibility"
+   ]
+  },
+  "technology-in-society": {
+   "name": "Technology in Society (Elsevier), Review article",
+   "cycle": "rolling",
+   "family": "elsevier-social-science-journal",
+   "urls": {
+    "guide_for_authors": "https://www.sciencedirect.com/journal/technology-in-society/publish/guide-for-authors",
+    "journal": "https://www.sciencedirect.com/journal/technology-in-society"
+   },
+   "length": {
+    "main_pages": null,
+    "unit": "words",
+    "notes": "No word or page limit found for review articles."
+   },
+   "abstract": {
+    "name": "abstract",
+    "max_words": 250,
+    "constraints": [
+     "concise and factual",
+     "avoid references; if essential cite author(s) and year(s)"
+    ]
+   },
+   "keywords": {
+    "min": 1,
+    "max": 7
+   },
+   "highlights": {
+    "min": 3,
+    "max": 5,
+    "max_chars": 85,
+    "separate_file": true
+   },
+   "references": {
+    "style": "APA 7th edition"
+   },
+   "anonymity": "double-anonymized: title page (with author details) and anonymized manuscript as separate files",
+   "required_artifacts": [
+    {
+     "name": "Title page with author details",
+     "enforcement": "required"
+    },
+    {
+     "name": "Anonymized manuscript",
+     "enforcement": "required"
+    },
+    {
+     "name": "Highlights file",
+     "enforcement": "required"
+    },
+    {
+     "name": "Declaration of competing interest",
+     "enforcement": "required"
+    },
+    {
+     "name": "CRediT author statement",
+     "enforcement": "required"
+    }
+   ],
+   "required_sections": [
+    {
+     "name": "Declaration of generative AI and AI-assisted technologies in the writing process",
+     "enforcement": "required when AI was used"
+    },
+    {
+     "name": "Data availability",
+     "enforcement": "required"
+    }
+   ],
+   "scope": "Technological change at the intersection of social, economic, business and digital transformation; how technologies influence socio-cultural structures, economic systems, governance and organisational practice.",
+   "notes": [
+    "Verified 2026-10-02 from search-engine extracts of the official Guide for Authors; the guide itself returned HTTP 403 to automated access, so re-read it live before submission (venues/VERIFY.md).",
+    "Emphasis set to contribution, related_work and writing_clarity because the journal judges papers on their technology-society contribution, their place in that literature, and clarity for an interdisciplinary readership."
+   ],
+   "emphasis": [
+    "contribution",
+    "related_work",
+    "writing_clarity"
+   ]
+  }
+ },
+ "dimension_weights_default": {
+  "contribution": 12,
+  "claim_evidence": 16,
+  "methodological_soundness": 12,
+  "experimental_completeness": 12,
+  "related_work": 8,
+  "writing_clarity": 10,
+  "figures_tables": 8,
+  "citation_integrity": 8,
+  "reproducibility": 8,
+  "venue_compliance": 6
+ }
+}

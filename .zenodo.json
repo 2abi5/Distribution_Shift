@@ -1,0 +1,11 @@
+{
+ "title": "Data and code for: How much performance do agricultural machine-learning models lose out of distribution? A systematic review and quantitative synthesis",
+ "upload_type": "dataset",
+ "description": "Protocol with dated deviation log, search exports (OpenAlex, Semantic Scholar, citation chasing), deduplicated candidate pool, title/abstract and full-text screening decisions, extraction tables (one row per in-distribution/out-of-distribution comparison, appraisal, reassessment log), retrieval list, blind second-reviewer workbooks, analysis script (retention, gap, gap recovered, cluster bootstrap, within-study contrasts), the results file that every number in the paper is rendered from, figure and table generators, and the manuscript template and build scripts for the systematic review. Full texts of the included studies are not redistributed.",
+ "creators": [{"name": "Pant, Abinash"}, {"name": "Mishra, Binayak Prakash"}],
+ "access_right": "open",
+ "license": "CC-BY-4.0",
+ "keywords": ["distribution shift", "domain adaptation", "out-of-distribution generalisation", "deep learning", "precision agriculture", "systematic review", "digital agriculture"],
+ "version": "v1.1",
+ "language": "eng"
+}

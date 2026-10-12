@@ -1,0 +1,8 @@
+# Python packages used by review/scripts, manuscript/make_tables.py, figures/make_prisma.py and manuscript/build.py
+# (versions used for v1.1, 2026-10-12; Python 3.10.11)
+numpy==2.0.0
+matplotlib==3.10.9
+pypandoc==1.17
+python-docx==1.2.0
+openpyxl==3.1.5
+# also needed: pandoc 3.9 (pypandoc.get_pandoc_path), and Google Chrome or Chromium for the PDFs
